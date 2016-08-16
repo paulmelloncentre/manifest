@@ -1,4 +1,3 @@
-	"headers": [{"content-type": "application/json"}];
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": “https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
