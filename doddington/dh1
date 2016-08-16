@@ -44,4 +44,70 @@
 			"value": "<p>Sir Francis Hussey Delaval (1727–1771), eldest son of Captain Francis Blake Delaval and Rhoda Apreece. Francis Delaval appears to be around fifteen years old, suggesting that the portrait was made during the early 1740s. The central portion of the figure has been sewn into a larger full-length canvas, suggesting perhaps that the portrait is the work of two artists. Given that Francis Delaval’s sister, Rhoda Delaval, was at that time learning to paint under the tuition of Arthur Pond, and that the enlarged portion of the canvas, including the boy’s arms, lower body and the greyhound, is arguably more sophisticated than the head and shoulders, it may be worth speculating on the possibility that Pond painted the surrounding area while Rhoda Delaval supplied the portrait head.</p>"
 		}
 ],
+"sequences": [
+		{
+			"@id": "http://manifests.britishart.yale.edu/sequence/5084",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@id": "http://manifests.britishart.yale.edu/canvas/ba-obj-5084-0001-pub",
+					"@type": "sc:Canvas",
+					"height": 5105,
+					"images": [
+						{
+							"@id": "http://manifests.britishart.yale.edu/annotation/ba-obj-5084-0001-pub",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "http://manifests.britishart.yale.edu/canvas/ba-obj-5084-0001-pub",
+							"resource": {
+								"@id": "http://scale.ydc2.yale.edu/iiif/0e6b9d3a-64c4-49d7-808f-50034e6d0f1d/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 5105,
+								"label": "recto",
+								"service": {
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "http://scale.ydc2.yale.edu/iiif/0e6b9d3a-64c4-49d7-808f-50034e6d0f1d/",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+								},
+								"width": 3328
+							}
+						}
+					],
+					"label": "recto",
+					"width": 3328
+				},
+				{
+					"@id": "http://manifests.britishart.yale.edu/canvas/ba-obj-5084-0001-bar",
+					"@type": "sc:Canvas",
+					"height": 6464,
+					"images": [
+						{
+							"@id": "http://manifests.britishart.yale.edu/annotation/ba-obj-5084-0001-bar",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "http://manifests.britishart.yale.edu/canvas/ba-obj-5084-0001-bar",
+							"resource": {
+								"@id": "http://scale.ydc2.yale.edu/iiif/f9dc5ec9-a302-4830-be48-27003f18727d/full/full/0/native.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 6464,
+								"label": "recto",
+								"service": {
+									"@context": "http://iiif.io/api/image/1/context.json",
+									"@id": "http://scale.ydc2.yale.edu/iiif/f9dc5ec9-a302-4830-be48-27003f18727d/",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+								},
+								"width": 4980
+							}
+						}
+					],
+					"label": "recto",
+					"width": 4980
+				}
+			],
+			"label": "default sequence",
+			"viewingHint": "individuals"
+		}
+	]
 }
