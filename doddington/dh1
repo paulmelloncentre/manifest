@@ -1,6 +1,5 @@
 {
-	supportHeaderParams: true,
-	headers: { "Content-Type": "application/json; charset=UTF-8" },
+	"headers": [{"content-type": "application/json"}];
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": “https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
 	"@type": "sc:Manifest",
