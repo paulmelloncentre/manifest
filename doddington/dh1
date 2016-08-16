@@ -44,7 +44,22 @@
 			"value": "<p>Sir Francis Hussey Delaval (1727–1771), eldest son of Captain Francis Blake Delaval and Rhoda Apreece. Francis Delaval appears to be around fifteen years old, suggesting that the portrait was made during the early 1740s. The central portion of the figure has been sewn into a larger full-length canvas, suggesting perhaps that the portrait is the work of two artists. Given that Francis Delaval’s sister, Rhoda Delaval, was at that time learning to paint under the tuition of Arthur Pond, and that the enlarged portion of the canvas, including the boy’s arms, lower body and the greyhound, is arguably more sophisticated than the head and shoulders, it may be worth speculating on the possibility that Pond painted the surrounding area while Rhoda Delaval supplied the portrait head.</p>"
 		}
 ],
-"sequences": [
+"related": {
+		"@id": "http://collections.britishart.yale.edu/vufind/Record/1669319",
+		"format": "text/html",
+		"label": "catalog entry at the Yale Center for British Art"
+	},
+	"seeAlso": [
+		{
+			"@id": "http://collection.britishart.yale.edu/id/data/object/5084",
+			"format": "text/rdf+n3"
+		},
+		{
+			"@id": "http://manifests.britishart.yale.edu/xml/5084.xml",
+			"format": "text/xml"
+		}
+	],
+	"sequences": [
 		{
 			"@id": "http://manifests.britishart.yale.edu/sequence/5084",
 			"@type": "sc:Sequence",
