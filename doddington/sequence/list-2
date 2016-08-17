@@ -1,8 +1,8 @@
 {
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/sequence/list-2",
   "@type": "sc:Manifest",
-  "description": "Doddington Hall, Lincolnshire.",
-  "label": "Fine Art Collection, Doddington Hall, Lincolnshire.",
+  "description": "Images of the fine art collection at Doddington Hall, Lincolnshire.",
+  "label": "Doddington Hall, Lincolnshire.",
   "sequences": [
     {
       "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/sequence/s0",
