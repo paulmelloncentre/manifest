@@ -40,31 +40,94 @@
           ]
         },
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0",
-          "@type": "sc:Canvas",
-          "label": "DH 2.",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/full/249,400/0/default.jpg",
-          "height": 3485,
-          "width": 2171,
-          "images": [
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
+          "@type": "sc:Manifest",
+          "label": "Attributed to William Bell of Newcastle, <i>Susanna (née Robinson) Lady Delaval</i>, oil on canvas. Doddington Hall (DH 2. (house number 103))",
+          "description": "Canvas: 236 x 147 cm",
+          "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+          "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo.svg",
+          "metadata": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/imageanno/0",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05-0/res/0",
-                "@type": "dcTypes:Image",
-                "height": 3485,
-                "width": 2171,
-                "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05",
-                  "protocol": "http://iiif.io/api/image",
+              "label": "Creator(s)",
+              "value": "Attributed to William Bell of Newcastle"
+            },
+            {
+              "label": "Titles",
+              "value": "Susanna (née Robinson) Lady Delaval"
+            },
+            {
+              "label": "Date",
+              "value": "undated"
+            },
+            {
+              "label": "Medium",
+              "value": "Oil on canvas"
+            },
+            {
+              "label": "Dimensions",
+              "value": "Canvas: 236 x 147 cm"
+            },
+            {
+              "label": "Credit line",
+              "value": "Wroxton Trust"
+            },
+            {
+              "label": "Institution",
+              "value": "Doddington Hall"
+            },
+            {
+              "label": "Accession number",
+              "value": "DH 2. (house number 103)"
+            },
+            {
+              "label": "Comment",
+              "value": "<p>--- comment from Martin</p>"
+            }
+          ],
+          "seeAlso": [
+            {
+              "@id": "http://www.doddingtonhall.com/",
+              "format": "text/rdf+n3"
+            }
+          ],
+          "sequences": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/sequence/s0",
+              "@type": "sc:Canvas",
+              "label": "Sequence 0",
+              "viewingHint": "paged",
+              "canvases": [
+                {
+                  "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0",
+                  "@type": "sc:Canvas",
+                  "label": "Image",
+                  "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/full/249,400/0/default.jpg",
                   "height": 3485,
                   "width": 2171,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
+                  "images": [
+                    {
+                      "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/imageanno/0",
+                      "@type": "oa:Annotation",
+                      "motivation": "sc:painting",
+                      "resource": {
+                        "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05-0/res/0",
+                        "@type": "dcTypes:Image",
+                        "height": 3485,
+                        "width": 2171,
+                        "service": {
+                          "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05",
+                          "protocol": "http://iiif.io/api/image",
+                          "height": 3485,
+                          "width": 2171,
+                          "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                      },
+                      "on": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0"
+                    }
+                  ]
                 }
-              },
-              "on": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0"
+              ]
             }
           ]
         }
