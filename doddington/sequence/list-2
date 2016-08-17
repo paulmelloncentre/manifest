@@ -40,7 +40,6 @@
           ]
         },
         {
-          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
           "@type": "sc:Manifest",
           "label": "Attributed to William Bell of Newcastle, <i>Susanna (née Robinson) Lady Delaval</i>, oil on canvas. Doddington Hall (DH 2. (house number 103))",
