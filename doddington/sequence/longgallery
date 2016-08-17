@@ -18,7 +18,7 @@
       // ...
     },
     {
-      "@id": "http://example.org/iiif/book1/canvas/p2",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
       "@type": "sc:Canvas",
       "label": "DH 2."
       // ...
