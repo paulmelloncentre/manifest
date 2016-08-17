@@ -23,11 +23,10 @@
         {
           "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
           "@type": "sc:Manifest",
-          "label": "DH 2."
+          "label": "DH 2.",
           "viewingHint": "individuals"
         },
       ]
     }
-  ],
+  ]
 }
-
