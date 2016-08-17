@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/full",
   "@type": "sc:Collection",
-  "label": "Doddingtol Hall, Fine Art Collections",
+  "label": "Doddington Hall, Fine Art Collections",
   "viewingHint": "top",
   "description": "Works of art photographed by the Wroxton Trust in the collection at Doddington Hall, Lincolnshire.",
   "attribution": "Images courtest of the Wroxton Trust.",
