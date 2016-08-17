@@ -1,0 +1,82 @@
+{
+  "@id": "http://manifests.ydc2.yale.edu/manifest/BeineckeMS360",
+  "@type": "sc:Manifest",
+  "description": "Fine Art Collection, Doddington Hall, Lincolnshire.",
+  "label": "Fine Art Collection, Doddington Hall, Lincolnshire.",
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/full/271,400/0/default.jpg",
+          "height": 3371,
+          "width": 2284,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3371,
+                "width": 2284,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3371,
+                  "width": 2284,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/full/249,400/0/default.jpg",
+          "height": 3485,
+          "width": 2171,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3485,
+                "width": 2171,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3485,
+                  "width": 2171,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
