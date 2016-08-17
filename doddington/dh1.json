@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": “https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
 	"@type": "sc:Manifest",
 	"label": "Attributed to Arthur Pond and Rhoda Delaval, <i>Sir Francis Hussey Delaval</i>, oil on canvas, Doddington Hall (DH 1. (house number 102)",
 	"description": "Canvas: 214 x 145 cm, evidence face has been let-in to the larger canvas",
