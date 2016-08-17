@@ -6,35 +6,32 @@
   "viewingHint": "top",
   "description": "Fine Art Collection, Doddington Hall, Lincolnshire.",
   "attribution": "Images courtesy of the Wroxton Trust",
-
   "collections": [
     {
       "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/fineart",
       "@type": "sc:Collection",
       "label": "Fine Art",
-
-      "members": [  
+      "members": [
         {
           "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
           "@type": "sc:Manifest",
           "label": "DH 1.",
-          "viewingHint": "individuals"
+          "viewingHint": "multi-part"
         },
         {
           "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
           "@type": "sc:Manifest",
-          "label": "DH 2."
-          "viewingHint": "individuals"
-        },
+          "label": "DH 2.",
+          "viewingHint": "multi-part"
+        }
+      ],
+      "manifests": [
+        {
+          "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
+          "@type": "sc:Manifest",
+          "label": "DH 1."
+        }
       ]
-    },
-  ],
-
-  "manifests": [
-    {
-      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
-      "@type": "sc:Manifest",
-      "label": "DH 1."
     }
   ]
 }
