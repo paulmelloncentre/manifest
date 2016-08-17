@@ -6,7 +6,7 @@
   "label": "Doddington Hall, Long Gallery",
 
   "viewingDirection": "left-to-right",
-  "viewingHint": "paged",
+  "viewingHint": "non-paged",
   "startCanvas": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
 
   // The order of the canvases
