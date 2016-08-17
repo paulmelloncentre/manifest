@@ -13,7 +13,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Image",
+          "label": "DH 1.",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/full/271,400/0/default.jpg",
           "height": 3371,
           "width": 2284,
@@ -42,7 +42,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Image",
+          "label": "DH 2.",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/full/249,400/0/default.jpg",
           "height": 3485,
           "width": 2171,
