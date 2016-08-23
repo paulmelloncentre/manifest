@@ -1,0 +1,21 @@
+{
+  "resources": [
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69",
+      "@type": "oa:Annotation",
+      "on": "b8b1c734311a9cfb3d45866f397b3a69",
+      "motivation": [
+        "oa:describing"
+      ],
+      "resource": {
+        "Creator": "Anonymous, American School, South Carolina, 1801-1850.",
+        "Title": "The Rev. Dr. Isaac Stockton Keith Axson.",
+        "Display Date": "c. 1843  1840 in Charleston, South Carolina.",
+        "Subject(Names)": "Anonymous, American School, South Carolina, 1801-1850; Axson, I. S. K. (Isaac Stockton Keith), 1813-1891.",
+        "Rights Holder": "Frick Art Reference Library Photoarchive. ",
+        "Credit Line": "Courtesy of the Frick Art Reference Library. "
+      }
+    }
+  ]
+}
