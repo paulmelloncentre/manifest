@@ -2,7 +2,7 @@
   "resources": [
     {
       "@context": "http://iiif.io/api/presentation/2/context.json",
-      "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/sequence/test-resource",
       "@type": "oa:Annotation",
       "on": "b8b1c734311a9cfb3d45866f397b3a69",
       "motivation": [
