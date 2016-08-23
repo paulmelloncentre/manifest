@@ -52,7 +52,7 @@
                   "@type": "oa:Annotation",
                   "motivation": "oa:describing",
                   "resource": {
-                    "@id": "http://digitalcollections.frick.org:80/api/search/info/AVa2ndsHLoanwD-G4Lzy/b8b1c734311a9cfb3d45866f397b3a69",
+                    "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/sequence/test-resource",
                     "@type": "dctypes:Dataset",
                     "format": "application/json"
                   },
