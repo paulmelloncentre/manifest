@@ -7,7 +7,7 @@
     {
       "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/sequence/s0",
       "@type": "sc:Sequence",
-      "label": "Book Sequence",
+      "label": "Journal Sequence",
       "viewingHint": "paged",
       "canvases": [
         {
