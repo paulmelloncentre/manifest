@@ -1,0 +1,118 @@
+{
+  "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/manifest",
+  "@type": "sc:Manifest",
+  "label": "Long Gallery, Doddington Hall",
+  "attribution": "Doddington Hall / Photographs courtesy of the Wroxton Trust",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Description",
+      "value": "Images from the Long Gallery at Doddington Hall"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69",
+          "@type": "sc:Canvas",
+          "width": 132,
+          "height": 160,
+          "thumbnail": "http://images.digitalcollections.frick.org:80/media/id/b8b1c734311a9cfb3d45866f397b3a69/thumb",
+          "label": "The Rev. Dr. Isaac Stockton Keith Axson.",
+          "images": [
+            {
+              "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69/img/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69",
+              "resource": {
+                "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69/img/1/1",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "1",
+                "width": "1",
+                "label": "The Rev. Dr. Isaac Stockton Keith Axson.",
+                "service": {
+                  "@id": "http://images.digitalcollections.frick.org:80/media/dzi/b8b1c734311a9cfb3d45866f397b3a69/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://digitalcollections.frick.org:80/api/search/info/AVa2ndsHLoanwD-G4Lzy/b8b1c734311a9cfb3d45866f397b3a69",
+              "@type": "sc:AnnotationList",
+              "resources": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "oa:describing",
+                  "resource": {
+                    "@id": "http://digitalcollections.frick.org:80/api/search/info/AVa2ndsHLoanwD-G4Lzy/b8b1c734311a9cfb3d45866f397b3a69",
+                    "@type": "dctypes:Dataset",
+                    "format": "application/json"
+                  },
+                  "on": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/b8b1c734311a9cfb3d45866f397b3a69"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/6cfe123993f64b1f8dcb081d22da04f5",
+          "@type": "sc:Canvas",
+          "width": 126,
+          "height": 160,
+          "thumbnail": "http://images.digitalcollections.frick.org:80/media/id/6cfe123993f64b1f8dcb081d22da04f5/thumb",
+          "label": "Mrs. Alexander Clarke (Susannah White Barney).",
+          "images": [
+            {
+              "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/6cfe123993f64b1f8dcb081d22da04f5/img/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/6cfe123993f64b1f8dcb081d22da04f5",
+              "resource": {
+                "@id": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/6cfe123993f64b1f8dcb081d22da04f5/img/1/1",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": "1",
+                "width": "1",
+                "label": "Mrs. Alexander Clarke (Susannah White Barney).",
+                "service": {
+                  "@id": "http://images.digitalcollections.frick.org:80/media/dzi/6cfe123993f64b1f8dcb081d22da04f5/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1"
+                }
+              }
+            }
+          ],
+          "otherContent": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://digitalcollections.frick.org:80/api/search/info/AVa2ndsHLoanwD-G4Lzy/6cfe123993f64b1f8dcb081d22da04f5",
+              "@type": "sc:AnnotationList",
+              "resources": [
+                {
+                  "@type": "oa:Annotation",
+                  "motivation": "oa:describing",
+                  "resource": {
+                    "@id": "http://digitalcollections.frick.org:80/api/search/info/AVa2ndsHLoanwD-G4Lzy/6cfe123993f64b1f8dcb081d22da04f5",
+                    "@type": "dctypes:Dataset",
+                    "format": "application/json"
+                  },
+                  "on": "http://digitalcollections.frick.org/compare/AVa2ndsHLoanwD-G4Lzy/sequence/normal/canvas/6cfe123993f64b1f8dcb081d22da04f5"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "label": "Doddington Hall",
+      "viewingDirection": "Left-to-Right"
+    }
+  ],
+  "@context": "http://www.shared-canvas.org/ns/context.json"
+}
