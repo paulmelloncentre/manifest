@@ -1,0 +1,241 @@
+{
+  "@id": "http://manifests.ydc2.yale.edu/manifest/BeineckeMS748",
+  "@type": "sc:Manifest",
+  "description": "Beinecke MS 748 IIIF Manifest created for the Digitally Enabled Scholarship with Medieval Manuscripts project at Yale University.",
+  "label": "New Haven, Beinecke Rare Book and Manuscript Library, Yale University, Beinecke MS 748",
+  "sequences": [
+    {
+      "@id": "http://manifests.ydc2.yale.edu/sequence/BeineckeMS748",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/37f536c5-2c3a-4ed5-8647-50c7691f6dcd",
+          "@type": "sc:Canvas",
+          "height": 3831,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/ac6943bf-dd92-4036-866b-0e5d57de9642",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/37f536c5-2c3a-4ed5-8647-50c7691f6dcd",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/ac6943bf-dd92-4036-866b-0e5d57de9642/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3831,
+                "label": "Beinecke MS 748.1, recto",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/ac6943bf-dd92-4036-866b-0e5d57de9642/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 2742
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.1, recto",
+          "width": 2742
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/a93634e7-fecf-42fe-b28e-495bf66798e2",
+          "@type": "sc:Canvas",
+          "height": 3824,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/51091ba2-1ad2-4c7f-ac9b-46cb584b3181",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/a93634e7-fecf-42fe-b28e-495bf66798e2",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/51091ba2-1ad2-4c7f-ac9b-46cb584b3181/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3824,
+                "label": "Beinecke MS 748.1, verso",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/51091ba2-1ad2-4c7f-ac9b-46cb584b3181/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 2744
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.1, verso",
+          "width": 2744
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/74131ac7-d651-4236-b7a1-9baa680a4972",
+          "@type": "sc:Canvas",
+          "height": 3407,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/8f4236eb-1d90-4dc7-865d-4a49827aea93",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/74131ac7-d651-4236-b7a1-9baa680a4972",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/8f4236eb-1d90-4dc7-865d-4a49827aea93/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3407,
+                "label": "Beinecke MS 748.2, recto",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/8f4236eb-1d90-4dc7-865d-4a49827aea93/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 2530
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.2, recto",
+          "width": 2530
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/cc3b4feb-87b2-48b1-9fa6-c8fa8e19f80e",
+          "@type": "sc:Canvas",
+          "height": 3427,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/7895aba9-90c7-4870-8ce6-dc53d63f2c64",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/cc3b4feb-87b2-48b1-9fa6-c8fa8e19f80e",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/7895aba9-90c7-4870-8ce6-dc53d63f2c64/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3427,
+                "label": "Beinecke MS 748.2, verso",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/7895aba9-90c7-4870-8ce6-dc53d63f2c64/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 2521
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.2, verso",
+          "width": 2521
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/32cf6841-866c-43d3-a6a8-d1f7415d8d75",
+          "@type": "sc:Canvas",
+          "height": 2801,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/06a46560-8cbc-4ec7-846d-dd7482e3383c",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/32cf6841-866c-43d3-a6a8-d1f7415d8d75",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/06a46560-8cbc-4ec7-846d-dd7482e3383c/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2801,
+                "label": "Beinecke MS 748.3, recto",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/06a46560-8cbc-4ec7-846d-dd7482e3383c/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 2028
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.3, recto",
+          "width": 2028
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/39212e8a-792b-44f3-a7d2-22f5dcc6c016",
+          "@type": "sc:Canvas",
+          "height": 2790,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/40ff9e46-f886-4079-ad60-815fba2a5a80",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/39212e8a-792b-44f3-a7d2-22f5dcc6c016",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/40ff9e46-f886-4079-ad60-815fba2a5a80/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2790,
+                "label": "Beinecke MS 748.3, verso",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/40ff9e46-f886-4079-ad60-815fba2a5a80/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 2022
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.3, verso",
+          "width": 2022
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/0538b3dc-6376-4213-9dc5-bcca210b589b",
+          "@type": "sc:Canvas",
+          "height": 2880,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/11a144c8-0e66-4334-9cef-3e2a98d44248",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/0538b3dc-6376-4213-9dc5-bcca210b589b",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/11a144c8-0e66-4334-9cef-3e2a98d44248/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2880,
+                "label": "Beinecke MS 748.4, recto",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/11a144c8-0e66-4334-9cef-3e2a98d44248/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 1968
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.4, recto",
+          "width": 1968
+        },
+        {
+          "@id": "http://manifests.ydc2.yale.edu/canvas/14115a7e-b873-4739-8b69-9d79298d9299",
+          "@type": "sc:Canvas",
+          "height": 2893,
+          "images": [
+            {
+              "@id": "http://manifests.ydc2.yale.edu/annotation/f711ebb4-5784-4803-87e6-868b1c88222f",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://manifests.ydc2.yale.edu/canvas/14115a7e-b873-4739-8b69-9d79298d9299",
+              "resource": {
+                "@id": "http://scale.ydc2.yale.edu/iiif/f711ebb4-5784-4803-87e6-868b1c88222f/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2893,
+                "label": "Beinecke MS 748.4, verso",
+                "service": {
+                  "@id": "http://scale.ydc2.yale.edu/iiif/f711ebb4-5784-4803-87e6-868b1c88222f/",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+                  "@context": "http://iiif.io/api/image/1/context.json"
+                },
+                "width": 1947
+              }
+            }
+          ],
+          "label": "Beinecke MS 748.4, verso",
+          "width": 1947
+        }
+      ],
+      "label": "New Haven, Beinecke Rare Book and Manuscript Library, Yale University, Beinecke MS 748",
+      "viewingDirection": "left-to-right"
+    }
+  ],
+  "@context": "http://www.shared-canvas.org/ns/context.json"
+}
