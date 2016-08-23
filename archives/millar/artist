@@ -1,40 +1,38 @@
 {
-  "@id": "http://manifests.ydc2.yale.edu/manifest/BeineckeMS748",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/archives/millar/artist",
   "@type": "sc:Manifest",
-  "description": "Beinecke MS 748 IIIF Manifest created for the Digitally Enabled Scholarship with Medieval Manuscripts project at Yale University.",
-  "label": "New Haven, Beinecke Rare Book and Manuscript Library, Yale University, Beinecke MS 748",
+  "description": "Paul Mellon Centre - Collected Archives - Oliver Millar",
   "sequences": [
     {
-      "@id": "http://manifests.ydc2.yale.edu/sequence/BeineckeMS748",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/archives/millar/artist",
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "http://manifests.ydc2.yale.edu/canvas/37f536c5-2c3a-4ed5-8647-50c7691f6dcd",
+          "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/canvas/c0",
+          "label": "Oliver Millar Archive - Index of Artist Names - front cover",
           "@type": "sc:Canvas",
-          "height": 3831,
+          "height": 4010,
+          "width": 2459,
           "images": [
             {
-              "@id": "http://manifests.ydc2.yale.edu/annotation/ac6943bf-dd92-4036-866b-0e5d57de9642",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "http://manifests.ydc2.yale.edu/canvas/37f536c5-2c3a-4ed5-8647-50c7691f6dcd",
-              "resource": {
-                "@id": "http://scale.ydc2.yale.edu/iiif/ac6943bf-dd92-4036-866b-0e5d57de9642/full/full/0/native.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 3831,
-                "label": "Beinecke MS 748.1, recto",
-                "service": {
-                  "@id": "http://scale.ydc2.yale.edu/iiif/ac6943bf-dd92-4036-866b-0e5d57de9642/",
-                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
-                  "@context": "http://iiif.io/api/image/1/context.json"
+              "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/imageanno/0",
+               "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732-0/res/0",
+                  "@type": "dcTypes:Image",
+                  "height": 4010,
+                 "width": 2459,
+                 "service": {
+                    "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732",
+                    "protocol": "http://iiif.io/api/image",
+                    "height": 4010,
+                    "width": 2459,
+                    "profile": "http://iiif.io/api/image/2/level1.json"
                 },
-                "width": 2742
               }
             }
           ],
-          "label": "Beinecke MS 748.1, recto",
-          "width": 2742
         },
         {
           "@id": "http://manifests.ydc2.yale.edu/canvas/a93634e7-fecf-42fe-b28e-495bf66798e2",
