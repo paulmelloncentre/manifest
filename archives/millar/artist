@@ -77,7 +77,7 @@
             {
               "@id": "https://dlcs.io/iiif-img/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741/canvas/c0",
               "@type": "sc:Canvas",
-              "label": "Image",
+              "label": "Inside Paste Cover",
               "thumbnail": "http://thumbs.dlcs.io/thumbs/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741/full/242,400/0/default.jpg",
               "height": 3934,
               "width": 2383,
