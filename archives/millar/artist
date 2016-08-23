@@ -118,6 +118,64 @@
               "on": "https://dlcs.io/iiif-img/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741/canvas/c0"
             }
           ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/5/2fcf9ffa-8e67-4813-a502-b07ea98a7367/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Inside Paste Cover",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/5/2fcf9ffa-8e67-4813-a502-b07ea98a7367/full/250,400/0/default.jpg",
+          "height": 3948,
+          "width": 2468,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/5/2fcf9ffa-8e67-4813-a502-b07ea98a7367/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/5/2fcf9ffa-8e67-4813-a502-b07ea98a7367-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3948,
+                "width": 2468,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/5/2fcf9ffa-8e67-4813-a502-b07ea98a7367",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3948,
+                  "width": 2468,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/5/2fcf9ffa-8e67-4813-a502-b07ea98a7367/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/5/3cd8557a-f568-4b28-bd25-9f47c1e4f284/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Folio 1, recto",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/5/3cd8557a-f568-4b28-bd25-9f47c1e4f284/full/239,400/0/default.jpg",
+          "height": 3926,
+          "width": 2346,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/5/3cd8557a-f568-4b28-bd25-9f47c1e4f284/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/5/3cd8557a-f568-4b28-bd25-9f47c1e4f284-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3926,
+                "width": 2346,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/5/3cd8557a-f568-4b28-bd25-9f47c1e4f284",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3926,
+                  "width": 2346,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/5/3cd8557a-f568-4b28-bd25-9f47c1e4f284/canvas/c0"
+            }
+          ]
         }
       ]
     }
