@@ -1,13 +1,13 @@
 {
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/sequence/list",
   "@type": "sc:Manifest",
-  "description": "Fine Art Collection, Doddington Hall, Lincolnshire.",
-  "label": "Fine Art Collection, Doddington Hall, Lincolnshire.",
+  "description": "Oliver Millar Archive - Index of Artists",
+  "label": "Index of Artists",
   "sequences": [
     {
       "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/sequence/s0",
       "@type": "sc:Sequence",
-      "label": "Sequence 0",
+      "label": "Book Sequence",
       "viewingHint": "paged",
       "canvases": [
         {
@@ -42,7 +42,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/5/3e78d9e7-bbc2-4e33-ab84-8cc432acc646/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "DH 2.",
+          "label": "Inside Front Cover",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/5/3e78d9e7-bbc2-4e33-ab84-8cc432acc646/full/240,400/0/default.jpg",
           "height": 3935,
           "width": 2359,
