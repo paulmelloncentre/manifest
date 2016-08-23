@@ -67,28 +67,7 @@
               "on": "https://dlcs.io/iiif-img/48/5/3e78d9e7-bbc2-4e33-ab84-8cc432acc646/canvas/c0"
             }
           ]
-        },
-        [
-          {
-            "@id": "https://dlcs.io/iiif-img/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741/imageanno/0",
-            "@type": "oa:Annotation",
-            "motivation": "sc:painting",
-            "resource": {
-              "@id": "https://dlcs.io/iiif-img/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741-0/res/0",
-              "@type": "dcTypes:Image",
-              "height": 3934,
-              "width": 2383,
-              "service": {
-                "@id": "https://dlcs.io/iiif-img/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741",
-                "protocol": "http://iiif.io/api/image",
-                "height": 3934,
-                "width": 2383,
-                "profile": "http://iiif.io/api/image/2/level1.json"
-              }
-            },
-            "on": "https://dlcs.io/iiif-img/48/5/b0e3ced0-78aa-4c03-afcf-b68157e69741/canvas/c0"
-          }
-        ]
+        }
       ]
     }
   ],
