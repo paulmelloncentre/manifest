@@ -38,6 +38,9 @@
 		{
 			"label": "Accession number",
 			"value": "DH 13 (house number 114)"
+		},
+		{	"label": "Comment",
+			"value": "<p>The date and subject of the painting are uncertain. It may have descended through the Gunman family, who owned several of the sea-pieces in the collection.</p>"
 		}
 ],
 	"seeAlso": [
