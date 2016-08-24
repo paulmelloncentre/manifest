@@ -1,0 +1,132 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh4",
+  "@type": "sc:Manifest",
+  "label": "DH 4",
+  "description": "Sarah Hussey Delaval, Lady Pollington, Countess of Mexborough",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "? Catherine Read"
+    },
+    {
+      "label": "Titles",
+      "value": "Sarah Hussey Delaval, Lady Pollington, Countess of Mexborough
+    },
+    {
+      "label": "Date",
+      "value": "? mid 1760s"
+    },
+    {
+      "label": "Medium",
+      "value": "oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 237 x 145 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 4 (house number 105)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Sarah Hussey Delaval (1742-1821) was the daughter of Captain Francis Blake Delaval (d.1752) and Rhoda Apreece (d.1759). She married married John Savile, Lord Pollington (1719-1798) on 20 January 1760.<br><br>A hand-written label pasted to the canvas, bottom left corner: ‘Sarah Ctss of Mexborough / Miss Reid’, indicates that the portrait has been attributed in the past to Catherine Read (1723-1778). Although the style of the portrait is reminiscent also of Francis Cotes, closer inspection, and comparison with Cotes’s portrait of Lady Boynton, of 1768 (The Frick Collection, New York), suggests that it may well be by Catherine Read. Although there are few full-length portraits by Read, the present portrait compares closely in style to a number of the artist’s half-length female portraits of the 1760s.  The picture has a magnificent carved frame, identical in composition and design to several others in the Long Gallery (see DH 5, DH 9 and DH 19), suggesting it was part of a suite of paintings commissioned to hang in this space following the remodeling of the interior by Sir John Delaval in the 1760s.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+ {
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5",
+  "@type": "sc:Manifest",
+  "metadata": [
+    {
+      "label": "origin",
+      "value": "http://dlcs-storage-origin.s3.amazonaws.com/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5/full/245,400/0/default.jpg",
+          "height": 3499,
+          "width": 2141,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3499,
+                "width": 2141,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3499,
+                  "width": 2141,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/2a1b8b5c-03aa-4176-98a0-c5a1e12b7207/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Framed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/2a1b8b5c-03aa-4176-98a0-c5a1e12b7207/full/261,400/0/default.jpg",
+          "height": 3409,
+          "width": 2227,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/2a1b8b5c-03aa-4176-98a0-c5a1e12b7207/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/2a1b8b5c-03aa-4176-98a0-c5a1e12b7207-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3409,
+                "width": 2227,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/2a1b8b5c-03aa-4176-98a0-c5a1e12b7207",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3409,
+                  "width": 2227,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/2a1b8b5c-03aa-4176-98a0-c5a1e12b7207/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+}
