@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh23",
+  "@type": "sc:Manifest",
+  "label": "DH 23",
+  "description": "A west view from Edward Hussey Delaval's house in London",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "George Arnald ARA and figures by G.F. Joseph"
+    },
+    {
+      "label": "Titles",
+      "value": "A west view from Edward Hussey Delaval's house in London"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 70 x 90 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 23 (house number 98)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>This view from Edward Delaval’s riverside house in London  looks west towards Lambeth Palace. Delaval’s wife, Sarah Scott, and his daughter, Sarah Hussey Delaval, are depicted in the foreground. The picture is paired with DH20, which looks east down the river towards St Paul’s.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b/full/400,311/0/default.jpg",
+          "height": 2411,
+          "width": 3101,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2411,
+                "width": 3101,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2411,
+                  "width": 3101,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/359945fe-cfe9-4e22-bb1b-e40cc4147f8b/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
