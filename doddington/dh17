@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh17",
+	"@type": "sc:Manifest",
+	"label": "DH 17",
+	"description": "? A member of the Tailor family",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Circle of Sir John de Medina"
+		},
+		{
+			"label": "Titles",
+			"value": "? A member of the Tailor family"
+		},
+		{
+			"label": "Date",
+			"value": "unknown"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 75 x 65 cm (oval)"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 17 (house number 118)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>Although the subject in the present picture has been identified speculatively as a member of the Tailor family, the generalized features, sensual expression, historical costume and presence of the urn, suggest that this is a genre portrait, possibly Mary Magdalene with jar of myrrh, or - as suggested by the jeweled broach and strings of pearls worn by the woman – Cleopatra.</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+"sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e/full/347,400/0/default.jpg",
+          "height": 2953,
+          "width": 2559,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2559,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2559,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/294072e3-8a96-4dfd-b7f1-a1219f1ca52e/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
