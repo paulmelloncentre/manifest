@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh15",
+	"@type": "sc:Manifest",
+	"label": "DH 15",
+	"description": "? Member of the Tailor family",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Circle of John Baptist Medina"
+		},
+		{
+			"label": "Titles",
+			"value": "? Member of the Tailor family"
+		},
+		{
+			"label": "Date",
+			"value": "ca. 1700"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 75 x 65 cm (oval)"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 15 (house number 116)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>The identity of the sitter is unknown, and has been identified speculatively as a member of the Tailor family. The artist is also unknown but on stylistic grounds supports an attribution to an artist in the circle of the Spanish-Flemish artist, John Baptiste Medina, although the handling of the flesh and draperies is softer.</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+"sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a/full/347,400/0/default.jpg",
+          "height": 2953,
+          "width": 2559,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2559,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2559,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/f1c4ca89-0df1-4b1c-b8d1-cd58dc81004a/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
