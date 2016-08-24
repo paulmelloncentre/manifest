@@ -29,12 +29,19 @@
       "value": "Paul Mellon Centre, Oliver Millar Archive"
     }
   ],
-	"seeAlso": [
-		{
-		  "@id": "http://www.paul-mellon-centre.ac.uk/collections/archive-collections/oliver-millar",
-			"format": "html"
-		}
-	],
+  "seeAlso": [
+    {
+      "@id": "http://www.paul-mellon-centre.ac.uk/collections/archive-collections/oliver-millar",
+      "format": "html"
+    }
+  ],
+  "windowObjects": [
+    {
+      "loadedManifest": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/archives/millar/artist",
+      "canvasID": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/canvas/c0",
+      "viewType": "BookView"
+    }
+  ],
   "sequences": [
     {
       "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/sequence/s0",
