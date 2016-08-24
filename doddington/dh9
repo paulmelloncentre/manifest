@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh9",
+  "@type": "sc:Manifest",
+  "label": "DH 9",
+  "description": "The Earl and Countess of Mexborough",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Joshua Reynolds"
+    },
+    {
+      "label": "Titles",
+      "value": "The Earl and Countess of Mexborough"
+    },
+    {
+      "label": "Date",
+      "value": "1761–64"
+    },
+    {
+      "label": "Medium",
+      "value": "oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 258 x 290 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 9 (house number 110)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Portrait of John Savile, Lord Pollington (1719-1778), Sarah, Lady Pollington (née Hussey Delaval) (1742-1821), and their son, John (1761-1830). Lord and Lady Pollington are dressed in coronation robes. The child was added at a later date. It is one of four paintings in the Long Gallery with identical carved frames (see also DH 4, DH 5 and DH 19), suggesting it was part of a suite of paintings commissioned to hang in this space following the remodeling of the interior by Sir John Delaval in the 1760s.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": [
+        "<span>Mannings and Postle 2000, vol. 1, no. 1577, pp. 404-5.</span>"
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2/full/400,324/0/default.jpg",
+          "height": 2452,
+          "width": 3026,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2452,
+                "width": 3026,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2452,
+                  "width": 3026,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/fd2c71cc-5916-4391-b5c0-59e211cbb4cf/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Framed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/fd2c71cc-5916-4391-b5c0-59e211cbb4cf/full/400,343/0/default.jpg",
+          "height": 2424,
+          "width": 2827,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/fd2c71cc-5916-4391-b5c0-59e211cbb4cf/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/fd2c71cc-5916-4391-b5c0-59e211cbb4cf-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2424,
+                "width": 2827,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/fd2c71cc-5916-4391-b5c0-59e211cbb4cf",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2424,
+                  "width": 2827,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/fd2c71cc-5916-4391-b5c0-59e211cbb4cf/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
