@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh6",
+	"@type": "sc:Manifest",
+	"label": "DH 6",
+	"description": "Sarah Hussey Delaval, Mrs Gunman",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Artist unknown"
+		},
+		{
+			"label": "Titles",
+			"value": "Sarah Hussey Delaval, Mrs Gunman"
+		},
+		{
+			"label": "Date",
+			"value": "by 1825"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 239 x 158 cm"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 6 (house number 107)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>Sarah Hussey Delaval (d.1825) was the only daughter of Edward Hussey Delaval (1729-1814) and Sarah Scott. She married the naval officer, James Gunman (d.1824). Sarah Delaval left Doddington Hall in her will to her lover, Colonel George Ralph Payne Jarvis. She is buried in St Mary’s church, Dover, alongside her husband, James Gunman.</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+"sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/aa21b024-0f27-4984-888f-d45eab6d060c/full/264,400/0/default.jpg",
+          "height": 3388,
+          "width": 2240,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3388,
+                "width": 2240,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3388,
+                  "width": 2240,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
