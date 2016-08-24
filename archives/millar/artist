@@ -1,7 +1,7 @@
 {
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/archives/millar/artist",
   "@type": "sc:Manifest",
-  "description": "Oliver Millar Archive - Index of Artists",
+  "description": "Oliver Millar Archive - Index by Artist Name",
   "label": "Index of Artists",
   "metadata": [
     {
@@ -10,21 +10,31 @@
     },
     {
       "label": "Titles",
-      "value": "Index of Artists"
-    },
-    {
-      "label": "Institution",
-      "value": "Paul Mellon Centre, Oliver Millar Archive"
+      "value": "Index by Artist Name"
     },
     {
       "label": "Accession number",
       "value": "OM1"
     },
     {
-      "label": "Comment",
-      "value": "<p>Oliver Millar compiled a comprehensive index to his journal notebooks.</p>"
+      "label": "Description",
+      "value": "<p>In order to render the information in the notebooks readily accessible, Oliver Millar maintained two indexes. This document is an index by artist name, and covers all forty six notebooks recording visits to UK collections and salerooms, as well as visits abroad.  Please note, the index does not include an entry for Van Dyck. This is because Millar tended to record information about works by this artist in a series of seven additional notebooks.</p>"
     }
+    {
+      "label": "Who was Oliver Millar?",
+      "value": "<p>Oliver Millar was an art historian and curator.  He served in the Royal Household from 1947, becoming Surveyor of the Queen’s Pictures (the first person to hold this role full time) from 1972-1988.  In this position he had privileged access to public and private collections in the UK and abroad.  He was an expert on 17th century painting, in particular portraits and the work of Anthony van Dyck.  When Millar died he left his archive, containing the research records built up over a lifetime of work, to the Paul Mellon Centre.</p>"
+    }
+    {
+      "label": "Institution",
+      "value": "Paul Mellon Centre, Oliver Millar Archive"
+    },
   ],
+	"seeAlso": [
+		{
+		  "@id": "http://www.paul-mellon-centre.ac.uk/collections/archive-collections/oliver-millar",
+			"format": "html"
+		}
+	],
   "sequences": [
     {
       "@id": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/sequence/s0",
