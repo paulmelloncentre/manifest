@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh16",
+	"@type": "sc:Manifest",
+	"label": "DH 16",
+	"description": "? Rhoda Delaval",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Artist unknown"
+		},
+		{
+			"label": "Titles",
+			"value": "? Rhoda Delaval"
+		},
+		{
+			"label": "Date",
+			"value": "? ca. 1735"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 75 x 63 cm"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 16 (house number 117)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>The sitter in the present portrait is unidentified. However, comparison with the portrait of Rhoda Blake Delaval (1725-1757) aged about twenty-five attributed to Arthur Pond [National Portrait Gallery 5253], suggests that it may possibly be the same sitter, here aged about fifteen.  For another comparison see James McArdell’s mezzotint after Rhoda Delaval’s unlocated self-portrait [National Portrait Gallery D562].</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+ "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7/full/336,400/0/default.jpg",
+          "height": 2953,
+          "width": 2481,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2481,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2481,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/531d03b2-a88a-48c5-9422-c4d4ceb394f7/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
