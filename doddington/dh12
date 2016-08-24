@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh12",
+	"@type": "sc:Manifest",
+	"label": "DH 12",
+	"description": "? A member of the Tailor family",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Circle of Godfrey Kneller"
+		},
+		{
+			"label": "Titles",
+			"value": "? A member of the Tailor family"
+		},
+		{
+			"label": "Date",
+			"value": "ca. 1700–10"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 75 x 65 cm (oval)"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 12 (house number 113)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>The portrait was been identified speculatively as a member of the Tailor family, the former owners of Doddington Hall.  Stylistically, and in format, it would appear to be influenced by Kneller’s portraits of members of the Kit-Cat Club, for example Joseph Addison [National Portrait Gallery 3193], and dates presumably to around the same period. The handling is inferior to Kneller’s and is relatively crude and formulaic.</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+"sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/97cce2ce-6810-405d-b24d-e38a27b38153/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/97cce2ce-6810-405d-b24d-e38a27b38153/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/97cce2ce-6810-405d-b24d-e38a27b38153/full/347,400/0/default.jpg",
+          "height": 2953,
+          "width": 2559,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/97cce2ce-6810-405d-b24d-e38a27b38153/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/97cce2ce-6810-405d-b24d-e38a27b38153-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2559,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/97cce2ce-6810-405d-b24d-e38a27b38153",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2559,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/97cce2ce-6810-405d-b24d-e38a27b38153/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
