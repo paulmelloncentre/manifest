@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh19",
+	"@type": "sc:Manifest",
+	"label": "DH 19",
+	"description": "Hagar and Ishmael",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Marcantonio Franceschini"
+		},
+		{
+			"label": "Titles",
+			"value": "Hagar and Ishmael"
+		},
+		{
+			"label": "Date",
+			"value": "ca. mid-1740s"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: unknown"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 19 (house number 120)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>The present painting has been attributed by Jonathan Yarker to the Bolognese artist, Marcantonio Franceschini (1648-1729). It was probably acquired by Sir John Delaval in the course of the remodeling of the interior of Doddington Hall during the 1760s. Although Sir John did not make the Grand Tour, his younger sister, Anne Delaval travelled to Italy with her husband, Sir William Stanhope, between 1761 and 1763.</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+ "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Frame",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/full/400,339/0/default.jpg",
+          "height": 2166,
+          "width": 2559,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2166,
+                "width": 2559,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2166,
+                  "width": 2559,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
