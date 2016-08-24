@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh20",
+  "@type": "sc:Manifest",
+  "label": "DH 20",
+  "description": "A view east from Edward Hussey Delaval's house in London",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "George Arnald ARA and figures by G.F. Joseph"
+    },
+    {
+      "label": "Titles",
+      "value": "A view east from Edward Hussey Delaval's house in London"
+    },
+    {
+      "label": "Date",
+      "value": "ca. mid-1740s"
+    },
+    {
+      "label": "Medium",
+      "value": "oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 70 x 90 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 20 (house number 95)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>A view of Edward Delaval’s house in Parliament Place by Westminster Abbey, which he designed himself.  It was a ‘neat little gothic house’ lined with artificial stone in order to make it fire-resistant (Frank Askham, The Gay Delavals, p. 171). Edward Delaval is seated in the left foreground, with a view east towards Westminster Bridge and St Paul’s Cathedral. 1772 St Paul’s had been struck by lightning, of which Delaval wrote an account. Edward Delaval, who spent much of his time in London, died on 14 August 1814, and was buried in Westminster Abbey. The present picture is paired with DH 23.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+ "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd/full/400,311/0/default.jpg",
+          "height": 2411,
+          "width": 3101,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2411,
+                "width": 3101,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2411,
+                  "width": 3101,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/f7675858-6788-490d-af2f-f364c8e0bbfd/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
