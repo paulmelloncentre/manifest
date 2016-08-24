@@ -1,0 +1,121 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh5",
+  "@type": "sc:Manifest",
+  "label": "DH 5",
+  "description": "John Savile, 1st Earl of Mexborough (previously viscount Pollington)",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Attributed to Nathaniel Dance"
+    },
+    {
+      "label": "Titles",
+      "value": "John Savile, 1st Earl of Mexborough (previously viscount Pollington)"
+    },
+    {
+      "label": "Date",
+      "value": "? late 1760s"
+    },
+    {
+      "label": "Medium",
+      "value": "oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 236 x 146 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 5 (house number 106)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>John Savile (1719-1778) was the son of Charles Savile of Methley Hall, Yorkshire and Aletheia Millington. In 1749 he was appointed Knight Companion of the Order of the Bath. On 8 September 1753 he was created Baron Pollington of Longford in the County of Longford, and 11 February 1766, 1st Earl of Mexborough of Lifford, Co. Donegal. Although the artist is unknown it is attributed here to Nathaniel Dance on stylistic grounds, and can be compared for example with Dance’s full-length portrait of George III, 1768-69 at Uppark. The composition can also be compared to Reynolds’s later portrait of George James, 1st Marquess of Cholmondeley in ceremonial robes at Houghton. It is one of four paintings in the Long Gallery with identical carved frames (see also DH 4, DH 9 and DH 19), suggesting it was part of a suite of paintings commissioned to hang in this space following the remodeling of the interior by Sir John Delaval in the 1760s.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/44537d00-fad8-497e-958f-d1d8d0c61611/full/247,400/0/default.jpg",
+          "height": 3485,
+          "width": 2156,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3485,
+                "width": 2156,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3485,
+                  "width": 2156,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Framed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/full/266,400/0/default.jpg",
+          "height": 3432,
+          "width": 2280,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3432,
+                "width": 2280,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3432,
+                  "width": 2280,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
