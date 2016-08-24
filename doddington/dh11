@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh11",
+	"@type": "sc:Manifest",
+	"label": "DH 11",
+	"description": "Edward Hussey Delaval",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Artist unknown"
+		},
+		{
+			"label": "Titles",
+			"value": "Edward Hussey Delaval"
+		},
+		{
+			"label": "Date",
+			"value": "? ca. 1750 or 1754"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 70 x 60 cm"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 1 (house number 102)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>Edward Hussey Delaval (1729-1814), third son of Captain Francis Blake Delaval and Rhoda Apreece, was admitted to Pembroke College, Cambridge, 1747. He graduated BA 1750; MA 1754, and was made a Fellow in 1755. Among his friends at Pembroke was the poet Thomas Gray, who nicknamed him variously ‘Mr Delly’ and ‘Delaval the loud’, owing to his resounding voice, which was apparently a family trait.  Edward Delaval, as well as being a capable scientist was also a gifted musician. Among his accomplishments were his performances upon a set of musical glasses of his own construction which, according to Gray, produced sounds comparable to ‘a Cherubim in a box’. (RW Ketton-Cremer, Thomas Gray. A Biography, Cambridge 1955, pp. 142-43). Edward Delaval’s elder brother, John, matriculated at Pembroke in 1746 (3 July), and his eldest brother, Francis, had been a fellow-commoner at Pembroke, but was sent down for smuggling a woman into college disguised as a friend in the army (see Chris Mouncey, Christopher Smart, Clown of God, London: Associated University Presses, 2001, pp.54-55).</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+"sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da/full/324,400/0/default.jpg",
+          "height": 2986,
+          "width": 2422,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2986,
+                "width": 2422,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2986,
+                  "width": 2422,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/c74fd3ea-6da9-4c21-bb31-4218db7275da/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
