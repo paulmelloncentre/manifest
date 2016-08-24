@@ -9,7 +9,7 @@
 	"metadata": [
 		{
 			"label": "Creator(s)",
-			"value": "Attributed to William Bell of Newcastle"
+			"value": "Artist unknown"
 		},
 		{
 			"label": "Titles",
@@ -17,11 +17,11 @@
 		},
 		{
 			"label": "Date",
-			"value": "undated"
+			"value": "ca. 1750"
 		},
 		{
 			"label": "Medium",
-			"value": "Oil on canvas"
+			"value": "oil on canvas, lettered bottom left ‘Susannah Lady Delaval’."
 		},
 		{
 			"label": "Dimensions",
@@ -37,17 +37,18 @@
 		},
 		{
 			"label": "Accession number",
-			"value": "DH 2. (house number 103)"
+			"value": "DH 2 (house number 103)"
 		},
 		{
 			"label": "Comment",
-			"value": "<p>--- comment from Martin</p>"
+			"value": "<p>Susannah Robinson (1730-1783) was the cousin and first wife of Sir John Hussey Delaval (1728-1808), who remodeled the interior of Doddington in the 1760s. Susannah, then widowed, married Sir John on 2 April 1750. She was the mother of John Hussey Delaval (1756-1775), who died of consumption in Bath at the age of twenty-one. There is a portrait by William Bell at Seaton Delaval (National Trust) of John Hussey Delaval, c.1770, in a red Van Dyck costume with a bow and arrow, attended by a black page, as well as a portrait of Susannah Robinson as Venus, also by Bell.</p>
+				<p>The present portrait has been attributed to William Bell (1740-1804), but on dating and stylistic grounds this is not tenable. The composition is identical to the portrait in the Drawing Room at Doddington [DH45] of Rhoda Apreece, Mrs Francis Blake Delaval by Pond, and the version of the same sitter also attributed tentatively to Pond at Seaton Delaval [National Trust 1276768]. The sitters are clearly different, as are the colours of the draperies. In the Seaton Delaval portrait the sitter’s ermine edged mantle is blue and the drapery behind is red, whereas in the present portrait the mantle is red and the drapery is green.</p>"
 		}
 ],
 	"seeAlso": [
 		{
 			"@id": "http://www.doddingtonhall.com/",
-			"format": "text/rdf+n3"
+			"format": "html"
 		}
 	],
  "sequences": [
