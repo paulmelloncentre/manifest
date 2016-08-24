@@ -52,37 +52,37 @@
 	],
  "sequences": [
     {
-      "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/sequence/s0",
+      "@id": "https://dlcs.io/iiif-img/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25/sequence/s0",
       "@type": "sc:Sequence",
       "label": "Sequence 0",
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0",
+          "@id": "https://dlcs.io/iiif-img/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Frame",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/full/400,339/0/default.jpg",
-          "height": 2166,
-          "width": 2559,
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25/full/323,400/0/default.jpg",
+          "height": 3051,
+          "width": 2460,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/imageanno/0",
+              "@id": "https://dlcs.io/iiif-img/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480-0/res/0",
+                "@id": "https://dlcs.io/iiif-img/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25-0/res/0",
                 "@type": "dcTypes:Image",
-                "height": 2166,
-                "width": 2559,
+                "height": 3051,
+                "width": 2460,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480",
+                  "@id": "https://dlcs.io/iiif-img/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25",
                   "protocol": "http://iiif.io/api/image",
-                  "height": 2166,
-                  "width": 2559,
+                  "height": 3051,
+                  "width": 2460,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0"
+              "on": "https://dlcs.io/iiif-img/48/1/1cfa7cd7-e872-4eb1-b2d3-ca882b8a8e25/canvas/c0"
             }
           ]
         }
