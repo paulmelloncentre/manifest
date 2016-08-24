@@ -9,12 +9,8 @@
       "value": "Oliver Millar (1923–2007)"
     },
     {
-      "label": "Titles",
+      "label": "Resource",
       "value": "Index by Artist Name"
-    },
-    {
-      "label": "Accession number",
-      "value": "OM1"
     },
     {
       "label": "Description",
@@ -23,6 +19,10 @@
     {
       "label": "Who was Oliver Millar?",
       "value": "<p>Oliver Millar was an art historian and curator.  He served in the Royal Household from 1947, becoming Surveyor of the Queen’s Pictures (the first person to hold this role full time) from 1972-1988.  In this position he had privileged access to public and private collections in the UK and abroad.  He was an expert on 17th century painting, in particular portraits and the work of Anthony van Dyck.  When Millar died he left his archive, containing the research records built up over a lifetime of work, to the Paul Mellon Centre.</p>"
+    },
+    {
+      "label": "Accession number",
+      "value": "OM1"
     },
     {
       "label": "Institution",
