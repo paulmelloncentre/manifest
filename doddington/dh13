@@ -1,0 +1,88 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh13",
+	"@type": "sc:Manifest",
+	"label": "DH 13",
+	"description": "? Storming of Algiers",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Artist unknown"
+		},
+		{
+			"label": "Titles",
+			"value": "? Storming of Algiers"
+		},
+		{
+			"label": "Date",
+			"value": "unknown"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 87 x 107 cm"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 13 (house number 114)"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+ "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33/full/400,325/0/default.jpg",
+          "height": 2432,
+          "width": 2991,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2432,
+                "width": 2991,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2432,
+                  "width": 2991,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/092d280c-ea20-4f08-8443-48abdcd9fe33/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
