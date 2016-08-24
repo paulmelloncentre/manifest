@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh24",
+  "@type": "sc:Manifest",
+  "label": "DH 24",
+  "description": "Sarah Hussey Delaval, Mrs Gunman (d.1825)",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Sarah Hussey Delaval, Mrs Gunman (d.1825)"
+    },
+    {
+      "label": "Date",
+      "value": "by 1805"
+    },
+    {
+      "label": "Medium",
+      "value": "oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 125 x 100 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 24 (house number 91)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Sarah Hussey Delaval (d.1825), was the only daughter and heir of Edward Delaval. In 1805 she married James Gunman, who pre-deceased her by one year in 1824. (See marriage settlement, 6 April 1805, Lincolnshire Archives, Ref Jarvis IX/5/5/8; papers of James Gunman and Sarah Hussey Gunman; also will of Sarah Hussey Delaval and James Gunman, Lincolnshire Archives at JARVIS V/G/3).<br><br>The present portrait displays Sarah Delaval’s interest in music and literature, revealed by the music score of sonatas by Haydn on the table, upon which several volumes including works by Dante. It is not known when Sarah Delaval was born, although in the present portrait she would appear to be in her twenties and, as the wedding ring on her hand indicates, married. The identity of the artist is unknown.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832/full/320,400/0/default.jpg",
+          "height": 3076,
+          "width": 2460,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3076,
+                "width": 2460,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3076,
+                  "width": 2460,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/dabdd0c5-b62d-4bca-a0e4-4eafdc2c3832/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
