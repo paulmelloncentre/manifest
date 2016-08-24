@@ -1,0 +1,92 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh18",
+	"@type": "sc:Manifest",
+	"label": "DH 18",
+	"description": "Admiral Sir Ralph Delaval",
+	"attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+	"logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+	"metadata": [
+		{
+			"label": "Creator(s)",
+			"value": "Attributed to John Riley"
+		},
+		{
+			"label": "Titles",
+			"value": "Admiral Sir Ralph Delaval"
+		},
+		{
+			"label": "Date",
+			"value": "early 1690s"
+		},
+		{
+			"label": "Medium",
+			"value": "oil on canvas, lettered lower left 'ADMIRAL SIR RALPH DELAVAL'"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Canvas: 124 x 100 cm"
+		},
+		{
+			"label": "Credit line",
+			"value": "Wroxton Trust"
+		},
+		{
+			"label": "Institution",
+			"value": "Doddington Hall"
+		},
+		{
+			"label": "Accession number",
+			"value": "DH 18 (house number 119)"
+		},
+		{
+			"label": "Comment",
+			"value": "<p>Admiral Sir Ralph Delaval (c.1641-c.1707) was born in Dissington, Northumberland. Following early patronage from James, Duke of York, Delaval rose to become Vice Admiral of the Blue under William III, and Vice Admiral of the Red in 1692, when he commanded HMS Royal Sovereign at the Battle of La Hogue.  Following suspicions that he harbored Jacobite sympathies and accusations of ‘notorious and treacherous mismanagement’ of the fleet, Delaval retired to his estates in Northumberland. He is buried Westminster Abbey. Delaval’s estates passed to his nephew, Admiral George Delaval (1668-1723), who commissioned Seaton Delaval from the architect, Sir John Vanburgh, and who was succeeded in turn by his nephew, Captain Francis Blake  Delaval (1692-1752), the father of Sir John Delaval, who inherited and remodeled Doddington Hall during the 1760s.<br><br>The present portrait, which has been attributed by Jonathan Yarker to John Riley, probably dates from the early 1690s, when Delaval was at the height of his naval career. Other portraits of Delaval include the triple portrait with Thomas Philips and John Benbow, c.1692-93, National Maritime Museum, and another version by Thomas Murray with Edward Russell and  John Benbow in the Government Art Collection [GAC 6436]. There is also a full-length of Delaval in armour by Michael Dahl (but inscribed Kneller), at Seaton Delaval [National Trust, NTPL Ref. No. 192246].  Before it was installed at Doddington the present portrait may have hung at the Delaval family seat at Dissington and subsequently at Seaton Delaval.</p>"
+		}
+],
+	"seeAlso": [
+		{
+			"@id": "http://www.doddingtonhall.com/",
+			"format": "html"
+		}
+	],
+ "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Frame",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/full/400,339/0/default.jpg",
+          "height": 2166,
+          "width": 2559,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2166,
+                "width": 2559,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2166,
+                  "width": 2559,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
