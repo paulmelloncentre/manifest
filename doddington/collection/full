@@ -1,30 +1,272 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/full",
+  "@id": "http://wellcomelibrary.org/service/collections/genres/Wet%20collodion%20negatives/",
   "@type": "sc:Collection",
-  "label": "Doddington Hall, Fine Art Collections",
-  "viewingHint": "top",
-  "description": "Works of art photographed by the Wroxton Trust in the collection at Doddington Hall, Lincolnshire.",
-  "attribution": "Images courtest of the Wroxton Trust.",
-  "collections": [
+  "label": " Genre: Wet collodion negatives",
+  "manifests": [
     {
-      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/wroxton",
-      "@type": "sc:Collection",
-      "label": "Works Photographed by the Wroxton Trust.",
-      "members": [
-        {
-          "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
-          "@type": "sc:Manifest",
-          "label": "DH 1.",
-          "viewingHint": "individuals"
-        },
-        {
-          "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
-          "@type": "sc:Manifest",
-          "label": "DH 2.",
-          "viewingHint": "individuals"
+      "@id": "http://wellcomelibrary.org/iiif/b11778283/manifest",
+      "@type": "sc:Manifest",
+      "label": "King Mongkut (King Rama IV) of Siam (Thailand). Photograph by John Thomson, 1865.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/bfa6cf75-8833-4212-a9bc-573086b56bdb/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/bfa6cf75-8833-4212-a9bc-573086b56bdb",
+          "profile": "http://iiif.io/api/image/2/level1.json"
         }
-      ]
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11778283",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11778283",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11775105/manifest",
+      "@type": "sc:Manifest",
+      "label": "Peking, Pechili province, China: Yi Xin (Prince Gong). Photograph by John Thomson, 1869.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/b89a1729-0a2c-4d2f-99d2-c25d9f7f6edd/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/b89a1729-0a2c-4d2f-99d2-c25d9f7f6edd",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11775105",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11775105",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11768265/manifest",
+      "@type": "sc:Manifest",
+      "label": "Amoy (Xiamen), Fukien province, China: a Chinese residential quarter. Photograph by John Thomson, 1870/1871.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/a6801943-b8b4-4674-908c-7d5b27e70569/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/a6801943-b8b4-4674-908c-7d5b27e70569",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11768265",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11768265",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11771987/manifest",
+      "@type": "sc:Manifest",
+      "label": "Shanghai, Kiangsu province, China. Photograph by John Thomson, 1871.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/1d893c21-3c56-406d-bf42-a51c9f953e85/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/1d893c21-3c56-406d-bf42-a51c9f953e85",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11771987",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11771987",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11772748/manifest",
+      "@type": "sc:Manifest",
+      "label": "Saigon, Vietnam. Photograph by John Thomson, 1867.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/3375393d-bb23-4af3-ac9b-a65eef444c03/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/3375393d-bb23-4af3-ac9b-a65eef444c03",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11772748",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11772748",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11775129/manifest",
+      "@type": "sc:Manifest",
+      "label": "Peking, Pechili province, China: three Manchu Ministers at the Office of Foreign Affairs, late Qing. Photograph by John Thomson, 1869.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/16143d71-9a61-4c75-aef5-10c3d9dbf69c/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/16143d71-9a61-4c75-aef5-10c3d9dbf69c",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11775129",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11775129",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11765689/manifest",
+      "@type": "sc:Manifest",
+      "label": "Still life of fruit, Hong Kong. Photograph by John Thomson, 1868/1871.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/486de425-7be1-4ee7-a883-061a8fc00028/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/486de425-7be1-4ee7-a883-061a8fc00028",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11765689",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11765689",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11768241/manifest",
+      "@type": "sc:Manifest",
+      "label": "White Deer Grotto, Xiamen (Amoy), Fukien province, China. Photograph by John Thomson, 1870/1871.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/e75d37c5-40a1-48a4-b61b-52ac7aa26849/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/e75d37c5-40a1-48a4-b61b-52ac7aa26849",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11768241",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11768241",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11767042/manifest",
+      "@type": "sc:Manifest",
+      "label": "Praia Grande, Macao, China. Photograph by John Thomson, 1870.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/91aef2e5-ac27-45fb-bc24-02fe5fe2e839/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/91aef2e5-ac27-45fb-bc24-02fe5fe2e839",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11767042",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11767042",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11775142/manifest",
+      "@type": "sc:Manifest",
+      "label": "Peking, Pechili province, China. Photograph by John Thomson, 1869.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/f240b45c-9a51-41d8-880b-610849300992/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/f240b45c-9a51-41d8-880b-610849300992",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11775142",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11775142",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11777862/manifest",
+      "@type": "sc:Manifest",
+      "label": "Saigon, Cochin China [Vietnam]. Photograph by John Thomson, 1866.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/cfa7a979-22f9-45ce-a6f5-0d0d657658f7/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/cfa7a979-22f9-45ce-a6f5-0d0d657658f7",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11777862",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11777862",
+        "format": "text/turtle"
+      }
+    },
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b11765446/manifest",
+      "@type": "sc:Manifest",
+      "label": "Still life of leaves and flowers, Hong Kong. Photograph by John Thomson, 1868/1871.",
+      "thumbnail": {
+        "@id": "https://dlcs.io/iiif-img/wellcome/1/c9b520cc-5b7f-4e41-a975-5ecea31685df/full/!1024,1024/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/wellcome/1/c9b520cc-5b7f-4e41-a975-5ecea31685df",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "related": {
+        "@id": "http://wellcomelibrary.org/item/b11765446",
+        "format": "text/html"
+      },
+      "seeAlso": {
+        "@id": "http://wellcomelibrary.org/resource/b11765446",
+        "format": "text/turtle"
+      }
     }
   ]
 }
