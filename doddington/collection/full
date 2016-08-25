@@ -23,245 +23,165 @@
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11775105/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh2",
       "@type": "sc:Manifest",
-      "label": "Peking, Pechili province, China: Yi Xin (Prince Gong). Photograph by John Thomson, 1869.",
+      "label": "DH 2",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/b89a1729-0a2c-4d2f-99d2-c25d9f7f6edd/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05/full/249,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/b89a1729-0a2c-4d2f-99d2-c25d9f7f6edd",
+          "@id": "https://dlcs.io/iiif-img/48/1/185fb7fe-3a1f-4885-b95f-05ee6de02a05",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11775105",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11775105",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11768265/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh3",
       "@type": "sc:Manifest",
-      "label": "Amoy (Xiamen), Fukien province, China: a Chinese residential quarter. Photograph by John Thomson, 1870/1871.",
+      "label": "DH 3",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/a6801943-b8b4-4674-908c-7d5b27e70569/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/b97658b0-08aa-40b2-9490-2a5aaf43b8e9/full/248,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/a6801943-b8b4-4674-908c-7d5b27e70569",
+          "@id": "https://dlcs.io/iiif-img/48/1/b97658b0-08aa-40b2-9490-2a5aaf43b8e9",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11768265",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11768265",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11771987/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh4",
       "@type": "sc:Manifest",
-      "label": "Shanghai, Kiangsu province, China. Photograph by John Thomson, 1871.",
+      "label": "DH 4",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/1d893c21-3c56-406d-bf42-a51c9f953e85/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5/full/245,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/1d893c21-3c56-406d-bf42-a51c9f953e85",
+          "@id": "https://dlcs.io/iiif-img/48/1/77f9631e-5263-4d5a-8d66-844b8e60c1a5",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11771987",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11771987",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11772748/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh5",
       "@type": "sc:Manifest",
-      "label": "Saigon, Vietnam. Photograph by John Thomson, 1867.",
+      "label": "DH 5",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/3375393d-bb23-4af3-ac9b-a65eef444c03/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/44537d00-fad8-497e-958f-d1d8d0c61611/full/247,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/3375393d-bb23-4af3-ac9b-a65eef444c03",
+          "@id": "https://dlcs.io/iiif-img/48/1/44537d00-fad8-497e-958f-d1d8d0c61611",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11772748",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11772748",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11775129/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh6",
       "@type": "sc:Manifest",
-      "label": "Peking, Pechili province, China: three Manchu Ministers at the Office of Foreign Affairs, late Qing. Photograph by John Thomson, 1869.",
+      "label": "DH 6",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/16143d71-9a61-4c75-aef5-10c3d9dbf69c/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/aa21b024-0f27-4984-888f-d45eab6d060c/full/264,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/16143d71-9a61-4c75-aef5-10c3d9dbf69c",
+          "@id": "https://dlcs.io/iiif-img/48/1/aa21b024-0f27-4984-888f-d45eab6d060c",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11775129",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11775129",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11765689/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh7",
       "@type": "sc:Manifest",
-      "label": "Still life of fruit, Hong Kong. Photograph by John Thomson, 1868/1871.",
+      "label": "DH 7",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/486de425-7be1-4ee7-a883-061a8fc00028/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/2c959b32-b101-4ab8-ba49-cec72b4d08d9/full/279,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/486de425-7be1-4ee7-a883-061a8fc00028",
+          "@id": "https://dlcs.io/iiif-img/48/1/2c959b32-b101-4ab8-ba49-cec72b4d08d9",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11765689",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11765689",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11768241/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh8",
       "@type": "sc:Manifest",
-      "label": "White Deer Grotto, Xiamen (Amoy), Fukien province, China. Photograph by John Thomson, 1870/1871.",
+      "label": "DH 8",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/e75d37c5-40a1-48a4-b61b-52ac7aa26849/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/fa51c0fd-e9ce-4b45-8db7-8958a640ae89/full/325,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/e75d37c5-40a1-48a4-b61b-52ac7aa26849",
+          "@id": "https://dlcs.io/iiif-img/48/1/fa51c0fd-e9ce-4b45-8db7-8958a640ae89",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11768241",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11768241",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11767042/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh9",
       "@type": "sc:Manifest",
-      "label": "Praia Grande, Macao, China. Photograph by John Thomson, 1870.",
+      "label": "DH 9",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/91aef2e5-ac27-45fb-bc24-02fe5fe2e839/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2/full/400,324/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/91aef2e5-ac27-45fb-bc24-02fe5fe2e839",
+          "@id": "https://dlcs.io/iiif-img/48/1/44417d65-075c-489e-ac06-bd5bf2fbc4c2",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11767042",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11767042",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11775142/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh10",
       "@type": "sc:Manifest",
-      "label": "Peking, Pechili province, China. Photograph by John Thomson, 1869.",
+      "label": "DH 10",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/f240b45c-9a51-41d8-880b-610849300992/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/fd1e1756-ef88-4d6e-9fa2-0a1671eaa4d9/full/341,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/f240b45c-9a51-41d8-880b-610849300992",
+          "@id": "https://dlcs.io/iiif-img/48/1/fd1e1756-ef88-4d6e-9fa2-0a1671eaa4d9",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11775142",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11775142",
-        "format": "text/turtle"
-      }
-    },
-    {
-      "@id": "http://wellcomelibrary.org/iiif/b11777862/manifest",
-      "@type": "sc:Manifest",
-      "label": "Saigon, Cochin China [Vietnam]. Photograph by John Thomson, 1866.",
-      "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/cfa7a979-22f9-45ce-a6f5-0d0d657658f7/full/!1024,1024/0/default.jpg",
-        "@type": "dctypes:Image",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/cfa7a979-22f9-45ce-a6f5-0d0d657658f7",
-          "profile": "http://iiif.io/api/image/2/level1.json"
-        }
-      },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11777862",
-        "format": "text/html"
-      },
-      "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11777862",
-        "format": "text/turtle"
-      }
-    },
-    {
-      "@id": "http://wellcomelibrary.org/iiif/b11765446/manifest",
-      "@type": "sc:Manifest",
-      "label": "Still life of leaves and flowers, Hong Kong. Photograph by John Thomson, 1868/1871.",
-      "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/c9b520cc-5b7f-4e41-a975-5ecea31685df/full/!1024,1024/0/default.jpg",
-        "@type": "dctypes:Image",
-        "service": {
-          "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/c9b520cc-5b7f-4e41-a975-5ecea31685df",
-          "profile": "http://iiif.io/api/image/2/level1.json"
-        }
-      },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11765446",
-        "format": "text/html"
-      },
-      "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11765446",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     }
   ]
