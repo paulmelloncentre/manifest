@@ -1,29 +1,25 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://wellcomelibrary.org/service/collections/genres/Wet%20collodion%20negatives/",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/full",
   "@type": "sc:Collection",
-  "label": " Genre: Wet collodion negatives",
+  "label": "Doddington Hall, Fine Art Collection",
   "manifests": [
     {
-      "@id": "http://wellcomelibrary.org/iiif/b11778283/manifest",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
       "@type": "sc:Manifest",
-      "label": "King Mongkut (King Rama IV) of Siam (Thailand). Photograph by John Thomson, 1865.",
+      "label": "DH 1",
       "thumbnail": {
-        "@id": "https://dlcs.io/iiif-img/wellcome/1/bfa6cf75-8833-4212-a9bc-573086b56bdb/full/!1024,1024/0/default.jpg",
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c/full/271,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/wellcome/1/bfa6cf75-8833-4212-a9bc-573086b56bdb",
+          "@id": "https://dlcs.io/iiif-img/48/1/a52d3da9-dc2c-4a19-89a4-e5734ce6b51c",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
-      "related": {
-        "@id": "http://wellcomelibrary.org/item/b11778283",
-        "format": "text/html"
-      },
       "seeAlso": {
-        "@id": "http://wellcomelibrary.org/resource/b11778283",
-        "format": "text/turtle"
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
       }
     },
     {
