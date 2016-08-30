@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh48,
+  "@type": "sc:Manifest",
+  "label": "DH 49",
+  "description": "Six children of Francis and Rhoda Blake Delaval",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Arthur Pond"
+    },
+    {
+      "label": "Titles",
+      "value": "Six children of Francis and Rhoda Blake Delaval"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1740–2"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 243 x 183 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 49 (house number 70)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The sitters are, from left to right, Sir John Hussey Delaval (1728-1808), Edward Delaval (1729-1814), Rhoda Delaval (1725-1757), Sir Francis Blake Delaval (1727-1771), Sarah Delaval, later Countess of Mexborough (1742-1821), Elizabeth Delaval (dates unknown?) and Anne Delaval, later Lady Stanhope (1737-1812). A version of the present portrait, evidently a copy, and possibly by Pond’s pupil, Rhoda Delaval, is at Seaton Delaval (NT 1276686). Based upon the sitters relative ages the portrait was probably made sometime in the early 1740s, when Rhoda Delaval, standing at the centre of the portrait was in her mid-teens.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+     {
+      "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096/full/301,400/0/default.jpg",
+          "height": 3110,
+          "width": 2342,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3110,
+                "width": 2342,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3110,
+                  "width": 2342,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
