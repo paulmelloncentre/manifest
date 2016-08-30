@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh43",
+  "@type": "sc:Manifest",
+  "label": "DH 43",
+  "description": "The four eldest children of Francis and Rhoda Blake-Delaval",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Arthur Pond"
+    },
+    {
+      "label": "Titles",
+      "value": "The four eldest children of Francis and Rhoda Blake-Delaval"
+    },
+    {
+      "label": "Date",
+      "value": "Early 1740s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 244 x 183 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 43 (house number 77)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>This large group portrait by Arthur Pond features from left to right, Edward Delaval (1729-1814), John Hussey Delaval (1728-1808), Rhoda Delaval, later Lady Astley (1725-1757), Sir Francis Blake Delaval (1727-1771).  Judging from the relative age of the sitters, the portrait was probably painted sometime during the early 1740s, when Rhoda Delaval was being tutored by Pond, and practicing as an artist in her own right.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/full/400,264/0/default.jpg",
+          "height": 2244,
+          "width": 3404,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2244,
+                "width": 3404,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2244,
+                  "width": 3404,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
