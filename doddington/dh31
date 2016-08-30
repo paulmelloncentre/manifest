@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh31",
+  "@type": "sc:Manifest",
+  "label": "DH 31",
+  "description": "The Orange",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "The Orange"
+    },
+    {
+      "label": "Date",
+      "value": "by 1666–7"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 118 x 174 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 31 (house number 83)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The picture was formerly in the collection of the Gunman family and came to Doddington in the early 19th century upon the marriage of Sarah Hussey Delaval to James Gunman. It was evidently commissioned by Captain Christopher Gunman (1634-1685), who was Commanding Officer the Orange, 17 March 1666 to 19 January 1667. Oliver Millar, who inspected the picture at Doddington in 1952, noted: ‘a better picture of his action (3.VIII.1666) against 2 Dutch mean-of-war off the Scillies; a little nearer Van de Velde, but the sea is weak and coarse.’ Oliver Millar Notebook VIII, 191, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/full/400,264/0/default.jpg",
+          "height": 2244,
+          "width": 3404,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2244,
+                "width": 3404,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2244,
+                  "width": 3404,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/3f668c8f-ee10-459b-89b5-9271d4b2e58e/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
