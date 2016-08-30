@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh36",
+  "@type": "sc:Manifest",
+  "label": "DH 36",
+  "description": "Henry Crookshank, 1st Viscount Crookshank",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "John St Hellier Lander"
+    },
+    {
+      "label": "Titles",
+      "value": "Henry Crookshank, 1st Viscount Crookshank"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 70 x 90 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 36 (house number 101)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait represents Harry Frederick Comfort Crookshank, 1st Viscount Crookshank (1893-1961). Educated Eton College and Magdalen College, Oxford, Crookshank joined the Hampshire Regiment and served as a Captain in the Grenadier Guards during the First World War. In 1916 he was wounded in action, when he was castrated by shrapnel.  In 1919 Crookshank joined the Diplomatic Service, working at the British Embassy in Washington DC until 1924, when he was elected Conservative MP for Gainsborough. A government minister, he was Leader of the House of Commons from 1951 to 1955.  In 1956 he retired from the House of Commons and raised to the peerage as Viscount Crookshank. He died in October 1961, and following a funeral service at Westminster Abbey, was buried at Lincoln Cathedral. Crookshank was a close friend of Colonel Francis ‘Bobby’ Cracroft Jarvis. He rented Doddington Hall from Jarvis during the summer in the 1930s. Crookshank also presented the appliqué Egyptian tent to Doddington, in which he entertained his constituents, and which is now situated in the Tent Room on the first floor.<br><br>The artist, John St Helier Lander (1868-1944), was born Channel Islands, hence the addition of ‘St’ to his surname. He studied at Calderon’s School, and subsequently in Paris, at the Academie Julian, and the Royal Academy Schools. Lander’s prestigious portrait commissions included members of the Royal Family, notably Prince of Wales (future Edward VIII), Prince George, Duke of Kent, George V and George VI.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36/full/311,400/0/default.jpg",
+          "height": 3083,
+          "width": 2398,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3083,
+                "width": 2398,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3083,
+                  "width": 2398,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/a17bfe5d-3d06-4f9b-948b-7acb16f65f36/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
