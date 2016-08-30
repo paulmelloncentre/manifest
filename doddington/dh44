@@ -1,0 +1,121 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh44",
+  "@type": "sc:Manifest",
+  "label": "DH 44",
+  "description": "? Rhoda Delaval (Called ‘Lady Tyrconnel, née Sarah Hussey’)",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Attributed to Benjamin Wilson"
+    },
+    {
+      "label": "Titles",
+      "value": "? Rhoda Delaval (Called ‘Lady Tyrconnel, née Sarah Hussey’)"
+    },
+    {
+      "label": "Date",
+      "value": "? ca. 1750"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 78 x 64 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 44 (house number 78)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The sitter has been identified in the past as Sarah Hussey Delaval (1760-1800), later Lady Tyrconnel, daughter of Sir John Hussey Delaval, married George Carpenter, 2nd Earl of Tyrconnell (1750-1805), 3 June 1780. If the sitter is Sarah Hussey Delaval, it cannot have been painted before c.1780, and yet it looks earlier. A comparison with James McArdell’s engraving after Rhoda Delaval’s lost self portrait, ‘Mrs Astley’ (National Portrait Gallery, NPG D562), suggests that the sitter is quite possibly Rhoda Delaval (1725-1757), in which case the portrait would date to about 1750.  Comparison can also be made with the portrait by Arthur Pond at Seaton Delaval of around 1750, depicted Rhoda Delaval seated seated with a book, (Seaton Delaval, NT 1276704]. The costume in the present portrait may be theatrical.  A suggested attribution to Benjamin Wilson may be considered.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9/full/328,400/0/default.jpg",
+          "height": 2994,
+          "width": 2457,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2994,
+                "width": 2457,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2994,
+                  "width": 2457,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/83a55f9e-8a16-4b82-a864-987e16dc61d9/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1/full/314,400/0/default.jpg",
+          "height": 3077,
+          "width": 2414,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3077,
+                "width": 2414,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3077,
+                  "width": 2414,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
