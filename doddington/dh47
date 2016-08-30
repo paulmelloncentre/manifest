@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh47",
+  "@type": "sc:Manifest",
+  "label": "DH 47",
+  "description": "Six children of Rhoda and Francis Blake Delaval",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Attributed to Rhoda Delaval and Alexander or Joseph Van Aken"
+    },
+    {
+      "label": "Titles",
+      "value": "Six children of Rhoda and Francis Blake Delaval"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1740"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 230 x 180 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 47 (house number 68)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The sitters are, presumably, from left to right, Sir Francis Blake Delaval (1727-1771), Sir John Hussey Delaval (1728-1808), Edward Delaval (1729-1814), Anne Delaval, later Lady Stanhope (1737-1812), Sarah Delaval, later Countess of Mexborough (1742-1821), and Elizabeth Delaval (dates unknown?). Traditionally, it is stated that the heads of the six Delaval children, which are painted upon separate squares of canvas, and sewn into the larger canvas, are by their elder sister, Rhoda Delaval, and that the larger canvas was painted by the professional drapery painter, possibly Joseph or Alexander Van Aken. (The current Doddington guidebook in reference to the portrait, states that the large canvas was painted by ‘Van Hawken’ – presumably a reference to Van Aken) The date of the portrait, assuming that the heads are by Rhoda Delaval, together with the estimated ages of the children, must be no later than 1740, and possibly earlier. Oliver Millar, who inspected the picture in 1952, stated ‘[?Hussy], Ralph, Rhoda, Anne and Sarah Delaval: said to have been painted in 1747 by their sister: a large group of children, pretty poor, but not obviously the work of an amateur’. Oliver Millar, Notebook VIII, 193, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775/full/313,400/0/default.jpg",
+          "height": 3079,
+          "width": 2410,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3079,
+                "width": 2410,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3079,
+                  "width": 2410,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
