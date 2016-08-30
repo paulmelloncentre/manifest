@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh30",
+  "@type": "sc:Manifest",
+  "label": "DH 30",
+  "description": "The Royal Yacht Anne",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "The Royal Yacht Anne"
+    },
+    {
+      "label": "Date",
+      "value": "? ca. 1670–7"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 87 x 155 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 30 (house number 86)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The picture was formerly in the collection of the Gunman family and came to Doddington in the early 19th century upon the marriage of Sarah Hussey Delaval to James Gunman. It was evidently commissioned by Captain Christopher Gunman (1634-1685) Commanding Officer of the Royal yacht, Anne, 16 February 1670 to 2 July 1672, and again, 26 January 1677 to 24 September 1677. Oliver Millar, who inspected the picture at Doddington in 1952, noted: ‘Capt. Gunman off Copenhagen, fired on for refusing to strike his colours; of this same type, noted, but pretty coarse: signed lwl [?] on a piece of wood, .. VV (perhaps as a fake Van de Velde signature)’ Oliver Millar Notebook VIII, 191-93, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9/full/400,224/0/default.jpg",
+          "height": 2055,
+          "width": 3662,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2055,
+                "width": 3662,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2055,
+                  "width": 3662,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/e19f5ceb-d3ec-46e8-b53b-474777ef34f9/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
