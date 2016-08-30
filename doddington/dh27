@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh27",
+  "@type": "sc:Manifest",
+  "label": "DH 27",
+  "description": "John Hussey, Royalist Captain of Horse",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "John Hussey, Royalist Captain of Horse"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1640–3"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 79 x 59 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 29 (house number possibly 99)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>John Hussey (?1623-1643). Baptised at Honington, Lincolnshire. 2 February 1623, the son of Sir Edward Hussey (1585-c.1648) and Elizabeth Anton (1593-1658). His brother was Thomas Hussey (1613-1641), heir to Doddington Hall. John Hussey was killed by a musket ball while defending Gainsborough for the Royalists  on 27 July 1643. His buff coat with the bullet hole and breastplate are in the collection at Doddington Hall, currently on display at the National Civil War Centre, Newark.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153/full/299,400/0/default.jpg",
+          "height": 3110,
+          "width": 2323,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3110,
+                "width": 2323,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3110,
+                  "width": 2323,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/170ed4fd-b8f4-4bde-9522-d18f92ce2153/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
