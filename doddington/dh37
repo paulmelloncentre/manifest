@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh37",
+  "@type": "sc:Manifest",
+  "label": "DH 37",
+  "description": "George Knollis Jarvis",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Attributed to Charles Lutyens (1829–1915)"
+    },
+    {
+      "label": "Titles",
+      "value": "George Knollis Jarvis"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 125 x 100 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 37 (house number 90)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Portrait of George Knollis Jarvis (1802-1873), son of Colonel George Ralph Payne Jarvis (d.1851) and Philadelphia Blackwell. He married Emily Pretyman, and was the father of George Eden Jarvis (1840-1918). A suggested attribution for the artist is Charles Augustus Henry Lutyens (1829-1915).</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+   {
+      "@id": "https://dlcs.io/iiif-img/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894/full/320,400/0/default.jpg",
+          "height": 3076,
+          "width": 2460,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3076,
+                "width": 2460,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3076,
+                  "width": 2460,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/f26be7f3-213d-4f0f-b70d-c37cffb13894/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
