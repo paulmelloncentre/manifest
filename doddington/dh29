@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh29",
+  "@type": "sc:Manifest",
+  "label": "DH 29",
+  "description": "The Orange accompanied by Little Victory",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "The Wreck of Sir Cloudesley Shovel's flagship 'The Association'"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 75 x 171 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 29 (house number 85)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>On 22 October 1707 a British fleet commanded by Sir Cloudesley Shovell, foundered in bad weather on rocks off the Isles of Scilly, on the return from a mission during the War of the Spanish Succession. Four ships were lost, including Shovell’s flagship, HMS Association. The entire crew, together with Shovell, drowned. Altogether, more than 1300 British seamen were lost, making it among the greatest maritime disasters in British naval history. Shovell’s body was eventually recovered from a makeshift grave on the beach and was interred in Westminster Abbey, commemorated by an imposing monument in the south choir isle. Oliver Millar, who inspected the picture at Doddington in 1952, noted: ‘Seapiece. Sir Cloudesley Shovell, wrecked off the Scillies; stormy picturesque scene, all rather fluent, watery and brown and freely painted.’ Oliver Millar Notebook VIII, 191, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1/full/400,175/0/default.jpg",
+          "height": 1772,
+          "width": 4040,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 1772,
+                "width": 4040,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 1772,
+                  "width": 4040,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/b50b2393-e9ad-4ec2-b4e0-565019ab00f1/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
