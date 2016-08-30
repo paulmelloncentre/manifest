@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh32",
+  "@type": "sc:Manifest",
+  "label": "DH 32",
+  "description": "'Perihelion'",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "? Circle of Hendrick Danckerts"
+    },
+    {
+      "label": "Titles",
+      "value": "'Perihelion'"
+    },
+    {
+      "label": "Date",
+      "value": "? ca. 1675"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 60 x 91 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 32 (house number 81)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The picture was possibly formerly in the collection of the Gunman family and may have come to Doddington in the early 19th century upon the marriage of Sarah Hussey Delaval to James Gunman. It may have been commissioned by Captain Christopher Gunman (1634-1685) in the mid-1670s.  The painting’s title refers presumably to the optical phenomenon known as the ‘parhelic circle’ (also known as ‘sun dogs’), light sources that appear either side of the sun - with reference to the apparent three suns in the paintings. Oliver Millar, during a visit he made to Doddington in 1952, was referring presumably to the present picture (rather than DH33 below) when he noted: ‘Harbour Scene: large picturesque canvas, remotely in the manner of Weenix, presumably painted in England, c.1675; not far from Danckerts’ . Oliver Millar, Notebook VIII, 191-2, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c/full/400,250/0/default.jpg",
+          "height": 2166,
+          "width": 3465,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2166,
+                "width": 3465,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2166,
+                  "width": 3465,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/8d4f2382-5761-4199-9b6a-80297506ee3c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
