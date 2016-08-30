@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh38",
+  "@type": "sc:Manifest",
+  "label": "DH 38",
+  "description": "Edward Hussey Delaval",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Edward Hussey Delaval"
+    },
+    {
+      "label": "Titles",
+      "value": "The Orange"
+    },
+    {
+      "label": "Date",
+      "value": "by 1814"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 125 x 100 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 38 (house number 92)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Portrait of Edward Hussey Delaval (1729-1814), chemist and experimental physicist. The portrait refers through documents and the background depicting St Paul’s Cathedral being struck by lightning, to Delaval’s research on lightning conductors. In 1764 Delaval had given an account of the effects of lightning on St Bride’s church, Fleet Street, and was later appointed to a committee by the Royal Society, along with Benjamin Franklin, to research the means to alleviate the danger from St Paul’s being struck by lightning. The results were published in 1769 under the title of ‘Commissioners Proposal of a Method for Securing the Cathedral of St. Paul’s from Damage by Lightning’. When St Paul’s was struck on 22 March 1772, Delaval produced an account of the effects. In 1777 Delaval published his research into the cause of permanent colours of opaque bodies, in relation to his experiments with glass and metals. French, German and Italian editions followed. The present portrait includes in the left lower foreground, the title page of the Italian edition, published in Bologna in 1779.<br><br>George Francis Joseph (1764-1846) was admitted Royal Academy Schools in 1784.  In 1792 he was awarded a gold medal by the Academy for a ‘Scene from Coriolanus’. In 1811 he was awarded a premium by the British Institution for the ‘Return of Priam with the dead body of Hector’, and in 1812 for ‘Procession to Calvary’. Joseph became an Associate Royal Academician in 1813., and practiced in London until retiring to Cambridge in 1836. Other portraits include the engraver, William Sharp (Wellcome Library); Spencer Perceval (Trinity College, University of Cambridge), Sir Thomas Stamford Raffles (National Portrait Gallery), and Mrs Siddons as the Tragic Muse (location unknown).</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909/full/321,400/0/default.jpg",
+          "height": 3094,
+          "width": 2481,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3094,
+                "width": 2481,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3094,
+                  "width": 2481,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/c52f0d6b-1cec-435e-85dc-85839b0a6909/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
