@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh34",
+  "@type": "sc:Manifest",
+  "label": "DH 34",
+  "description": "Captain Christopher Gunman",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Captain Christopher Gunman"
+    },
+    {
+      "label": "Date",
+      "value": "Later 17th century"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 140 x 100 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 34 (house number 80)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Christopher Gunman was a British royal naval officer.  Born in Dramm, Norway, on 17 May 1634, in May 1663 Gunman was appointed Master of the Oxford, and in December, Bonaventure. He was subsequently Commanding Officer of the Orange, Reserve, Forrester, Anne and Mary, as well as Lieutenant of Prince. Gunman died of gangrene in Calais on 25 March 1685. James Gunman (1747-1824), who married Edward Delaval’s daughter, Sarah (13 April 1805), was the great grandson of Christopher Gunman, and presumably inherited the family portraits and naval pictures at Doddington. For a history of the Gunman family see https://doverhistorian.com/2013/11/27/dynasty-of-dover-part-iii-the-gunmans/<br><br>Oliver Millar, who inspected the portrait at Doddington in 1952 observed: ‘Captain Christopher Gunman: very weak ¾ length lol. Front, c.1670: r. hand on cannon, his ship in a seascape lol’. Oliver Millar Notebook VIII, 19, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+   {
+      "@id": "https://dlcs.io/iiif-img/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6/full/286,400/0/default.jpg",
+          "height": 3307,
+          "width": 2362,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3307,
+                "width": 2362,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3307,
+                  "width": 2362,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/ddb7381c-c085-4bda-a181-2181a43eb9e6/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
