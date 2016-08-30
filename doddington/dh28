@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh28",
+  "@type": "sc:Manifest",
+  "label": "DH 28",
+  "description": "The Orange accompanied by Little Victory",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "The Orange accompanied by Little Victory"
+    },
+    {
+      "label": "Date",
+      "value": "After 1666–7"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 101 x 110 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 28 (house number 84)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The picture was formerly in the collection of the Gunman family and came to Doddington in the early 19th century upon the marriage of Sarah Hussey Delaval to James Gunman. It was probably commissioned by Captain Christopher Gunman who commanded the Fifth Rate, Orange (formerly a captured Dutch vessel, ‘Oranjeboom’) from 17 March 1666 to 19 January 1667. It was reported in the London Gazette, 8 August 1666, Falmouth, an encounter with Dutch vessels in which both the Orange and the Victory had been damaged, several crew had been killed and the Captain of the Orange [Gunman] had ‘lost his left arm’ (<a href=“http://threedecks.org/index.php?display_type=show_ship&id=5623”>See threedecks.org</a>.<br><br>In January 1678 Gunman, who evidently has a keen interest in the genre, compiled a list of the naval battles depicted by Willem van de Velde  (see National Maritime Museum website under van de Velde, BHC3556. <a href=“http://collections.rmg.co.uk/collections/objects/12354.html”>See collections record</a><br><Br>Oliver Millar, who inspected the picture at Doddington in 1952, noted that Captain Christopher Gunman commanded the Duke of York’s yacht and among the pictures formerly belonging to him at Doddington are perhaps DH28, DH30, and DH31. Of the present picture Millar noted: ‘a weak picture of a yacht and other vessels, c.1670, very coarse, but quite [?well] in colour. Perhaps signed lor. to l of a piece of driftwood.’ Oliver Millar Notebook VIII, 191, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/c8becc23-de06-4017-8a5a-9823ae522471/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/c8becc23-de06-4017-8a5a-9823ae522471/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/c8becc23-de06-4017-8a5a-9823ae522471/full/400,367/0/default.jpg",
+          "height": 2585,
+          "width": 2815,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/c8becc23-de06-4017-8a5a-9823ae522471/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/c8becc23-de06-4017-8a5a-9823ae522471-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2585,
+                "width": 2815,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/c8becc23-de06-4017-8a5a-9823ae522471",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2585,
+                  "width": 2815,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/c8becc23-de06-4017-8a5a-9823ae522471/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
