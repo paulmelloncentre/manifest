@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh48,
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh48",
   "@type": "sc:Manifest",
   "label": "DH 49",
   "description": "Six children of Francis and Rhoda Blake Delaval",
