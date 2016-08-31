@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh83",
+  "@type": "sc:Manifest",
+  "label": "DH 83",
+  "description": "Portrait of an unknown woman",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "After Van Dyck"
+    },
+    {
+      "label": "Titles",
+      "value": "Charles I"
+    },
+    {
+      "label": "Date",
+      "value": "after 1635–36"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 60 x 53 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 83 (house number 15)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait is a reduced scale copy of a portrait of Charles I (1600-1649) painted in 1635-36, among the best versions being that in the collection of the Duke of Norfolk, Arundel Castle, Sussex. The composition was very popular and numerous versions and copies exist, for example in the National Portrait Gallery, London, Wilton House, Welbeck Abbey and Sudeley Castle. The present copy would appear to be later, and was possibly made in the eighteenth century.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>Susan J. Barnes, Nora de Poorter, Oliver Millar and Horst Vey, Van Dyck. A Complete Catalogue of the Paintings, New Haven and London 2004, p.466, no. IV.49.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/8baf2355-9200-4977-ac1a-e99c12817c04/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/8baf2355-9200-4977-ac1a-e99c12817c04/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/8baf2355-9200-4977-ac1a-e99c12817c04/full/353,400/0/default.jpg",
+          "height": 2894,
+          "width": 2556,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/8baf2355-9200-4977-ac1a-e99c12817c04/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/8baf2355-9200-4977-ac1a-e99c12817c04-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2894,
+                "width": 2556,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/8baf2355-9200-4977-ac1a-e99c12817c04",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2894,
+                  "width": 2556,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/8baf2355-9200-4977-ac1a-e99c12817c04/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
