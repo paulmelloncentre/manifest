@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh67",
+  "@type": "sc:Manifest",
+  "label": "DH 67",
+  "description": "Unknown sitter in army uniform",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Unknown artist"
+    },
+    {
+      "label": "Titles",
+      "value": "Unknown sitter in army uniform"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 50 x 40 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 67 (house number 33)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Portrait of a gentleman in army officer’s uniform, painted probably in the mid-nineteenth century, presumably a member of the Jarvis family, possibly George Eden Jarvis (1840-1919), who served in the 18th Hussars regiment.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579/full/320,400/0/default.jpg",
+          "height": 3051,
+          "width": 2441,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3051,
+                "width": 2441,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3051,
+                  "width": 2441,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/a1d0c9cd-a2c3-4c9f-b3f2-bce84bafb579/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
