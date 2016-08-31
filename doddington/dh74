@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh74",
+  "@type": "sc:Manifest",
+  "label": "DH 74",
+  "description": "Piggy",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "John Arnold Alfred Wheeler"
+    },
+    {
+      "label": "Titles",
+      "value": "Piggy"
+    },
+    {
+      "label": "Date",
+      "value": "after 1847"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 69 x 89 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 74 (house number 38)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>This picture of a bay horse in a stall was painted by John Wheeler (1821-1903). Wheeler, who specialized in equestrian portraits and dogs, was born in Gloucestershire, the son of a stone cutter. Following his discharge from the Queen’s Dragoon Guards in 1847, Wheeler, who was apparently self-taught, took up sporting painting. Based in Bath and then in London, he gained patronage from prominent members of the aristocracy, including the Dukes of Beaufort, Portland, Westminster and Rutland, as well as the Earls of Roseberry and Caithness.  For a comparative painting of a horse in a stall by Wheeler see Christie’s Sporting and Wildlife sale,  27 June 2011 (74).</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+        {
+      "@id": "https://dlcs.io/iiif-img/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1/full/400,310/0/default.jpg",
+          "height": 2445,
+          "width": 3154,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2445,
+                "width": 3154,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2445,
+                  "width": 3154,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/5f04ccef-ff13-4ce9-85ef-872b293326c1/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
