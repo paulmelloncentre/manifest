@@ -1,0 +1,55 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh103",
+  "@type": "sc:Manifest",
+  "label": "DH 103",
+  "description": "Charles XII of Sweden",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "David von Krafft"
+    },
+    {
+      "label": "Titles",
+      "value": "Charles XII of Sweden"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas, lettered bottom left 'CHARLES XIIth OF SWEDEN'"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 226 x 149cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 103 (house number 8)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Charles XII (1682-1718) was king of Sweden from 1697 to 1718. Having acceded to the throne as a teenager, Charles prided himself on his military prowess, fortitude and temperance, commanding the Swedish army during the war against the triple alliance of Denmark-Norway, Saxony-Poland-Lithuania and Russia in the so-called Great Northern War. Although Charles II won several victories Sweden was ultimately defeated and Charles was killed during the siege of the fortress at Frederiksten in November 1718. Following his death, Charles came to be regarded across Europe as the embodiment of the virtuous warrior king, attracting the attention of Voltaire, who published his biography,  and Samuel Johnson, who featured him in his poem, ‘The Vanity of Human Wishes’.<br><br>David von Krafft (1655-1724) was born in Hamburg, and after he was orphaned trained as an artist with his uncle, David Klöcker, portraitist at the Swedish royal court, whom he succeeded as court painter following his death in 1698. Kraft’s principal activity as court painter was to produce images of the king, Charles XII. The present portrait, in which Charles XII, is shown wearing his distinctive campaign uniform, exists in a number of versions. A three-quarter length version, formerly in the collection of the British Museum, is now in the Government Art Collection (GAC 27).</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+  ]
+}
