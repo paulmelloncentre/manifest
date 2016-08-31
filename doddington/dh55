@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh55",
+  "@type": "sc:Manifest",
+  "label": "DH 55",
+  "description": "Called 'Mary Eden'",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Arthur Pond"
+    },
+    {
+      "label": "Titles",
+      "value": "Called 'Mary Eden'"
+    },
+    {
+      "label": "Date",
+      "value": "1730s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 73 x 60 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 55 (house number 53)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The identity of the sitter is not known. Oliver Millar, who inspected the portrait at Doddington in 1952 noted: ‘Pond. Portrait of a woman, signed and dated 173…:  bust to front in painted oval, in white with a blue cloak: light, thin and scratchy, but quite good and not at all like the two large groups of the delavals, c. 1740, which are attributed to him’. Oliver Millar Notebook VIII, 193, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd/full/329,400/0/default.jpg",
+          "height": 3018,
+          "width": 2481,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3018,
+                "width": 2481,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3018,
+                  "width": 2481,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/1c67ab6d-de90-44ea-b1d2-f1365b2807dd/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
