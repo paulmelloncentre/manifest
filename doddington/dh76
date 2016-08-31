@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh76",
+  "@type": "sc:Manifest",
+  "label": "DH 76",
+  "description": "Anthony Wauchope",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "After Henry Raeburn"
+    },
+    {
+      "label": "Titles",
+      "value": "Anthony Wauchope"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 52 x 40 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 76 (house number - none)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait of Anthony Wauchope came to Doddington through the marriage of Charles Francis ‘Bobby’ Cracroft Jarvis (1875-1957) to Helen Constance Hunter Blair, daughter of Sir Edward Hunter Blair of Blairquhan and Dunskey, 4th Bt and Elizabeth Wauchope.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a/full/308,400/0/default.jpg",
+          "height": 3071,
+          "width": 2362,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3071,
+                "width": 2362,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3071,
+                  "width": 2362,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/9c56971d-fe83-4bb0-b72c-93d207d2550a/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
