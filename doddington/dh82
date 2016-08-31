@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh82",
+  "@type": "sc:Manifest",
+  "label": "DH 82",
+  "description": "Portrait of an unknown woman",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "? Flemish school"
+    },
+    {
+      "label": "Titles",
+      "value": "Portrait of an unknown woman"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 25 x 19.5 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 82 (house number 14)"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2/full/312,400/0/default.jpg",
+          "height": 3150,
+          "width": 2457,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3150,
+                "width": 2457,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3150,
+                  "width": 2457,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/6c6b926c-fb9f-4e66-b090-cda5ab71fbb2/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
