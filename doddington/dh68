@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh68",
+  "@type": "sc:Manifest",
+  "label": "DH 68",
+  "description": "Martha Lowth",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "John Vanderbank"
+    },
+    {
+      "label": "Titles",
+      "value": "Martha Lowth"
+    },
+    {
+      "label": "Date",
+      "value": "[apparently signed & dated]"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 74 x 62 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 68 (house number 32)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait depicts Martha Lowth, daughter of William Lowth (1660-1732). She married Robert Eden DD (1701-1759) [DH66] and was the mother of Mary Eden [DH51]. Oliver Millar, who inspected the portrait in 1952, noted:  ‘Martha Louth: obscurely signed and dated: bust  to l. front in a painted oval; in yellow with blue cloak: typical and unimportant’. Oliver Millar Notebook PMC: VIII, 193, Paul Mellon Centre Collection.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/full/335,400/0/default.jpg",
+          "height": 2972,
+          "width": 2490,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2972,
+                "width": 2490,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2972,
+                  "width": 2490,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
