@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh80",
+  "@type": "sc:Manifest",
+  "label": "DH 80",
+  "description": "Called 'Captain James Gunman'",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Called 'Captain James Gunman'"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 66 x 52 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 80 (house number 12)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The identification of the sitter does not appear convincing, given that Gunman was a naval officer. Rather, the portrait appears to represent a scholar.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c/full/315,400/0/default.jpg",
+          "height": 3118,
+          "width": 2457,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3118,
+                "width": 2457,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3118,
+                  "width": 2457,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/23a223ad-a1ca-48a9-899c-d49613d4b52c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
