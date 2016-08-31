@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh62",
+  "@type": "sc:Manifest",
+  "label": "DH 62",
+  "description": "Lt. Colonel Charles Francis Cracroft Jarvis",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Alfred Jonniaux"
+    },
+    {
+      "label": "Titles",
+      "value": "Lt. Colonel Charles Francis Cracroft Jarvis"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 66 x 53 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 62 (house number 47)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait depicts Charles Francis ‘Bobby’ Cracroft Jarvis, OBE (1875-1957). Bobby Jarvis was born Kettlethorpe, Lincolnshire, 3 May 1875, the son of the Reverend Francis Armcotts Jarvis and Caroline Lloyd. Jarvis served in the South African War 1899-1901 with the 1st Battalion Yorkshire Regiment, and was present at the Relief of Kimberly and operations in the Orange Free State. He held the office of Justice of the Peace, and gained the rank of Lieutenant-Colonel in the service of the 19th regiment. Jarvis married Helen Constance Hunter Blair, daughter of Sir Edward Hunter Blair of Blairquhan and Dunskey, 4th Bt and Elizabeth Wauchope, and widow of Captain Johnston Stewart of Physgill, on 6 June 1906. Bobby Jarvis was the father of Ralph George Edward Jarvis (1907-1973). He died on 18 January 1957, North Kesteven, Lincolnshire.<br><br>The artist, Alfred Jonniaux (1882-1974), was a Belgian portrait painter. Born in Brussels, Jonniaux studied at the Academie Royale des Beaux-Arts, before establishing himself as a successful society portrait painter in London, based in Yeoman’s Row, Chelsea. Following the occupation of Belgium during the Second World War, he moved to America, where he gained citizenship in 1946. Jonniaux established studios in San Francisco and Washington DC, where he painted the portrait of the President of the United States, Franklin Delano Roosevelt.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80/full/321,400/0/default.jpg",
+          "height": 2988,
+          "width": 2400,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2988,
+                "width": 2400,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2988,
+                  "width": 2400,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/28b5a716-8b70-4b8a-a1eb-455d29eb7d80/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
