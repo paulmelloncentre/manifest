@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh51",
+  "@type": "sc:Manifest",
+  "label": "DH 51",
+  "description": "Mary Eden",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Mary Eden"
+    },
+    {
+      "label": "Date",
+      "value": "? ca. 1750s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 63 x 75 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 51 (house number 72)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Mary Eden was the daughter of Martha Eden (nee Lowth), and Robert Eden, and granddaughter of  DD (1660-1732). Mary Eden’s father, Robert Eden, was Archdeacon and Prebendary of Winchester Cathedral. This portrait came to Doddington through the Jarvis family in the nineteenth century.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863/full/336,400/0/default.jpg",
+          "height": 2953,
+          "width": 2481,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2481,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2481,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
