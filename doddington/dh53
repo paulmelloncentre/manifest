@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh53",
+  "@type": "sc:Manifest",
+  "label": "DH 53",
+  "description": "Edward Hussey Delaval (graduation portrait)",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Henry Stone's Dog"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 98 x 129 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 53 (house number 74)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The dog belonged to Henry Stone of the Manor House, Skellingthorpe, Lincolnshire. According to local legend, the dog prevented Stone from being struck by lightning (tugging at his master’s coat when he was aiming to shoot a pheasant in a tree, which was about to be rent in half by a lighting bolt). Stone, who died aged sixty-two on 26 June 1693, had no heirs, endowed his estate to Christ’s Hospital. He left the portrait of his dog to his friends and neighbours, the Hussey family at Doddington.  The dog was painted presumably by a local artist. To the right and above the dog a pheasant perches upon the branch of a blasted tree, a detail that presumably alludes to Stone’s fortunate escape and his dog’s sagacious intervention. For further information see http://www.rodcollins.com/wordpress/doddington-in-lincolnshire-village-church-history .</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+{
+      "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/00895223-ca75-4a67-8022-931266af33b5/full/400,304/0/default.jpg",
+          "height": 2392,
+          "width": 3149,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2392,
+                "width": 3149,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2392,
+                  "width": 3149,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
