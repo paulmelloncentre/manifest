@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh89",
+  "@type": "sc:Manifest",
+  "label": "DH 89",
+  "description": "Sir Edward Hussey",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Author unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Sir Edward Hussey"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 83.5 x 62 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 89 (house number 21)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait represents Sir Edward Hussey (1585-1648), the son of Sir Charles Hussey of Honington and Ellen Birch. In 1611 he was created Baronet of Honington, Lincolnshire, and in 1618 High Sheriff of Lincolnshire. In 1609 he married Elizabeth Anton (1591-1658), granddaughter of Thomas Tailor, builder of Doddington Hall. During the Civil War, Hussey was a prominent Royalist. As a result, under the terms of the Treaty of Uxbridge, 1645, Hussey was barred from public office, and was subject subsequently to heavy fines. The present portrait, by an unknown artist, possibly active in Lincolnshire, probably dates from around 1640.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178/full/299,400/0/default.jpg",
+          "height": 3186,
+          "width": 2380,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3186,
+                "width": 2380,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3186,
+                  "width": 2380,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/4794dfb9-b03f-4b05-8894-7cd5a523d178/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
