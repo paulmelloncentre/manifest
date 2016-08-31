@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh86",
+  "@type": "sc:Manifest",
+  "label": "DH 86",
+  "description": "James I of England and VI of Scotland",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Studio of John de Critz the Elder"
+    },
+    {
+      "label": "Titles",
+      "value": "James I of England and VI of Scotland"
+    },
+    {
+      "label": "Date",
+      "value": "unknownw"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 110 x 85 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 85 (house number 25)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>This is one of several variants of the three-quarter length portrait of James I by John de Critz the Elder (c.1550-1642).  Others include the versions in the National Maritime Museum (BHC2796) and at Montacute House, presented by James I to the former Speaker of the House of Commons, Sir Edward Phelips. De Critz, who came to England from Antwerp as a child, was established as an independent artist by the 1590s. From 1603 he held the appointment of serjeant painter of the king, a post he held jointly with Leonard Fryer and subsequently Robert Peake. The composition has been dated to c.1610, by which time de Critz operated an extensive studio.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289/full/309,400/0/default.jpg",
+          "height": 3097,
+          "width": 2393,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3097,
+                "width": 2393,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3097,
+                  "width": 2393,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/4dd69854-fc98-41e6-8a3a-514cf3b7a289/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
