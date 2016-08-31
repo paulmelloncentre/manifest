@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh88",
+  "@type": "sc:Manifest",
+  "label": "DH 88",
+  "description": "Holy Family with St Elizabeth and John the Baptist",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "After Carlo Maratti"
+    },
+    {
+      "label": "Titles",
+      "value": "Holy Family with St Elizabeth and John the Baptist"
+    },
+    {
+      "label": "Date",
+      "value": "early to mid-1600s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 45 x 38 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 87 (house number 20)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The loose handling suggests that this is a modello for a larger composition. Stylistically it would appear to be Italian, seventeenth century, in the manner of Carlo Maratta (1625-1713).</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88/full/338,400/0/default.jpg",
+          "height": 2950,
+          "width": 2491,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2950,
+                "width": 2491,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2950,
+                  "width": 2491,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/afe704e7-d2be-4939-8ef6-091cc8c61d88/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
