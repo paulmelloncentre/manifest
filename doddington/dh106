@@ -1,0 +1,104 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh106",
+  "@type": "sc:Manifest",
+  "label": "DH 106",
+  "description": "Robert Pregion Hurton",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Circle of Thomas Hudson"
+    },
+    {
+      "label": "Titles",
+      "value": "Robert Pregion Hurton"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas, lettered lower left: 'Robt. Pregion Hurton, M.A. / D.C. to Lord Delaval'"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 75 x 65 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 106"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait depicts Robert Pregieon or Robert Pregion Hurton (c.1722-1788), who was curate and subsequently Rector at Doddington. Hurton was the son of a Lincolnshire yeoman and attended Apley school, Lincoln, matriculating in 1740. Hurton was admitted as a pensioner at St John’s College Cambridge aged eighteen, receiving his BA 1743-4 and MA 1747. He was ordained Deacon 22 September 1745 and became curate to the non-resident Rector at Doddington, George Wilson. He was ordained Priest 20 September 1747 by the Bishop of Lincoln. The same year he was instituted Vicar of Crowle, Lincolnshire on the presentation of John Kent, Joseph Peart  and Elizabeth Morton. He remained Vicar of Crowle until 1752. From 1749 to 1787 he was vicar of Stainton-by-Langworth, and perpetual curate Barlings, Lincolnshire.  In March 1770 Hurton was appointed Rector at Doddington under the patronage of Sir John Delaval, until his death in early in 1788.<br><br>The portrait was probably made by or after 1747, following Hurton’s appointment to the curacy at Doddington, and the award of his Masters degree. It has been ascribed to a follower of Thomas Hudson. The picture was commissioned presumably by or on behalf of Hurton. It was acquired recently for Doddington Hall.</p>"
+    },
+    {
+      "label": "Provenance",
+      "value": "<p>Anderson and Garland Ltd, Newcastle upon Tyne, 25 March 2015 (298)</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>R.E.G. Cole, The Registers of Doddington-Pigot, Co. Lincoln, 1562-1812, London 1898, pp. x-xi</p>"
+    },
+    {
+      "label": "Archival material",
+      "value": "<p>Lincolnshire Archives, Presentation Deed: Crowle, Vicarage, 11 August 1747, DIOC/PD/111/25; Presentation Deed: Crowle, 21 October 1749, DIOC/PD/1749/34 ; Will of Reverend Robert Pregieon or Robert Pregion Hurton, Clerk, Rector of Doddington, 16 January 1788, The National Archives, PROB 11/1161/159</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7/full/331,400/0/default.jpg",
+          "height": 2953,
+          "width": 2441,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2441,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2441,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/855c88d1-8b42-498f-99f7-b7b2b72f67d7/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
