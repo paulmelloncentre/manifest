@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh102",
+  "@type": "sc:Manifest",
+  "label": "DH 102",
+  "description": "Thomas Tailor II",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Attributed to Jan Van Rijn"
+    },
+    {
+      "label": "Titles",
+      "value": "Thomas Tailor II"
+    },
+    {
+      "label": "Date",
+      "value": "? ca. 1620–30"
+    },
+    {
+      "label": "Medium",
+      "value": "?"
+    },
+    {
+      "label": "Dimensions",
+      "value": "?"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 102 (house number 7)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Thomas Tailor II (1580-1652) was the son and heir of Thomas Tailor (1561-1607), Recorder to the Bishop of Lincoln and builder of Doddington Hall, and his second wife, Jane Hollingworth. On the death of Tailor’s son, the Doddington estate passed to his niece, Elizabeth Anton (1591-1658), who married Sir Edward Hussey (1585-1648).<br><br>The portrait has been attributed to one ‘Jan Van Rijn’, otherwise unknown.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+        {
+      "@id": "https://dlcs.io/iiif-img/48/1/82a59408-71a9-471c-9d5a-306814c13d80/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/82a59408-71a9-471c-9d5a-306814c13d80/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/82a59408-71a9-471c-9d5a-306814c13d80/full/311,400/0/default.jpg",
+          "height": 3118,
+          "width": 2425,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/82a59408-71a9-471c-9d5a-306814c13d80/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/82a59408-71a9-471c-9d5a-306814c13d80-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3118,
+                "width": 2425,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/82a59408-71a9-471c-9d5a-306814c13d80",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3118,
+                  "width": 2425,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/82a59408-71a9-471c-9d5a-306814c13d80/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
