@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh96",
+  "@type": "sc:Manifest",
+  "label": "DH 96",
+  "description": "Rhoda Hussey",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "? circle of Michael Dahl"
+    },
+    {
+      "label": "Titles",
+      "value": "Rhoda Hussey"
+    },
+    {
+      "label": "Date",
+      "value": "ca. mid-1680s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 121 x 130 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 96 (house number 28)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Three-quarter length portrait of Rhoda Hussey (c.1671-1689), gesturing towards rose blooms. Rhoda Hussey, one of three daughters of Thomas Hussey, 2nd Baronet, of Honington, Lincolnshire and Sarah Langham, eldest daughter of Sir John Langham. She died unmarried, 4 May 1689, aged eighteen, and is buried in the Hussey family chapel at St Wilfrid’s church, Honington, Lincolnshire, where her memorial states that she was the eldest daughter. The present portrait must have been painted shortly before her death.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/8799092a-7655-412b-b3d2-719dfcc3858d/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/8799092a-7655-412b-b3d2-719dfcc3858d/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/8799092a-7655-412b-b3d2-719dfcc3858d/full/372,400/0/default.jpg",
+          "height": 2815,
+          "width": 2621,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/8799092a-7655-412b-b3d2-719dfcc3858d/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/8799092a-7655-412b-b3d2-719dfcc3858d-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2815,
+                "width": 2621,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/8799092a-7655-412b-b3d2-719dfcc3858d",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2815,
+                  "width": 2621,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/8799092a-7655-412b-b3d2-719dfcc3858d/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
