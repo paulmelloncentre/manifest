@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh72",
+  "@type": "sc:Manifest",
+  "label": "DH 72",
+  "description": "Sir Francis Blake Delaval",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Studio of Joshua Reynolds"
+    },
+    {
+      "label": "Titles",
+      "value": "Sir Francis Blake Delaval"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1759–62"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 227 x 147 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 72 (house number 35)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>This full-length portrait commemorates Francis Blake Delaval’s role in the action along the French coast by the British expeditionary force in June 1758, where he had served as a ‘distinguished volunteer’. The composition exists in a number of versions and copies, indicating the importance attached to it by the sitter and his family. The prime autograph version was painted between December 1758 and January 1759. The picture may have been commissioned by Francis Delaval, although it was paid for by his brother, Waterhouse recording an undated receipt: ‘Received from John Hussey Delaval Esq the sum of sixty pounds for Sir Francis Delaval’s Picture whole length by me, J Reynolds’. Reynolds also made a note of the payment in his ledger before 27 March 1762.<br><br>The prime version appears to have descended to the family of the Marquess of Waterford via Sir John Delaval’s granddaughter, Lady Susannah Carpenter, who married Henry, 2nd Marquess of Waterford. It is now located at the seat of the Marquess of Waterford, Curraghmore House, County Waterford, Ireland. A second version, catalogued by David Mannings as autograph, belongs to the Earl of Mexborough, and was previously on loan to York Art Gallery. Mannings catalogues the version at Doddington Hall as a copy. He notes one other full-length copy of the composition, previously in the collection of the Earl of Lanesborough, sold by Christie’s, 13 July 1951 (48, as ‘an Officer’), the present whereabouts of which are unknown. Mannings also notes the existence of three head and shoulders copies of the portrait. In addition, there is a kit-cat sized version at Seaton Delaval (NT 1276714), which was apparently damaged in the fire at Seaton Delaval in 1822, and which may have been cut down from a larger canvas. The quality of the portrait suggests that it is at least partly autograph. There is also a small oval, oil on metal, head and shoulders copy sold Bonhams, Oxford, 5 September 2012 (203) A separate head and shoulders portrait, which Mannings also identifies as Francis Delaval, where the sitter wears a read army coat over a cuirass, would appear to be a portrait of Delaval’s younger brother, Henry Delaval, who was a captain in the British army. This portrait, painted in 1757, is lettered ‘Captain Delaval’, an inscription which appears also on the engraving made from it in 1864 (National Portrait Gallery, NPG D1734)</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>A. Graves and W.V. Cronin, A History of the Works of Sir Joshua Reynolds PRA, 4 vols., London 1899-1901, vol. 1 pp. 239-40, copy annoted by Ellis Waterhouse, Paul Mellon Centre Collection B12297; Malcolm Cormack, ‘The Ledgers of Sir Joshua Reynolds’, The Walpole Society, vol. xlii, 1968-70, p. 132; David Mannings and Martin Postle, A Complete Catalogue of his Paintings, 2 vols., New Haven and London 2000, vol. 1, p. 164, no. 502a; P. Tomory, ‘On Permanent Loan: Eighteenth-Century Portraits’, Preview, York Art Gallery, October 1951, pp. 184-87.<br><br>For Delaval’s role in the expeditionary force of 1758 see W Y Carman, ‘Francis Blake Delaval’, Journal of the Society for Army Historical Research’, XXX, No. 123, Autumn 1952, pp. 113-14; A Journal of the Campaign on the Coast of France, London, J. Townsend, 1758. Lansdowne Tracts, vol. 338, Art. 6 Reed Tracts, vol. 30 (vol. 423), Art. 8;  A Journal, containing every transaction of consequence of the Guards, as well as the rest of his majesty’s troops in the late Expeditions on the coast of France, 1758 ; http://www.kronoskaf.com/syw/index.php?title=1758_-_British_first_expedition_against_the_French_Coasts</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df/full/259,400/0/default.jpg",
+          "height": 3352,
+          "width": 2171,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3352,
+                "width": 2171,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3352,
+                  "width": 2171,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
