@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh69",
+  "@type": "sc:Manifest",
+  "label": "DH 69",
+  "description": "Emily Louise Harriett and George Eden Jarvis",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "William Richard Waters"
+    },
+    {
+      "label": "Titles",
+      "value": "Emily Louise Harriett and George Eden Jarvis"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1850"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 74 x 62 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 69 (house number 31)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>George Eden Jarvis (1840-1919) was born in Dover, Kent, the only son of George Knollis Jarvis (1802-1873) Emily Pretyman (daughter of the Rev. George Thomas Pretyman). In 1856 Jarvis was appointed by purchase to a cornetcy in the 2nd Dragoon Guards, and in June 1857, again by purchase, appointed Lieutenant. He was later Captain in the  18th Hussars. On 17 February 1863 he married Alice Louisa Sherbrooke, daughter of Henry Sherbrooke and Louisa-Ann Fane of Oxton Hall, Nottinghamshire. In 1899 Jarvis commissioned the eminent landscape gardener, William Goldring (1854-1919) to design the west garden at Doddington. Jarvis died on 9 August 1919, and is buried in the churchyard of St Peter, Doddington, adjacent to Doddington Hall.<br><br>The artist, William Richard Waters (1813 – 1880), was born in the Pier District of Dover, the son of a pilot. His paintings included portraits, genre subjects and landscape. Waters’s studio was located as 23 Castle Street. He was subsequently based at his home at 15 Norman Street, and also operated a photographic studio at 7 Bench Street, Dover, from 1867 to 1872. He died on 4 January 1880.</p>"
+    },
+    {
+      "label": "Archival material",
+      "value": "<p>Nottinghamshire Archives, DD/SK/158/33 – Draft indenture, marriage settlement (2) George Eden Jarvis (3) Henry Sherbrooke (4) Alice L. Sherbrooke.<br><br>For Jarvis’s army career in the 1850s see relevant correspondence in Lincolnshire Archives: JARVIS/6/A/2/26 etc.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6/full/335,400/0/default.jpg",
+          "height": 2972,
+          "width": 2490,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2972,
+                "width": 2490,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2972,
+                  "width": 2490,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/0ae895de-6047-4d7a-95a8-a6edafbb95d6/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
