@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh101",
+  "@type": "sc:Manifest",
+  "label": "DH 101",
+  "description": "? Frances Teresa Stuart, Duchess of Richmond",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Circle of Peter Lely"
+    },
+    {
+      "label": "Titles",
+      "value": "? Frances Teresa Stuart, Duchess of Richmond"
+    },
+    {
+      "label": "Date",
+      "value": "? mid-1660s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas, lettered bottom left 'MARY OF MODENA' and bottom right 'LELY'"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 243 x 145 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 101 (house number 6)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Although the portrait is identified by an inscription on the canvas as Mary of Modena (1658-1718), second wife of James II, this is clearly a misidentification. Rather, the sitter appears to resemble Frances Teresa Stuart, Duchess of Richmond (1647-1702), as a comparison for example with Lely’s portrait of the same sitter (Royal Collection Trust RCIN 404514) indicates. At some stage, the portrait, which was three-quarter length, has been extended on all sides to form a full-length portrait. The alteration was made possibly during the remodeling of the interiors at Doddington Hall by Sir John Delaval during the 1760s in order to enhance its presence.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+        {
+      "@id": "https://dlcs.io/iiif-img/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94/full/248,400/0/default.jpg",
+          "height": 3455,
+          "width": 2141,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3455,
+                "width": 2141,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3455,
+                  "width": 2141,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/b769f9f5-c4d9-4629-8954-171a0e142b94/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
