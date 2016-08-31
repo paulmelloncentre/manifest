@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh91",
+  "@type": "sc:Manifest",
+  "label": "DH 91",
+  "description": "Cimon and Efigenia",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Peter Lely"
+    },
+    {
+      "label": "Titles",
+      "value": "Cimon and Efigenia"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1648–52"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 128 x 145 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 91 (house number 124)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The picture is one of several similar pastoral compositions by Lely featuring nymphs and shepherds, notably Nymphs by a Fountain (Dulwich Picture Gallery, DPG555) and Cimon and Efigenia (Knole).  In the present picture the pose of the semi-draped recumbent nymph facing the viewer, is adapted from a similar figure Van Dyck’s Cupid and Psyche (Royal Collection Trust). It is not known when the painting came to Doddington although it has been suggested that it was acquired by Sir John Delaval in the second half of the eighteenth century. It may have been the picture in Lely’s studio sale of 1680 described as ‘The History of Cimon with naked figures’ (lot 83), although that work may have been the picture of the same subject now at Knole.<br><br>Sir Oliver Millar, who viewed the picture at Doddington in 1952, commented at some length in his notebook: ‘ “Nymphs with Shepherds”: rather rubbed and worn in certain areas; eg in stone fountain, upper area behind shepherd, drapery in l. foreground. Considerable weakness in drawing of nymphs and in their relations to each other on the ground plan. Head of girl behind cannot be fitted in with anything. ? a dependence on “Cupid and Psyche” in main female figure: rich brown and yellowish landscape lightly and fluidly painted, all rich and twilight. Shepherd in brown, girl nearest him in grey, white under her r. arm, pale blue drapery in lower l; deeper, cooler, stronger blue curtain lr. l. shepherd’s head is rich and full and juicy, creamy lights, warmer half-tones, pinkish-grey [couled?] more 2nd mouth; drawing of two women on r, but woman on l. is better. Foot over calf is well and juicily drawn but quite detached. Curtain thinly painted with coarse lights and shadows. A pleasant pastoral scene; drawing of main group v. inadequate & immature. probably c.1648-52. Head of shepherd is like old man in “Susanna” (even in later on) but woman cannot be later than c. 1652.’ Oliver Millar Notebook VIII, f. 95, Paul Mellon Centre Collection.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "Caroline Campbell, Peter Lely: A Lyrical Vision, Courtauld Institute of Art, exhibition catalogue, London 2012 [add page & cat ref]; Matthew C Hunter, Wicked Intelligence: Visual Art and the Science of Experiment in Restoration London, University of Chicago Press, 2013, pp. 106-7, pl. 4; Esther van der Hoorn and Morgan Wylder ‘A Historical and Technical Investigation of Sir Peter Lely’s Cimon and Efigenia from the Collection at Doddington Hall’ http://courtauld.ac.uk/research/research-forum/research-groups-and-projects/painting-pairs/2013-14-conservation-and-art-historical-analysis"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+     {
+      "@id": "https://dlcs.io/iiif-img/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22/full/400,353/0/default.jpg",
+          "height": 2621,
+          "width": 2969,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2621,
+                "width": 2969,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2621,
+                  "width": 2969,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/65b73dfb-16d4-462c-9e81-0339238f3d22/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
