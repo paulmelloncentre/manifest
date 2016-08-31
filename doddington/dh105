@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh105",
+  "@type": "sc:Manifest",
+  "label": "DH 105",
+  "description": "Rebecca Hussey",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Doddington Hall, Lincolnshire"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas, lettered lower left 'FORD CASTLE'"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 88 x 135 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 105"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Although the inscription states that the painting is of Ford Castle, Northumberland, a former seat of the Delaval family, it is a depiction of Doddington Hall, and presumably dates from sometime in the mid-eighteenth century. The artist is unknown, but he or she may have been a member of the Delaval family, or a local artist.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd/full/400,261/0/default.jpg",
+          "height": 2166,
+          "width": 3322,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2166,
+                "width": 3322,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2166,
+                  "width": 3322,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/7e14ef4e-95e2-46e8-b149-279164eeb9bd/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
