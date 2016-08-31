@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh63",
+  "@type": "sc:Manifest",
+  "label": "DH 63",
+  "description": "Helen Constance Hunter-Blair",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Signed ? 'Svaney'"
+    },
+    {
+      "label": "Titles",
+      "value": "Helen Constance Hunter-Blair"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 90 x 69 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 63 (house number 48)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait depicts Helen Constance Hunter Blair (?c.1864-1948). Born around 1864, Helen Hunter Blair was the daughter of Sir Edward Hunter Blair of Blairquhan and Dunskey, 4th Bt and Elizabeth Wauchope. She married firstly Captain Johnston Stewart of Physgill, 12 July 1883; secondly, Charles Francis Cracroft Jarvis, 6 June 1906. She was the mother of Ralph George Edward Jarvis (1907-1973). She died 30 April 1948.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/4c842084-655e-466d-a37f-f2e78ce64efa/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/4c842084-655e-466d-a37f-f2e78ce64efa/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/4c842084-655e-466d-a37f-f2e78ce64efa/full/307,400/0/default.jpg",
+          "height": 3189,
+          "width": 2445,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/4c842084-655e-466d-a37f-f2e78ce64efa/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/4c842084-655e-466d-a37f-f2e78ce64efa-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3189,
+                "width": 2445,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/4c842084-655e-466d-a37f-f2e78ce64efa",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3189,
+                  "width": 2445,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/4c842084-655e-466d-a37f-f2e78ce64efa/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
