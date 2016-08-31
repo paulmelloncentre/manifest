@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh58",
+  "@type": "sc:Manifest",
+  "label": "DH 58",
+  "description": "Margaret Lowth, née Pitt",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Margaret Lowth, née Pitt"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1700–10"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 74 x 61 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 58 (house number 57)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait depicts Margaret Pitt, daughter of Robert Pitt of Blandford Forum, Dorset.  Little is known about her, although she appears to have been the sister of the physician, Robert Pitt (1653-1713), professor of anatomy at Oxford, and fellow of the Royal College of Physicians On 15 November 1700 Margaret Pitt married William Lowth [see DH57] at St Bride’s Church, Fleet Street, London. The portrait, which dates to c.1700-10, and is evidently a pendant to DH57, was painted possibly on the occasion of Margaret Pitt’s marriage to William Lowth, and may be by the same artist. </p>"
+    },
+    {
+      "label": "Archival material",
+      "value": "<p>National Archives, PROB 11/394/342 – Will of Robert Pitt, Gentleman of Blandford Forum, Dorset, 11 March 1689.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf/full/330,400/0/default.jpg",
+          "height": 3059,
+          "width": 2522,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3059,
+                "width": 2522,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3059,
+                  "width": 2522,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/f262320c-54e0-4d8d-a1ec-3de5a4bf04cf/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
