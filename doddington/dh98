@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh98",
+  "@type": "sc:Manifest",
+  "label": "DH 98",
+  "description": "Traditionally called 'Nell Gwynne'",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Circle of Peter Lely"
+    },
+    {
+      "label": "Titles",
+      "value": "Traditionally called 'Nell Gwynne'"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1670–80"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 115 x 118 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 98 (house number 23)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Eleanor (‘Nell’) Gwyn (1651?-1687), actress and mistress of Charles II is associated speculatively with numerous portraits of anonymous young female courtesans and actresses. The resemblance of the present sitter to verifiable portraits of Nell Gwyn, notably those by Simon Verelst, suggests that the traditional identification is untenable. The portrait, which would appear to date from around 1670-80, is reminiscent of an artist in the circle of Peter Lely.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e/full/400,390/0/default.jpg",
+          "height": 2717,
+          "width": 2788,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2717,
+                "width": 2788,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2717,
+                  "width": 2788,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/9ad7cc49-12b4-4b1c-922b-44decd86b66e/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
