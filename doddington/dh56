@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh56",
+  "@type": "sc:Manifest",
+  "label": "DH 56",
+  "description": "Ebenezer Blackwell",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Ebenezer Blackwell"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1740"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 62 x 72 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 56 (house number 55)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The subject of the portrait, Ebenezer Blackwell (d. 1782), was born in Tewkesbury. He joined Martin’s Bank, Lombard Street, London, in 1731, where he became a partner.  Following the death of his first wife, Elizabeth (nee Mowland) in 1772, he married later in the same year, Mary Eden, daughter of Martha Lowth and Robert Eden, DD, Archdeacon at Winchester, and niece of Robert Lowth (1741-1787), Bishop of London, and his brother, William Lowth (1730-1797), vicar of St Mary’s Church, Lewisham. Blackwell lived at ‘The Limes’, an imposing house on the High Street, Lewisham (demolished 1894). During the rebuilding of St Mary’s church (1774-77), Blackwell acted as treasurer. It was perhaps through his work on behalf of St Mary’s that Blackwell met Mary Eden.  Ebenezer Blackwell was a close friend of Charles Wesley, whom he first met in 1739, and whose charitable enterprises he supported financially. Wesley frequently stayed with Blackwell at his home in Lewisham and apparently composed funeral hymns for Blackwell and Mary Eden.  A funeral monument to Blackwell in the form of an obelisk exists in the graveyard of St Mary’s Church, Lewisham. Blackwell’s only child, Mary Elizabeth Shepherd Freeman Blackwell (born 20 November 1775) married Thomas Jarvis at St Thomas, Winchester, Hampshire, 28 February 1801. It was through Jarvis that the Lowth, Blackwell, and Eden family portraits came to Doddington in the nineteenth century.<br><br>Although Blackwell’s date of birth is unknown, on stylistic grounds, and the approximate age of the sitter, the portrait was probably made around 1740. The artist is unknown. Its unsophisticated handling suggests that it is possibly by a minor or provincial artist.</p>"
+    },
+     {
+      "label": "Bibliography",
+      "value": "<p>John A. Vickers, ‘Blackwell, Ebenezer (d. 1782)’, Oxford Dictionary of National Biography, Oxford University Press, 2004, http://www.oxforddnb.com/view/article/63477, accessed 29 June 2016, http://www.lewishamparish.com/blackwell.html, https://www.ucl.ac.uk/lbs/person/view/2146630383</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+   {
+      "@id": "https://dlcs.io/iiif-img/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd/full/344,400/0/default.jpg",
+          "height": 2977,
+          "width": 2563,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2977,
+                "width": 2563,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2977,
+                  "width": 2563,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/e7d0b2f3-1272-4ee8-94c8-7f2abe2dd9fd/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
