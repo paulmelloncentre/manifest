@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh78",
+  "@type": "sc:Manifest",
+  "label": "DH 79",
+  "description": "Called 'Margaret of Selby or Meg of Meldon'",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Previously attributed to Gerhard Bockman"
+    },
+    {
+      "label": "Titles",
+      "value": "Called 'Margaret of Selby or Meg of Meldon'"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 128 x 97 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 79 (house number 11)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>According to the nineteenth-century antiquarian and historian, John Hodgson, Meg of Meldon – identified by local legend as a witch - was Margaret Selby, mother of Sir William Fenwick of Meldon. Possessed of a considerable fortune, after her husband’s death she resided at Hartington Hall, Northumberland and after her own death her ghost was said to travel from Meldon to Hartington Hall via a subterraneous coach road. Hodgson goes on to state: ‘Some years since, in repairing Hartington Hall, and removing a thick coat of white-wash form the walls of the most westerly room in the second story, the stucco work was found to be ornamented with family pictures, one of which some old persons remembered to have seen before it was covered, and said it was always called Meg of Meldon. Like a picture of the same lady, which was at Seaton Delaval in 1810, this was habited in a round hat with a large brim tied down at each ear, and in a stuff gown turned up nearly to the elbows, with a vandyked sleeve of linen; the whole shoulders were covered with a thickly gathered ruff of frill. Portraits said to be of her and her husband, Sir William Fenwick, are preserved at Ford Castle’ The description of the picture at Seaton Delaval, and the links to the Delaval estate at Ford Castle, suggests that it may be identifiable with the present portrait.<br><br>Although the identity of the sitter in the present portrait is uncertain she may be a member of the Selby family, although not perhaps Margaret Selby. She is possibly Elizabeth Selby (d. 1658), daughter of Sir George Selby, second wife of Sir John Delaval of Dissington, Northumberland (d.1652). She was also the mother of George Delaval (d. 1694), and grandmother of Edward Delaval, who was in turn grandfather of John Hussey Delaval of Doddington Hall. The picture may have hung originally at Sir John Delaval’s seat at Dissington, and subsequently at the family seat, Ford Castle, and possibly later at Seaton Delaval.<br><br>The portrait has been attributed to the Dutch portraitist, Gerhard Bockman (1686-1773), although this is untenable since stylistically the portrait belongs to the early to mid-seventeenth century.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>John Hodgson, A History of Northumberland,  Newcastle upon Tyne, 1832, vol 2, pp. 11-12 note. For local folklore relating to Meg of Meldon see M.A. Richardson, The Local Historian’s Table Book, of Remarkable Occurrences, Historical Facts, Traditions, Legendary and Descriptive Ballads, Newcastle upon Tyne, 1843, p. 135-41.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4/full/303,400/0/default.jpg",
+          "height": 3150,
+          "width": 2387,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3150,
+                "width": 2387,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3150,
+                  "width": 2387,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/a9742de5-7013-4165-a1ab-b06acf1db0d4/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
