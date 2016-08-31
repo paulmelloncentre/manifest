@@ -1,0 +1,100 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh57",
+  "@type": "sc:Manifest",
+  "label": "DH 57",
+  "description": "William Lowth",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Circle of Jonathan Richardson the Elder"
+    },
+    {
+      "label": "Titles",
+      "value": "William Lowth"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1700"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 74 x 61 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 57 (house number 58)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait depicts the theologian, William Lowth D.D. (1660-1732). Born in the parish of St Martin, Ludgate, Lowth was the son of an apothecary. In 1672 he was admitted to Merchant Taylors’ School, and in 1775 was elected scholar of St John’s College, Oxford. He was ordained deacon at Christ Church, Oxford in May 1684, and made a priest the following year. On 15 November 1700 he married Margaret, daughter of Robert Pitt of Blandford Forum, Dorset. Lowth’s theological publications included A vindication of the divine authority and inspiration of the writings of the Old and New Testament (1692) and Directions for the Profitable Reading of the Holy Scriptures (1708). Lowth’s two sons both became clerics; Robert Lowth (1710-1787), Bishop of London, and William Lowth, Prebendary of Winchester. His daughters included Martha Lowth, who married Robert Eden, DD, Archdeacon, Winchester. Oliver Millar, who inspected the portrait at Doddington in 1952, suggested an attribution to an artist in the immediate circle of Jonathan Richardson the Elder (1667-1745). The portrait is indeed close to Richardson in style and presumably dates to around 1700. See Oliver Millar Notebook VIII, 193, Paul Mellon Centre Collection.</p>"
+    },
+     {
+      "label": "Bibliography",
+      "value": "<p>Scott Mandelbrote, ‘Lowth, William (1661–1732)’, Oxford Dictionary of National Biography, Oxford University Press, 2004; online edn, Jan 2008 [http://www.oxforddnb.com/view/article/17106, accessed 29 June 2016]</p>"
+    },
+    {
+      "label": "Archival material",
+      "value": "<p>Lincolnshire Archives JARVIS V/J: The papers of Margaret Blackwell, sister-in-law of G.R.P. Jarvis, and of the Blackwell, Eden and Lowth families. JARVIS V/J/1: William Lowth to Margaret Pitt proposing marriage, Winchester, 21 March? C.1700</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+   {
+      "@id": "https://dlcs.io/iiif-img/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582/full/302,400/0/default.jpg",
+          "height": 3026,
+          "width": 2281,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3026,
+                "width": 2281,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3026,
+                  "width": 2281,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/c4cacba6-d0bf-437a-a475-9db4c9fd3582/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
