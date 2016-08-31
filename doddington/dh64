@@ -1,0 +1,100 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh64",
+  "@type": "sc:Manifest",
+  "label": "DH 64",
+  "description": "Sarah Hussey Delaval (Mrs Gunman)",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Sir Thomas Lawrence"
+    },
+    {
+      "label": "Titles",
+      "value": "Sarah Hussey Delaval (Mrs Gunman)"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1805"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 75 x 62 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 64 (house number 51)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The sitter in this portrait is Sarah Hussey Delaval (d.1825) only daughter of Edward Hussey Delaval (1729-1814) and Sarah Scott (1751-1829), and heiress to Doddington Hall. Sarah Delaval married James Gunman (1747-1824), 13 April 1805 at St Margaret’s, Westminster. Gunman was a member of a prominent Dover family, a collector of customs, and mayor of Dover in 1776, 1784 and 1789. After their marriage Sarah Delaval went to live with Gunman at the family home, at Biggin Street Dover. James and Sarah Gunman were both buried at St Mary’s church, Dover.<br><br>Sarah Delaval’s date of birth is unknown nor are the circumstances of her parents’ marriage straightforward. She was definitely alive by July 1789, when Edward Delaval bequeathed in his will the interest he had acquired in Doddington to his wife, Sarah Scott and his daughter. However, as the Reverend Cole noted, there appears to have been some irregularity about the status of Delaval’s partnership with Sarah Scott, since, in order to secure her title to jointure he underwent a formal ceremony at St Margaret’s, Westminster, on 22 December 1808.<br><br>Kenneth Garlick, who gives Sarah Delaval’s birth as c.1785, dates the present portrait to c.1805-10, presumably on stylistic grounds and her age at the time of the portrait, which must have been around twenty to twenty five. Given that Sarah Gunman married James Gunman in 1805, it may be suggested that this is a pre-nuptial or marriage portrait.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>R.E.G.Cole, History of the Manor and Township of Doddington, Lincoln 1897, p.191; Kenneth Garlick, Sir Thomas Lawrence. A Complete Catalogue of the Oil Paintings, Oxford 1989, no. 245, p. 179.</p>"
+    },
+    {
+      "label": "Archival material",
+      "value": "<p>Lincolnshire Archives: JARVIS IX/5/5/8 – Marriage settlement between James Gunman and Sarah Hussey Delaval.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+     {
+      "@id": "https://dlcs.io/iiif-img/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c/full/331,400/0/default.jpg",
+          "height": 2953,
+          "width": 2441,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2441,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2441,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/b7c5f699-6ccb-4a52-9ba1-685cf432d14c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
