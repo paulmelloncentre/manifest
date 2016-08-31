@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh75",
+  "@type": "sc:Manifest",
+  "label": "DH 75",
+  "description": "Diana",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Arthur Pond after Rosalba Carriera"
+    },
+    {
+      "label": "Titles",
+      "value": "Diana"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1740s"
+    },
+    {
+      "label": "Medium",
+      "value": "Pastel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 60 x 49 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 75 (house number 34)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The pendant to Pond’s copy of Carriera’s Apollo [DH71]</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/06d15567-68af-48a0-937a-d7d0f09242dc/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/06d15567-68af-48a0-937a-d7d0f09242dc/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/06d15567-68af-48a0-937a-d7d0f09242dc/full/327,400/0/default.jpg",
+          "height": 3047,
+          "width": 2489,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/06d15567-68af-48a0-937a-d7d0f09242dc/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/06d15567-68af-48a0-937a-d7d0f09242dc-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3047,
+                "width": 2489,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/06d15567-68af-48a0-937a-d7d0f09242dc",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3047,
+                  "width": 2489,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/06d15567-68af-48a0-937a-d7d0f09242dc/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
