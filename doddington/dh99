@@ -1,0 +1,179 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh99",
+  "@type": "sc:Manifest",
+  "label": "DH 99",
+  "description": "Sir Robert Throckmorton and his wife Elizabeth, née Hussey",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Sir Robert Throckmorton and his wife Elizabeth, née Hussey"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: DH99.1: 59 x 33 cm<br><Br>Panel: DH99.3: 59 x 33 cm<br><br>Panel: DH99.3: 59 x 33 cm<br><br>Panel: DH99.4: 59 x 33 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 99 (house number 79)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The courtier, Sir Robert Throckmorton (c.1513-1581) of Coughton Court, Warwickshire, son of Sir George Throckmorton and and Katherine Vaux, married, as his second wife, around 1542, Elizabeth Hussey (c.1519-1554), daughter of John Hussey, 1st Baron Hussey of Sleaford, widow of Walter Hungerford, 1st Baron Hungerford of Heytesbury and Lady Anne Grey. The couple had five daughters and two sons. The four daughters included in the present portrait are probably Muriel Throckmorton (d.1615), Anne Throckmorton (d. after 1605), Elizabeth Throckmorton, and Temperance Throckmorton. The portrait, according to Throckmorton’s age (‘37’) inscribed upon the panel, was painted around 1550, during the reign of Edward VI. Throckmorton, who was Catholic, gained favour during the reign of Queen Mary, and was knighted in 1553 and appointed constable of Warwick Castle. A portrait of Sir Robert Throckmorton in later life, seated holding a skull, is at Coughton Court, Warwickshire (National Trust).</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "DH99.1 - (female portrait)",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/full/224,400/0/default.jpg",
+          "height": 3589,
+          "width": 2008,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3589,
+                "width": 2008,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3589,
+                  "width": 2008,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "DH99.2 - (male portrait)",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/full/224,400/0/default.jpg",
+          "height": 3601,
+          "width": 2014,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3601,
+                "width": 2014,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3601,
+                  "width": 2014,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "DH99.3 - (verso of female portrait)",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/full/224,400/0/default.jpg",
+          "height": 3601,
+          "width": 2014,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3601,
+                "width": 2014,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3601,
+                  "width": 2014,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "DH99.3 - (verso of male portrait)",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/full/224,400/0/default.jpg",
+          "height": 3601,
+          "width": 2014,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3601,
+                "width": 2014,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3601,
+                  "width": 2014,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
