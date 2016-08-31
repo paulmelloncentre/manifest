@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh81",
+  "@type": "sc:Manifest",
+  "label": "DH 81",
+  "description": "Called 'Elizabeth Stuart, Queen of Bohemia'",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Called 'Elizabeth Stuart, Queen of Bohemia'"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 48 x 34 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 81 (house number 13)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait has been called Elizabeth Stuart (1596-1662), daughter of James I and Anne of Denmark, and wife of Frederick V, Elector Palatine. Elizabeth was Electress Palatine and Queen of Bohemia (known also as ‘The Winter Queen’ owing to her husband’s brief reign as King of Bohemia from the winter of 1619 to the following November.)  However, the sitter in the present portrait bears only a passing resemblance to other portraits of Elizabeth Stuart suggesting that the traditional identification is incorrect.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee/full/283,400/0/default.jpg",
+          "height": 3213,
+          "width": 2276,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3213,
+                "width": 2276,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3213,
+                  "width": 2276,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/56a642d1-eb81-4d35-a289-3ae41965e4ee/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
