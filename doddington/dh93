@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh93",
+  "@type": "sc:Manifest",
+  "label": "DH 93",
+  "description": "Elizabeth Hussey",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Attributed to Godfrey Kneller"
+    },
+    {
+      "label": "Titles",
+      "value": "Elizabeth Hussey"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1710"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 120 x 105 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 93 (house number 26)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The portrait represents Elizabeth Hussey (1688-1724), daughter of Thomas Hussey, 2nd Baronet and Sarah Langham, daughter of Sir John Langham. She married 21 May 1714 Sir Richard Ellys, Bt (1683-1742) of Nocton, Lincolnshire. Ellys, who was MP for Grantham (1701-1705) and Boston (1719-34), was educated at a private Dissenting academy and was educated partly in Holland. He is reported to have been so mired in debt that shortly after his marriage to Elizabeth Hussey he was compelled to take his wife to Europe and ‘now her house and goods in all seized’. Ellys’ father evidently ‘answered for her house and goods, but no more’. http://www.historyofparliamentonline.org/volume/1690-1715/member/ellys-richard-1683-1742.<br><br>Elizabeth died childless on 11 August 1724, and Ellys remarried. Elizabeth is buried in the Hussey family chapel, along with her mother, and sister Rebecca, in St Wilfird’s church, Honington, Lincolnshire. The present portrait, in which the sitter is aged around twenty, was commissioned presumably for Sir Thomas Hussey. The attribution to Kneller is speculative.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+      {
+      "@id": "https://dlcs.io/iiif-img/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0/full/350,400/0/default.jpg",
+          "height": 2953,
+          "width": 2584,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2953,
+                "width": 2584,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2953,
+                  "width": 2584,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/63693bb4-8322-4bc3-8629-2da0a1d81ba0/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
