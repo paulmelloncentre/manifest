@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh73",
+  "@type": "sc:Manifest",
+  "label": "DH 73",
+  "description": "A beggar’s family",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Johan Zoffany"
+    },
+    {
+      "label": "Titles",
+      "value": "A beggar’s family"
+    },
+    {
+      "label": "Date",
+      "value": "by 1797"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 74 x 90 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 73 (house number 37)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The present picture was made by the spring of 1797,and can be identified as the work exhibited that year at the Royal Academy as ‘A beggar’s family’. Although the composition differs in a number of ways, it recalls Zoffany’s earlier genre painting, Beggars on the Road to Stanmore, of c. 1769-70, which was probably the work exhibited at the Royal Academy in 1771 as ‘A beggar’s family’.<br><br>When it was exhibited in 1797 the critic John Williams, who wrote under the pseudonym Anthony Pasquin, stated that A beggar’s family was ‘touched with all the spirit of the master, a very excellent and deserving production’. However, the picture failed to sell, and remained with Zoffany until his death. At Zoffany’s  posthumous sale in May 1811, it was entitled identified as ‘A Group of Mendicants, well known characters’, and was purchased for £6 16s.  The identity of the buyer is unknown. As the painting remained in Zoffany’s possession until his death, it is possible that it was purchased at the sale or subsequently by Edward Delaval or by a member of the Jarvis family.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>A Pasquin, A Key to the Exhibition, London 1797, no. 152; A Catalogue of a most Curious and Unique Assemblage of the Valuable Property, of that distinguished artist Johan Zoffany Esq, Decd. Removed from his late Residence at Strand on the Green. Sold by Robins, Piazza, Covent Garden. First Day’s Sale, Thursday, the 9th of May, 1811, lot 87; Mary Webster, John Zoffany, R.A., New Haven and London 2011, p. 589, 645.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+       {
+      "@id": "https://dlcs.io/iiif-img/48/1/4430de85-3965-4cbb-b773-7303f85cc767/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/4430de85-3965-4cbb-b773-7303f85cc767/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/4430de85-3965-4cbb-b773-7303f85cc767/full/400,329/0/default.jpg",
+          "height": 2477,
+          "width": 3012,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/4430de85-3965-4cbb-b773-7303f85cc767/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/4430de85-3965-4cbb-b773-7303f85cc767-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2477,
+                "width": 3012,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/4430de85-3965-4cbb-b773-7303f85cc767",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2477,
+                  "width": 3012,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/4430de85-3965-4cbb-b773-7303f85cc767/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
