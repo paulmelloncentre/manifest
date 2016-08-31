@@ -1,0 +1,125 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh71",
+  "@type": "sc:Manifest",
+  "label": "DH 71",
+  "description": "Apollo",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Arthur Pond after Rosalba Carriera"
+    },
+    {
+      "label": "Titles",
+      "value": "Apollo"
+    },
+    {
+      "label": "Date",
+      "value": "unknown"
+    },
+    {
+      "label": "Medium",
+      "value": "Pastel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Support: 61 x 49 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 71 (house number 34)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The pastel was painted by Arthur Pond, based upon an original works by the Venetian pastellist Rosalba Carriera (1673-1757). Pond, who was employed extensively by the Delavals during the 1740s and fifties, frequently made pastel copies after Carriera for patrons, including a thriving trade in reproducing sets of Rosalba’s Four Seasons.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>Louise Lippincott, Selling Art in Georgian England. The Rise of Arthur Pond, New Haven and London, 1983, pp. 56, 62, 76, 90. 177 note 20</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/full/321,400/0/default.jpg",
+          "height": 3002,
+          "width": 2411,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3002,
+                "width": 2411,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3002,
+                  "width": 2411,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Framed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/full/276,400/0/default.jpg",
+          "height": 3036,
+          "width": 2092,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3036,
+                "width": 2092,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3036,
+                  "width": 2092,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
