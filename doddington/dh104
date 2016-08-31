@@ -1,0 +1,100 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh104",
+  "@type": "sc:Manifest",
+  "label": "DH 104",
+  "description": "Rebecca Hussey",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Godfrey Kneller"
+    },
+    {
+      "label": "Titles",
+      "value": "Rebecca Hussey"
+    },
+    {
+      "label": "Date",
+      "value": "ca. mid-1690s"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas, lettered bottom left 'REBECCA HUSSEY'"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 216 x 119 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 104 (house number 1)"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>Rebecca Hussey (1674-1714), daughter of Sir Thomas Hussey, 2nd Baronet, of Honington, Lincolnshire (1639-1706) and Sarah Langham (d. 1697), eldest daughter of Sir John Langham.  On the death of her father, she and her sisters inherited Doddington Hall. Rebecca Hussey  died unmarried  in 1714, and is buried in the Hussey family chapel, St Wilfrid’s, Honington, Lincolnshire. An inscription on the memorial tablet on the wall of the chapel, erected by Rebecca’s sister Sarah in 1730, states that she died on 21 August 1714 ‘After a life principally employed in Devotion and Acts of Charity’.  Rebecca’s will, written in 1713, indicates that most of her money was left to charitable causes, including £1000 for ‘the redemption of slaves’,  £1000 for ‘prisoners that are confined for small debts for themselves or have unhappily been bound for other folks’, £3000 for the relief of ‘old maids’, and £2000 for ‘a fund for publishing and propagating spiritual and religious books’ In the nineteenth century funds relating to her charities were discovered by the Attorney General  in the Court of Chancery, resulting in the establishment of several charities three of which still exist today: ‘Rebecca Hussey’s Book Charity’, the  ‘Rebecca Hussey Trust for Africans’,  and the Lincolnshire Discharged Prisoners Welfare Charity’.<br><br>At some stage, possibly in the 1760s, during the remodelling of the interior of Doddignton Hall in the 1760s, the portrait has been enlarged from three-quarter length to full-length.</p>"
+    },
+    {
+      "label": "Bibliography",
+      "value": "<p>http://www.rebeccahusseytrustforafricans.org.uk/history-of-the-trust/ http://www.rebeccahusseybookcharity.org.uk/history/4579840460<br><br>Andrew Pearson, Distant Freedom. St Helena and the Abolition of the Slave Trade, 1840-1872, Liverpool University Press 2016, p. 251.</p>"
+    },
+    {
+      "label": "Archival material",
+      "value": "Will of Rebecca, daughter of Sir Thomas Hussey of St. Martin in the Fields, National Archives DD/S/BT/7/7/14: Somerset Heritage Centre (South West Heritage Trust)"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/47cfcf10-627c-4c20-ac26-f986608085a5/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/47cfcf10-627c-4c20-ac26-f986608085a5/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/47cfcf10-627c-4c20-ac26-f986608085a5/full/220,400/0/default.jpg",
+          "height": 3742,
+          "width": 2062,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/47cfcf10-627c-4c20-ac26-f986608085a5/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/47cfcf10-627c-4c20-ac26-f986608085a5-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3742,
+                "width": 2062,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/47cfcf10-627c-4c20-ac26-f986608085a5",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3742,
+                  "width": 2062,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/47cfcf10-627c-4c20-ac26-f986608085a5/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
