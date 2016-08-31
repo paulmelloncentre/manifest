@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh107",
+  "@type": "sc:Manifest",
+  "label": "DH 107",
+  "description": "Landscape with peasants and a monk",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Landscape with peasants and a monk"
+    },
+    {
+      "label": "Date",
+      "value": "? mid to late 18th century"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "?"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 107"
+    },
+    {
+      "label": "Comment",
+      "value": "<p>The picture features three peasants and a dog in the centre foreground and to the right a seated monk, with a second monk in the shadows, walking up steps towards a makeshift hut, before which a cross is tied to a tree branch. The scene is clearly Italianate and probably dates to the later eighteenth century. The presence of the seated ‘white monk’ in the foreground brings to mind Richard Wilson’s celebrated composition, which became known popularly as ‘The White Monk’, although the present work is quite different in sentiment and style.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/fb51e146-54df-4f28-9285-fd59ae30f382/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/fb51e146-54df-4f28-9285-fd59ae30f382/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/fb51e146-54df-4f28-9285-fd59ae30f382/full/332,400/0/default.jpg",
+          "height": 2520,
+          "width": 2090,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/fb51e146-54df-4f28-9285-fd59ae30f382/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/fb51e146-54df-4f28-9285-fd59ae30f382-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2520,
+                "width": 2090,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/fb51e146-54df-4f28-9285-fd59ae30f382",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2520,
+                  "width": 2090,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/fb51e146-54df-4f28-9285-fd59ae30f382/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
