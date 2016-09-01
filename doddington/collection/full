@@ -1247,15 +1247,51 @@
       }
     },
     {
-      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh69",
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh70",
       "@type": "sc:Manifest",
-      "label": "DH 69",
+      "label": "DH 70",
       "thumbnail": {
         "@id": "http://thumbs.dlcs.io/thumbs/48/1/ae446ba2-c32d-4e4a-9d57-218441e455c9/full/265,400/0/default.jpg",
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
           "@id": "https://dlcs.io/iiif-img/48/1/ae446ba2-c32d-4e4a-9d57-218441e455c9",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh71",
+      "@type": "sc:Manifest",
+      "label": "DH 71",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/full/276,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh72",
+      "@type": "sc:Manifest",
+      "label": "DH 72",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df/full/259,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/fbc2f67b-84ce-40ec-94d3-ccd64793f2df",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
