@@ -198,6 +198,6 @@
     }
   ],
   "@context": "http://www.shared-canvas.org/ns/context.json",
-  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo.svg",
   "attribution": "Paul Mellon Centre"
 }
