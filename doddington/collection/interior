@@ -15,7 +15,7 @@
   ],
   "sequences": [
     {
-      "@id": "https://dlcs.io/iiif-img/48/1/e5e2e3e1-4d91-4971-9105-4e6a12828aac/sequence/s0",
+      "@id": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/sequence/s0",
       "@type": "sc:Sequence",
       "label": "Sequence 0",
       "viewingHint": "paged",
