@@ -2,7 +2,7 @@
   "@context": "http://www.shared-canvas.org/ns/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/interior",
   "@type": "sc:Manifest",
-  "label": "Doddington Hall, interior images",
+  "label": "Doddington Hall, photographs of the interior",
   "description": "Doddington Hall",
   "attribution": "Images courtesy of the Wroxton Trust",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo.svg",
@@ -726,7 +726,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/706bd127-296e-42b3-8d46-99f3f88d69d7/canvas/c0",
           "@type": "sc:Long Gallery",
-          "label": "Image",
+          "label": "Long Gallery",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/706bd127-296e-42b3-8d46-99f3f88d69d7/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
