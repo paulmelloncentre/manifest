@@ -1,27 +1,16 @@
 {
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/interior",
   "@type": "sc:Manifest",
-  "description": "Doddington Hall, interior images",
-  "label": "Index of Artists",
+  "description": "Doddington Hall",
+  "label": "Doddington Hall, interior images",
   "metadata": [
     {
-      "label": "Resource",
-      "value": "Photographs of the interior of Doddington Hall"
-    },
-    {
       "label": "Description",
-      "value": "<p>Doddington Hall</p>"
+      "value": "<p>Photographs of the interior of Doddington Hall</p>"
     },
     {
       "label": "Images",
       "value": "Courtesy of the Wroxton Trust"
-    }
-  ],
-  "windowObjects": [
-    {
-      "loadedManifest": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/interior",
-      "canvasID": "https://dlcs.io/iiif-img/48/5/247e166b-175d-47df-ac6d-e3d0f2b92732/canvas/c0",
-      "viewType": "ImageView"
     }
   ],
   "sequences": [
