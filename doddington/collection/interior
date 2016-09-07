@@ -1,16 +1,23 @@
 {
+  "@context": "http://www.shared-canvas.org/ns/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/interior",
   "@type": "sc:Manifest",
-  "description": "Doddington Hall",
   "label": "Doddington Hall, interior images",
+  "description": "Doddington Hall",
+  "attribution": "Images courtesy of the Wroxton Trust",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo.svg",
   "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Photos: David Penman"
+    },
+    {
+      "label": "Titles",
+      "value": "Interior, Doddington Hall"
+    },
     {
       "label": "Description",
       "value": "<p>Photographs of the interior of Doddington Hall</p>"
-    },
-    {
-      "label": "Images",
-      "value": "Courtesy of the Wroxton Trust"
     }
   ],
   "sequences": [
@@ -23,7 +30,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Image",
+          "label": "Hallway",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -52,7 +59,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/05317eb1-d2c2-431a-b3e4-46897007df29/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Image",
+          "label": "Hallway",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/05317eb1-d2c2-431a-b3e4-46897007df29/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -871,8 +878,5 @@
         }
       ]
     }
-  ],
-  "@context": "http://www.shared-canvas.org/ns/context.json",
-  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo.svg",
-  "attribution": "Paul Mellon Centre"
+  ]
 }
