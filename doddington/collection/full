@@ -1823,6 +1823,24 @@
       }
     },
     {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh103",
+      "@type": "sc:Manifest",
+      "label": "DH 103",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/4804a11f-27be-44e9-b7d4-f337d59e22b7/full/264,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/4804a11f-27be-44e9-b7d4-f337d59e22b7",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
       "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh104",
       "@type": "sc:Manifest",
       "label": "DH 104",
