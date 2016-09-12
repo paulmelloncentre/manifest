@@ -87,31 +87,118 @@
           ]
         },
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/f4169c97-c9aa-4eec-aeb2-ed281052504e/canvas/c0",
+          "@id": "https://dlcs.io/iiif-img/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Unframed, pre-conservation",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f4169c97-c9aa-4eec-aeb2-ed281052504e/full/400,305/0/default.jpg",
-          "height": 480,
-          "width": 629,
+          "label": "Unframed, pre-treatment",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/full/400,305/0/default.jpg",
+          "height": 2146,
+          "width": 2814,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/f4169c97-c9aa-4eec-aeb2-ed281052504e/imageanno/0",
+              "@id": "https://dlcs.io/iiif-img/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/f4169c97-c9aa-4eec-aeb2-ed281052504e-0/res/0",
+                "@id": "https://dlcs.io/iiif-img/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70-0/res/0",
                 "@type": "dcTypes:Image",
-                "height": 480,
-                "width": 629,
+                "height": 2146,
+                "width": 2814,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/f4169c97-c9aa-4eec-aeb2-ed281052504e",
+                  "@id": "https://dlcs.io/iiif-img/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70",
                   "protocol": "http://iiif.io/api/image",
-                  "height": 480,
-                  "width": 629,
+                  "height": 2146,
+                  "width": 2814,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/f4169c97-c9aa-4eec-aeb2-ed281052504e/canvas/c0"
+              "on": "https://dlcs.io/iiif-img/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed, during treatment, after removal of varnish 1",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/full/400,310/0/default.jpg",
+          "height": 2172,
+          "width": 2806,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2172,
+                "width": 2806,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2172,
+                  "width": 2806,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed, during treatment, during removal of varnish 2 and overpaint removal",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/full/400,305/0/default.jpg",
+          "height": 2212,
+          "width": 2900,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2212,
+                "width": 2900,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2212,
+                  "width": 2900,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "X-radiograph revealing the pentiment of the headscarf and facial position",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/full/400,291/0/default.jpg",
+          "height": 2276,
+          "width": 3124,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2276,
+                "width": 3124,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2276,
+                  "width": 3124,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/canvas/c0"
             }
           ]
         }
