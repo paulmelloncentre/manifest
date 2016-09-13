@@ -38,6 +38,9 @@
     {
       "label": "Accession number",
       "value": "DH 108"
+    },
+    { "label": "Comment",
+      "value": "<p>signed bottom right 'D. Brandt'.</p>"
     }
   ],
   "seeAlso": [
