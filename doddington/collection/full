@@ -1911,6 +1911,60 @@
         "@id": "http://www.doddingtonhall.com/",
         "format": "html"
       }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh108",
+      "@type": "sc:Manifest",
+      "label": "DH 108",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f/full/400,345/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh110",
+      "@type": "sc:Manifest",
+      "label": "DH 110",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/6e947209-546d-4151-9c5c-3824a6df536d/full/400,316/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh111",
+      "@type": "sc:Manifest",
+      "label": "DH 111",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/c669c64c-cc5a-4769-ab6e-bf25b9d5ec00/full/400,347/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/c669c64c-cc5a-4769-ab6e-bf25b9d5ec00",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
     }
   ]
 }
