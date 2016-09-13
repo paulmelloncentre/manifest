@@ -1,1 +1,243 @@
-
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/full",
+  "@type": "sc:Collection",
+  "label": "Doddington Hall, Fine Art Collection",
+  "manifests": [
+  {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh42",
+      "@type": "sc:Manifest",
+      "label": "DH 42",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/b8587fc7-e640-4d63-bdc2-dfa172d75d6d/full/317,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/b8587fc7-e640-4d63-bdc2-dfa172d75d6d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh43",
+      "@type": "sc:Manifest",
+      "label": "DH 43",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/full/300,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh44",
+      "@type": "sc:Manifest",
+      "label": "DH 44",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1/full/314,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh45",
+      "@type": "sc:Manifest",
+      "label": "DH 45",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/4edc8322-4134-442f-88c1-e242737c845d/full/245,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/4edc8322-4134-442f-88c1-e242737c845d",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh46",
+      "@type": "sc:Manifest",
+      "label": "DH 46",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/02568bdb-91ba-4f3e-ad48-bb1a459e179e/full/332,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/02568bdb-91ba-4f3e-ad48-bb1a459e179e",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh47",
+      "@type": "sc:Manifest",
+      "label": "DH 47",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775/full/313,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh48",
+      "@type": "sc:Manifest",
+      "label": "DH 48",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/fabd0f19-608a-4661-bfe9-8321098b9cef/full/336,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/fabd0f19-608a-4661-bfe9-8321098b9cef",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh49",
+      "@type": "sc:Manifest",
+      "label": "DH 49",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096/full/301,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh50",
+      "@type": "sc:Manifest",
+      "label": "DH 50",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/57e1affb-fb8f-4b73-843b-858da01f3cdc/full/336,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/57e1affb-fb8f-4b73-843b-858da01f3cdc",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh51",
+      "@type": "sc:Manifest",
+      "label": "DH 51",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863/full/336,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh52",
+      "@type": "sc:Manifest",
+      "label": "DH 52",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/aa16a64f-3568-4b47-ae2b-7838ac71cd29/full/335,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/aa16a64f-3568-4b47-ae2b-7838ac71cd29",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh53",
+      "@type": "sc:Manifest",
+      "label": "DH 53",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/00895223-ca75-4a67-8022-931266af33b5/full/400,304/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh54",
+      "@type": "sc:Manifest",
+      "label": "DH 54",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/1f866595-484a-42f6-bc42-3508b3e78643/full/335,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/1f866595-484a-42f6-bc42-3508b3e78643",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    }
+  
+ ]
+}
