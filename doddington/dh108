@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh108",
+  "@type": "sc:Manifest",
+  "label": "DH 108",
+  "description": "The Bay of Naples",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Daniel de Brandt"
+    },
+    {
+      "label": "Titles",
+      "value": "The Bay of Naples"
+    },
+    {
+      "label": "Date",
+      "value": "undated"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 165 x 191 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 108"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f/full/400,345/0/default.jpg",
+          "height": 2599,
+          "width": 3009,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2599,
+                "width": 3009,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2599,
+                  "width": 3009,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/fd7ca788-6254-4a15-8b07-c86a8fd7531f/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
