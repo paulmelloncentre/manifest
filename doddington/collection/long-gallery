@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/full",
   "@type": "sc:Collection",
-  "label": "Doddington Hall, Long Gallery",
+  "label": "Doddington Hall, the Long Gallery",
   "manifests": [
     {
       "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh1",
