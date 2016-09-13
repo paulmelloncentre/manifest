@@ -1,1 +1,62 @@
-
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/collection/full",
+  "@type": "sc:Collection",
+  "label": "Doddington Hall, The Tiger Room",
+  "manifests": [
+{
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh39",
+      "@type": "sc:Manifest",
+      "label": "DH 39",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/58e75f1c-3118-40ee-a54d-0bdc38d1d672/full/400,259/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/58e75f1c-3118-40ee-a54d-0bdc38d1d672",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh40",
+      "@type": "sc:Manifest",
+      "label": "DH 40",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/b6b3a02a-bd4d-41b6-be9f-2b2fb01eb704/full/341,400/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/b6b3a02a-bd4d-41b6-be9f-2b2fb01eb704",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh41",
+      "@type": "sc:Manifest",
+      "label": "DH 41",
+      "thumbnail": {
+        "@id": "http://thumbs.dlcs.io/thumbs/48/1/05d8cbd2-a397-4546-971e-cb9475e76f2f/full/400,338/0/default.jpg",
+        "@type": "dctypes:Image",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://dlcs.io/iiif-img/48/1/05d8cbd2-a397-4546-971e-cb9475e76f2f",
+          "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+      },
+      "seeAlso": {
+        "@id": "http://www.doddingtonhall.com/",
+        "format": "html"
+      }
+    }
+  ]
+}
