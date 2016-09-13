@@ -1,0 +1,88 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh110",
+  "@type": "sc:Manifest",
+  "label": "DH 110",
+  "description": "Nebuchadnezzar Eating Grass",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Artist unknown"
+    },
+    {
+      "label": "Titles",
+      "value": "Nebuchadnezzar Eating Grass"
+    },
+    {
+      "label": "Date",
+      "value": "undated"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on canvas"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Canvas: 142 x 180 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Wroxton Trust"
+    },
+    {
+      "label": "Institution",
+      "value": "Doddington Hall"
+    },
+    {
+      "label": "Accession number",
+      "value": "DH 110"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.doddingtonhall.com/",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Unframed",
+          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/6e947209-546d-4151-9c5c-3824a6df536d/full/400,316/0/default.jpg",
+          "height": 2432,
+          "width": 3083,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 2432,
+                "width": 3083,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2432,
+                  "width": 3083,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/6e947209-546d-4151-9c5c-3824a6df536d/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
