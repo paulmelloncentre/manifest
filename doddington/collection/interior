@@ -291,7 +291,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/92065289-545c-4a58-9f7e-a1d405a487b7/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase looking down to ground floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/92065289-545c-4a58-9f7e-a1d405a487b7/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
