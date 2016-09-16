@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh60",
   "@type": "sc:Manifest",
-  "label": "DH 60",
+  "label": "Doddington 50",
   "description": "Victoria Jarvis",
   "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
