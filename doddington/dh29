@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh29",
   "@type": "sc:Manifest",
-  "label": "DH 29",
+  "label": "Doddington 85",
   "description": "The Orange accompanied by Little Victory",
   "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
