@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh106",
   "@type": "sc:Manifest",
-  "label": "DH 106",
+  "label": "Doddington NO NUMBER / DH 106",
   "description": "Robert Pregion Hurton",
   "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
