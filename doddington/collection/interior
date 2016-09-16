@@ -320,7 +320,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/880b5d3b-160f-40de-bc94-3c64d9188855/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase to 1st floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/880b5d3b-160f-40de-bc94-3c64d9188855/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -349,7 +349,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/4da314dd-abe6-4ed2-8b83-23b877af9057/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase to 1st floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/4da314dd-abe6-4ed2-8b83-23b877af9057/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -378,7 +378,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/5f7ccb1c-6876-45f4-a6e0-c98a18ae745b/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase to 1st floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/5f7ccb1c-6876-45f4-a6e0-c98a18ae745b/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -523,7 +523,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/2d1afa91-adf0-4623-af07-b7075caec0b7/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase to 2nd floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/2d1afa91-adf0-4623-af07-b7075caec0b7/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -552,7 +552,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/6cdd7946-b7f9-4748-bc9c-10790ebdf97f/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase to 2nd floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/6cdd7946-b7f9-4748-bc9c-10790ebdf97f/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -581,7 +581,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/fb511b00-d746-4b9d-990e-fda4d491e9f0/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Landing of 2nd floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/fb511b00-d746-4b9d-990e-fda4d491e9f0/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
@@ -755,7 +755,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/1/582fcaae-f4c7-483b-8614-3af44d78b300/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Staircase",
+          "label": "Staircase looking down to 1st floor",
           "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/582fcaae-f4c7-483b-8614-3af44d78b300/full/400,267/0/default.jpg",
           "height": 2456,
           "width": 3680,
