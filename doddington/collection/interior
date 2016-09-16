@@ -28,64 +28,6 @@
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/canvas/c0",
-          "@type": "sc:Canvas",
-          "label": "Hallway",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/full/400,267/0/default.jpg",
-          "height": 2456,
-          "width": 3680,
-          "images": [
-            {
-              "@id": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/imageanno/0",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6-0/res/0",
-                "@type": "dcTypes:Image",
-                "height": 2456,
-                "width": 3680,
-                "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2456,
-                  "width": 3680,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://dlcs.io/iiif-img/48/1/8180e254-e9ca-446a-80fb-3c6f73bffca6/canvas/c0"
-            }
-          ]
-        },
-        {
-          "@id": "https://dlcs.io/iiif-img/48/1/05317eb1-d2c2-431a-b3e4-46897007df29/canvas/c0",
-          "@type": "sc:Canvas",
-          "label": "Hallway",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/05317eb1-d2c2-431a-b3e4-46897007df29/full/400,267/0/default.jpg",
-          "height": 2456,
-          "width": 3680,
-          "images": [
-            {
-              "@id": "https://dlcs.io/iiif-img/48/1/05317eb1-d2c2-431a-b3e4-46897007df29/imageanno/0",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/05317eb1-d2c2-431a-b3e4-46897007df29-0/res/0",
-                "@type": "dcTypes:Image",
-                "height": 2456,
-                "width": 3680,
-                "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/05317eb1-d2c2-431a-b3e4-46897007df29",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2456,
-                  "width": 3680,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://dlcs.io/iiif-img/48/1/05317eb1-d2c2-431a-b3e4-46897007df29/canvas/c0"
-            }
-          ]
-        },
-        {
           "@id": "https://dlcs.io/iiif-img/48/1/f96f16ca-82e3-47b5-a5cd-ba5ad69d711f/canvas/c0",
           "@type": "sc:Canvas",
           "label": "The Great Hall",
