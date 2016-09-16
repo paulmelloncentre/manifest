@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh85",
   "@type": "sc:Manifest",
-  "label": "DH 85",
+  "label": "Doddington 25",
   "description": "Called 'Mary Queen of Scots'",
   "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
