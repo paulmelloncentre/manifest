@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh4",
   "@type": "sc:Manifest",
-  "label": "DH 4",
+  "label": "Doddington 105",
   "description": "Sarah Hussey Delaval, Lady Pollington, Countess of Mexborough",
   "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
