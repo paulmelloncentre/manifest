@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh102",
   "@type": "sc:Manifest",
-  "label": "DH 102",
+  "label": "Doddington 7",
   "description": "Thomas Tailor II",
   "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
