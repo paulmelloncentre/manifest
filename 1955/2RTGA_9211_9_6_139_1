@@ -1,0 +1,12 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dlcs.io/iiif-img/48/6/cb494735-6ad0-4644-bbf0-3c14195e5f80",
+  "height": 1479,
+  "width": 1500,
+  "profile": [ "http://iiif.io/api/image/2/level1.json" ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [{
+      "scaleFactors": [ 1, 2, 4, 8, 16, 32 ],
+      "width": 1500
+  }]
+}
