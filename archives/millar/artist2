@@ -1,0 +1,105 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/archives/millar/artist2",
+  "@type": "sc:Manifest",
+  "attribution": "Paul Mellon Centre",
+  "description": "Oliver Millar Archive - Index by Artist Name",
+  "label": "Oliver Millar Archive - Index by Artist Name",
+  "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Oliver Millar (1923–2007)"
+    },
+    {
+      "label": "Resource",
+      "value": "Index by Artist Name"
+    },
+    {
+      "label": "Description",
+      "value": "<p>In order to render the information in the notebooks readily accessible, Oliver Millar maintained two indexes. This document is an index by artist name, and covers all forty six notebooks recording visits to UK collections and salerooms, as well as visits abroad.  Please note, the index does not include an entry for Van Dyck. This is because Millar tended to record information about works by this artist in a series of seven additional notebooks.</p>"
+    },
+    {
+      "label": "Who was Oliver Millar?",
+      "value": "<p>Oliver Millar was an art historian and curator.  He served in the Royal Household from 1947, becoming Surveyor of the Queen’s Pictures (the first person to hold this role full time) from 1972-1988.  In this position he had privileged access to public and private collections in the UK and abroad.  He was an expert on 17th century painting, in particular portraits and the work of Anthony van Dyck.  When Millar died he left his archive, containing the research records built up over a lifetime of work, to the Paul Mellon Centre.</p>"
+    },
+    {
+      "label": "Accession number",
+      "value": "OM1"
+    },
+    {
+      "label": "Institution",
+      "value": "Paul Mellon Centre, Oliver Millar Archive"
+    }
+  ],
+  "related": "http://www.archive.org/details/platowithenglish04platuoft",
+  "seeAlso": "http://archive.org/metadata/platowithenglish04platuoft",
+  "sequences": [
+    {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft/canvas/default",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$1/canvas",
+          "@type": "sc:Canvas",
+          "height": 2358,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$1/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$1/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2358,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$1",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 1422
+              }
+            }
+          ],
+          "label": "",
+          "width": 1422
+        },
+        {
+          "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$2/canvas",
+          "@type": "sc:Canvas",
+          "height": 2358,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$2/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2358,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/platowithenglish04platuoft$2",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 1422
+              }
+            }
+          ],
+          "label": "",
+          "width": 1422
+        }
+      ],
+      "label": "default"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://ia600503.us.archive.org/BookReader/BookReaderPreview.php?id=platowithenglish04platuoft&subPrefix=platowithenglish04platuoft&itemPath=%2F26%2Fitems%2Fplatowithenglish04platuoft&server=ia600503.us.archive.org&page=preview"
+  },
+  "viewingHint": "paged"
+}
