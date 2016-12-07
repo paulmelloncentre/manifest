@@ -3,20 +3,20 @@
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/millar/pmc-om-ia_201612",
   "@type": "sc:Manifest",
   "attribution": "Paul Mellon Centre for Studies in British Art",
-  "description": "Index by Artists' Name",
-  "label": "pmc-om-ia_201612",
+  "description": "Index by Artists' Names",
+  "label": "Oliver Millar Archive",
   "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
   "metadata": [
     {
-      "label": "title",
+      "label": "Title",
       "value": "Index of Artists' Names"
     },
     {
-      "label": "author",
+      "label": "Author",
       "value": "Oliver Millar"
     },
     {
-      "label": "description",
+      "label": "Description",
       "value": "The index by artist name covers all forty six notebooks recording visits to UK collections and salerooms, as well as visits abroad. Please note, the index does not include an entry for Van Dyck. This is because Millar tended to record information about works by this artist in a series of seven additional notebooks."
     },
     {
