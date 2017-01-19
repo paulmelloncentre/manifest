@@ -2,9 +2,9 @@
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/millar/pmc-om-ia_201612",
   "@type": "sc:Manifest",
-  "attribution": "Paul Mellon Centre for Studies in British Art",
+  "attribution": "Oliver Millar Archive - Paul Mellon Centre for Studies in British Art",
   "description": "Index by Artists' Names",
-  "label": "Oliver Millar Archive<br>Index of Artists' Names",
+  "label": "Oliver Millar Archive: Index of Artists' Names",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
   "metadata": [
     {
