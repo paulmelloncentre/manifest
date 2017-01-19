@@ -232,6 +232,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$7/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 4",
           "height": 3960,
           "images": [
             {
@@ -259,6 +260,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$8/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 5",
           "height": 3940,
           "images": [
             {
@@ -286,6 +288,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$9/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 6",
           "height": 3986,
           "images": [
             {
@@ -313,6 +316,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$10/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 7",
           "height": 3953,
           "images": [
             {
@@ -340,6 +344,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$11/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 8",
           "height": 3966,
           "images": [
             {
@@ -367,6 +372,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$12/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 9",
           "height": 3943,
           "images": [
             {
@@ -394,6 +400,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$13/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 10",
           "height": 3956,
           "images": [
             {
@@ -421,6 +428,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$14/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 11",
           "height": 3933,
           "images": [
             {
@@ -448,6 +456,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$15/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 12",
           "height": 3976,
           "images": [
             {
@@ -475,6 +484,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$16/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 13",
           "height": 3965,
           "images": [
             {
@@ -502,6 +512,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$17/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 14",
           "height": 3971,
           "images": [
             {
@@ -529,6 +540,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$18/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 15",
           "height": 3955,
           "images": [
             {
@@ -556,6 +568,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$19/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 16",
           "height": 3977,
           "images": [
             {
@@ -583,6 +596,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$20/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 17",
           "height": 3934,
           "images": [
             {
@@ -610,6 +624,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$21/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 18",
           "height": 3994,
           "images": [
             {
@@ -637,6 +652,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$22/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 19",
           "height": 3947,
           "images": [
             {
@@ -664,6 +680,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$23/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 20",
           "height": 4050,
           "images": [
             {
@@ -691,6 +708,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$24/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 21",
           "height": 3963,
           "images": [
             {
@@ -718,6 +736,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$25/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 22",
           "height": 4005,
           "images": [
             {
@@ -745,6 +764,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$26/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 23",
           "height": 3989,
           "images": [
             {
@@ -772,6 +792,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$27/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 24",
           "height": 4062,
           "images": [
             {
@@ -799,6 +820,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$28/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 25",
           "height": 4011,
           "images": [
             {
@@ -826,6 +848,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$29/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 26",
           "height": 4027,
           "images": [
             {
@@ -853,6 +876,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$30/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 27",
           "height": 3981,
           "images": [
             {
@@ -880,6 +904,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$31/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 28",
           "height": 3990,
           "images": [
             {
@@ -907,6 +932,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$32/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 29",
           "height": 3925,
           "images": [
             {
@@ -934,6 +960,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$33/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 30",
           "height": 3994,
           "images": [
             {
@@ -961,6 +988,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$34/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 31",
           "height": 3961,
           "images": [
             {
@@ -988,6 +1016,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$35/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 32",
           "height": 4022,
           "images": [
             {
@@ -1015,6 +1044,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$36/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 33",
           "height": 3978,
           "images": [
             {
@@ -1042,6 +1072,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$37/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 34",
           "height": 3997,
           "images": [
             {
@@ -1069,6 +1100,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$38/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 35",
           "height": 3932,
           "images": [
             {
@@ -1096,6 +1128,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$39/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 36",
           "height": 3994,
           "images": [
             {
@@ -1123,6 +1156,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$40/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 37",
           "height": 3940,
           "images": [
             {
@@ -1150,6 +1184,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$41/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 38",
           "height": 4017,
           "images": [
             {
@@ -1177,6 +1212,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$42/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 39",
           "height": 3969,
           "images": [
             {
@@ -1204,6 +1240,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$43/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 40",
           "height": 4018,
           "images": [
             {
@@ -1231,6 +1268,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$44/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 41",
           "height": 4022,
           "images": [
             {
