@@ -37,6 +37,33 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
+          "@id": "http://iiif.archivelab.org/iiif/pmc-om-ic_201612$0/canvas",
+          "@type": "sc:Canvas",
+          "height": 3360,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "http://iiif.archivelab.org/iiif/pmc-om-ic_201612$0/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://iiif.archivelab.org/iiif/pmc-om-ic_201612$0/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3360,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://iiif.archivelab.org/iiif/pmc-om-ic_201612$0",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2144
+              }
+            }
+          ],
+          "label": "",
+          "width": 2144
+        },
+        {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ic_201612$1/canvas",
           "@type": "sc:Canvas",
           "height": 3360,
