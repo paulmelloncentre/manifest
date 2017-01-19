@@ -32,6 +32,7 @@
       "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612/canvas/default",
       "label": "Default", 
       "@type": "sc:Sequence",
+      "viewingHint": "paged",
       "canvases": [
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$0/canvas",
@@ -8031,6 +8032,5 @@
   ],
   "thumbnail": {
     "@id": "https://ia801503.us.archive.org/BookReader/BookReaderPreview.php?id=pmc-om-ia_201612&subPrefix=pmc-om-ia_201612&itemPath=%2F13%2Fitems%2Fpmc-om-ia_201612&server=ia801503.us.archive.org&page=preview"
-  },
-  "viewingHint": "paged"
+  }
 }
