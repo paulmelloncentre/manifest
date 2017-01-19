@@ -35,6 +35,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$0/canvas",
           "@type": "sc:Canvas",
+          "label": "Outside Front Cover",
           "height": 3935,
           "images": [
             {
@@ -62,6 +63,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$1/canvas",
           "@type": "sc:Canvas",
+          "label": "Inside Front Cover",
           "height": 3935,
           "images": [
             {
@@ -89,6 +91,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$2/canvas",
           "@type": "sc:Canvas",
+          "label": "Title Page recto",
           "height": 3934,
           "images": [
             {
@@ -116,6 +119,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$3/canvas",
           "@type": "sc:Canvas",
+          "label": "Title Page verso",
           "height": 3948,
           "images": [
             {
@@ -143,6 +147,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$4/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 1",
           "height": 3926,
           "images": [
             {
