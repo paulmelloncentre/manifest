@@ -30,6 +30,7 @@
     {
       "@context": "http://iiif.io/api/image/2/context.json",
       "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612/canvas/default",
+      "label": "Default", 
       "@type": "sc:Sequence",
       "canvases": [
         {
@@ -175,6 +176,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$5/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 2",
           "height": 3982,
           "images": [
             {
@@ -202,6 +204,7 @@
         {
           "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$6/canvas",
           "@type": "sc:Canvas",
+          "label": "Page 3",
           "height": 3948,
           "images": [
             {
