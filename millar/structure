@@ -8043,11 +8043,11 @@
       ]
     },
     {
-      "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612/range/r-2",
+      "@id": "http://iiif.archivelab.org/iiif/pmc-om-ia_201612/range/r-1",
       "@type": "sc:Range",
       "label": "Title Page",
       "canvases": [
-        "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$4"
+        "http://iiif.archivelab.org/iiif/pmc-om-ia_201612$2"
       ]
     }
   ]
