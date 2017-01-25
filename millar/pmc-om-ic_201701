@@ -3,7 +3,6 @@
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/millar/pmc-om-ic_201701",
   "@type": "sc:Manifest",
   "attribution": "Oliver Millar Archive - Paul Mellon Centre for Studies in British Art",
-  "description": "Index of Collections",
   "label": "Oliver Millar Archive: Index to Journals of Collections, Houses, etc.",
   "logo": "http://images.paul-mellon-centre.ac.uk/pmc_resources/PMC_Strapline_white-220x156.png",
  "metadata": [
