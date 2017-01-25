@@ -3,7 +3,6 @@
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/millar/pmc-om-ia_201612",
   "@type": "sc:Manifest",
   "attribution": "Oliver Millar Archive - Paul Mellon Centre for Studies in British Art",
-  "description": "Index by Artists' Names",
   "label": "Oliver Millar Archive: Index of Artists' Names",
   "logo": "http://images.paul-mellon-centre.ac.uk/pmc_resources/PMC_Strapline_white-220x156.png",
   "metadata": [
