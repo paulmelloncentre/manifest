@@ -23,6 +23,12 @@
       "value": "Turn to the relevant section of the index to ascertain whether Millar visited the collection you are interested in."
     }
   ],
+    "seeAlso": [
+    {
+      "@id": "http://www.paul-mellon-centre.ac.uk/collections/millar-notebooks",
+      "format": "html"
+    }
+  ],  
   "related": "http://archive.org/details/pmc-om-ia_201612",
   "seeAlso": "http://archive.org/metadata/pmc-om-ia_201612",
   "sequences": [
