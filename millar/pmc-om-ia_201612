@@ -11,21 +11,21 @@
       "value": "Index of Artists' Names"
     },
     {
-      "label": "Author",
+      "label": "Creator",
       "value": "Oliver Millar"
     },
     {
       "label": "Description",
-      "value": "The index by artist name covers all forty six notebooks recording visits to UK collections and salerooms, as well as visits abroad. Please note, the index does not include an entry for Van Dyck. This is because Millar tended to record information about works by this artist in a series of seven additional notebooks."
+      "value": "The index by artist name covers all forty six journals recording visits to UK collections and salerooms, as well as visits abroad."
     },
     {
       "label": "How to use this index",
-      "value": "Turn to the relevant section of the index to ascertain whether Millar visited the collection you are interested in."
+      "value": "<p>Turn to the relevant section of the index to ascertain whether Millar visited the collection you are interested in.</p><p>Please note that entires are not listed in strictly alphabetical order, so it is important to review all entries for the relevant letter.</p><p>Within each entry the Roman numeral, Country name or letter 'S' (for sales) refers to the journal in which relevant information can be found. The Arabic number refers to the page within that journal where this information appears. In complex entries, the Roman numeral is often circled and the Country names are underlined.</p>"
     }
   ],
     "seeAlso": [
     {
-      "@id": "http://www.paul-mellon-centre.ac.uk/collections/millar-notebooks",
+      "@id": "http://www.paul-mellon-centre.ac.uk/collections/millar-journals",
       "format": "html"
     }
   ],  
@@ -171,7 +171,7 @@
               }
             }
           ],
-          "label": "Page 1",
+          "label": "Page 1 – A",
           "width": 2346
         },
         {
@@ -495,7 +495,7 @@
               }
             }
           ],
-          "label": "Page 13",
+          "label": "Page 13 – B",
           "width": 2340
         },
         {
@@ -1089,7 +1089,7 @@
               }
             }
           ],
-          "label": "Page 35",
+          "label": "Page 35 – C",
           "width": 2483
         },
         {
@@ -1629,7 +1629,7 @@
               }
             }
           ],
-          "label": "Page 55",
+          "label": "Page 55 – D",
           "width": 2478
         },
         {
@@ -2007,7 +2007,7 @@
               }
             }
           ],
-          "label": "Page 69",
+          "label": "Page 69 – E",
           "width": 2467
         },
         {
@@ -2169,7 +2169,7 @@
               }
             }
           ],
-          "label": "Page 75",
+          "label": "Page 75 – F",
           "width": 2437
         },
         {
@@ -2493,7 +2493,7 @@
               }
             }
           ],
-          "label": "Page 87",
+          "label": "Page 87 – G",
           "width": 2411
         },
         {
@@ -2925,7 +2925,7 @@
               }
             }
           ],
-          "label": "Page 103",
+          "label": "Page 103 – H",
           "width": 2455
         },
         {
@@ -3465,7 +3465,7 @@
               }
             }
           ],
-          "label": "Page 123",
+          "label": "Page 123 – J",
           "width": 2455
         },
         {
@@ -3897,7 +3897,7 @@
               }
             }
           ],
-          "label": "Page 139",
+          "label": "Page 139 – L",
           "width": 2393
         },
         {
@@ -4275,7 +4275,7 @@
               }
             }
           ],
-          "label": "Page 153",
+          "label": "Page 153 – M",
           "width": 2397
         },
         {
@@ -4761,7 +4761,7 @@
               }
             }
           ],
-          "label": "Page 171",
+          "label": "Page 171 – N",
           "width": 2397
         },
         {
@@ -4923,7 +4923,7 @@
               }
             }
           ],
-          "label": "Page 177",
+          "label": "Page 177 – O",
           "width": 2436
         },
         {
@@ -5031,7 +5031,7 @@
               }
             }
           ],
-          "label": "Page 181",
+          "label": "Page 181 – P",
           "width": 2405
         },
         {
@@ -5463,7 +5463,7 @@
               }
             }
           ],
-          "label": "Page 197",
+          "label": "Page 197 – Q",
           "width": 2475
         },
         {
@@ -5517,7 +5517,7 @@
               }
             }
           ],
-          "label": "Page 199",
+          "label": "Page 199 – R",
           "width": 2478
         },
         {
@@ -6003,7 +6003,7 @@
               }
             }
           ],
-          "label": "Page 217",
+          "label": "Page 217 – S",
           "width": 2519
         },
         {
@@ -6651,7 +6651,7 @@
               }
             }
           ],
-          "label": "Page 241",
+          "label": "Page 241 – T",
           "width": 2454
         },
         {
@@ -6975,7 +6975,7 @@
               }
             }
           ],
-          "label": "Page 253",
+          "label": "Page 253 – U",
           "width": 2416
         },
         {
@@ -7083,7 +7083,7 @@
               }
             }
           ],
-          "label": "Page 257",
+          "label": "Page 257 – W",
           "width": 2433
         },
         {
@@ -7677,7 +7677,7 @@
               }
             }
           ],
-          "label": "Page 279",
+          "label": "Page 279 – Y",
           "width": 2432
         },
         {
@@ -7785,7 +7785,7 @@
               }
             }
           ],
-          "label": "Page 283",
+          "label": "Page 283 – Z",
           "width": 2467
         },
         {
