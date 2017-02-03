@@ -11,21 +11,21 @@
       "value": "Index to Journals of Collections, Houses, etc."
     },
     {
-      "label": "Author",
+      "label": "Creator",
       "value": "Oliver Millar"
     },
     {
       "label": "Description",
-      "value": "This index by collection name covers the twenty three notebooks recording visits in the UK.  Please note, this index does not include entries for the sale rooms (eg. Sotheby’s, Leger etc.) or foreign collections – information about such visits was only indexed by artist."
+      "value": "This index by collection name covers the twenty three journals recording visits in the UK."
     },
     {
       "label": "How to use this index",
-      "value": "Turn to the relevant section of the index to ascertain whether Millar visited the collection you are interested in. Note: collections are usually indexed under the name of the house (Eg. Blenheim, not Marlborough, Dukes of).  Only where no obvious house name is available, are collections listed under the name of the owner (Eg. Crichton-Stuart, Mrs). Entries are not always listed strictly in alphabetical order, so it is important to review all entries for the relevant letter."
+      "value": "<p>Turn to the relevant section of the index to ascertain whether Millar visited the collection you are interested in.</p><p>Please note: <ul><li>collections are usually indexed under the name of the house (Eg. Blenheim, not Marlborough, Dukes of). Only where no obvious house name is available, are collections listed under the name of the owner (Eg. Crichton-Stuart, Mrs).</li><li>Entries are not always listed strictly in alphabetical order, so it is important to review all entries for the relevant letter.</li></ul></p><p>Roman numerals refer to the particular journal in which relevant information can be found. Arabic numbers refer to the page within that journal where this information appears.</p>"
     }
   ],
   "seeAlso": [
     {
-      "@id": "http://www.paul-mellon-centre.ac.uk/collections/millar-notebooks",
+      "@id": "http://www.paul-mellon-centre.ac.uk/collections/millar-journals",
       "format": "html"
     }
   ],
@@ -170,7 +170,7 @@
               }
             }
           ],
-          "label": "Page 1",
+          "label": "Page 1 – A",
           "width": 2246
         },
         {
@@ -548,7 +548,7 @@
               }
             }
           ],
-          "label": "Page 15",
+          "label": "Page 15 – B",
           "width": 2254
         },
         {
@@ -926,7 +926,7 @@
               }
             }
           ],
-          "label": "Page 29",
+          "label": "Page 29 – C",
           "width": 2233
         },
         {
@@ -1304,7 +1304,7 @@
               }
             }
           ],
-          "label": "Page 43",
+          "label": "Page 43 – D",
           "width": 2284
         },
         {
@@ -1682,7 +1682,7 @@
               }
             }
           ],
-          "label": "Page 57",
+          "label": "Page 57 – E",
           "width": 2354
         },
         {
@@ -2060,7 +2060,7 @@
               }
             }
           ],
-          "label": "Page 71",
+          "label": "Page 71 – F",
           "width": 2331
         },
         {
@@ -2438,7 +2438,7 @@
               }
             }
           ],
-          "label": "Page 85",
+          "label": "Page 85 – G",
           "width": 2324
         },
         {
@@ -2816,7 +2816,7 @@
               }
             }
           ],
-          "label": "Page 99",
+          "label": "Page 99 – H",
           "width": 2331
         },
         {
@@ -3194,7 +3194,7 @@
               }
             }
           ],
-          "label": "Page 113",
+          "label": "Page 113 – I",
           "width": 2410
         },
         {
@@ -3572,7 +3572,7 @@
               }
             }
           ],
-          "label": "Page 127",
+          "label": "Page 127 – J",
           "width": 2376
         },
         {
@@ -3950,7 +3950,7 @@
               }
             }
           ],
-          "label": "Page 141",
+          "label": "Page 141 – K",
           "width": 2316
         },
         {
@@ -4328,7 +4328,7 @@
               }
             }
           ],
-          "label": "Page 155",
+          "label": "Page 155 – L",
           "width": 2336
         },
         {
@@ -4706,7 +4706,7 @@
               }
             }
           ],
-          "label": "Page 169",
+          "label": "Page 169 – M",
           "width": 2346
         },
         {
@@ -5084,7 +5084,7 @@
               }
             }
           ],
-          "label": "Page 183",
+          "label": "Page 183 – N",
           "width": 2336
         },
         {
@@ -5462,7 +5462,7 @@
               }
             }
           ],
-          "label": "Page 197",
+          "label": "Page 197 – O",
           "width": 2324
         },
         {
@@ -5840,7 +5840,7 @@
               }
             }
           ],
-          "label": "Page 211",
+          "label": "Page 211 – P",
           "width": 2344
         },
         {
@@ -6218,7 +6218,7 @@
               }
             }
           ],
-          "label": "Page 225",
+          "label": "Page 225 – Q",
           "width": 2312
         },
         {
@@ -6596,7 +6596,7 @@
               }
             }
           ],
-          "label": "Page 239",
+          "label": "Page 239 – R",
           "width": 2344
         },
         {
@@ -6974,7 +6974,7 @@
               }
             }
           ],
-          "label": "Page 253",
+          "label": "Page 253 – S",
           "width": 2296
         },
         {
@@ -7352,7 +7352,7 @@
               }
             }
           ],
-          "label": "Page 267",
+          "label": "Page 267 – T",
           "width": 2300
         },
         {
@@ -7730,7 +7730,7 @@
               }
             }
           ],
-          "label": "Page 281",
+          "label": "Page 281 – U",
           "width": 2303
         },
         {
@@ -8054,7 +8054,7 @@
               }
             }
           ],
-          "label": "Page 293",
+          "label": "Page 293 – V",
           "width": 2281
         },
         {
@@ -8378,7 +8378,7 @@
               }
             }
           ],
-          "label": "Page 305",
+          "label": "Page 305 – W",
           "width": 2306
         },
         {
@@ -8702,7 +8702,7 @@
               }
             }
           ],
-          "label": "Page 317",
+          "label": "Page 317 – X",
           "width": 2319
         },
         {
@@ -9026,7 +9026,7 @@
               }
             }
           ],
-          "label": "Page 329",
+          "label": "Page 329 – Y",
           "width": 2269
         },
         {
@@ -9350,7 +9350,7 @@
               }
             }
           ],
-          "label": "Page 341",
+          "label": "Page 341 – Z",
           "width": 2262
         },
         {
