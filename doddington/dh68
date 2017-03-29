@@ -61,7 +61,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Unframed",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/full/335,400/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/3299f6cb-db96-45c6-a2b0-e2f90bad9dc8/full/335,400/0/default.jpg",
           "height": 2972,
           "width": 2490,
           "images": [
@@ -90,7 +90,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/26752206-8f27-48d3-a687-3056d5cba77e/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Label on verso",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/26752206-8f27-48d3-a687-3056d5cba77e/full/400,300/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/26752206-8f27-48d3-a687-3056d5cba77e/full/400,300/0/default.jpg",
           "height": 720,
           "width": 960,
           "images": [
