@@ -61,7 +61,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Frame",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/full/400,339/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/923bc49e-3c53-4c6b-84c8-fc91de596480/full/400,339/0/default.jpg",
           "height": 2166,
           "width": 2559,
           "images": [
@@ -90,7 +90,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Unframed, pre-treatment",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/full/400,305/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/b8f3b518-8bbc-48f2-bd33-10b069ac4d70/full/400,305/0/default.jpg",
           "height": 2146,
           "width": 2814,
           "images": [
@@ -119,7 +119,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Unframed, during treatment, after removal of varnish 1",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/full/400,310/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/e874c3bc-4f19-49c4-a5c1-564abd2c686c/full/400,310/0/default.jpg",
           "height": 2172,
           "width": 2806,
           "images": [
@@ -148,7 +148,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Unframed, during treatment, during removal of varnish 2 and overpaint removal",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/full/400,305/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/131c8a3c-3ff4-485a-8d19-1a3cbaa7c90a/full/400,305/0/default.jpg",
           "height": 2212,
           "width": 2900,
           "images": [
@@ -177,7 +177,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/canvas/c0",
           "@type": "sc:Canvas",
           "label": "X-radiograph revealing the pentiment of the headscarf and facial position",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/full/400,291/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/2d1ad20d-dbb4-42b7-a1c4-a2e7a18aa82c/full/400,291/0/default.jpg",
           "height": 2276,
           "width": 3124,
           "images": [
