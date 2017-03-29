@@ -61,7 +61,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/ca399d55-e533-4cdb-93a1-931dbd49a35e/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Image",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/ca399d55-e533-4cdb-93a1-931dbd49a35e/full/308,400/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/ca399d55-e533-4cdb-93a1-931dbd49a35e/full/308,400/0/default.jpg",
           "height": 3071,
           "width": 2362,
           "images": [
