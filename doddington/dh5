@@ -90,7 +90,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Framed",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/full/266,400/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/1dd59e93-b4dd-4391-acb2-050186caff2c/full/266,400/0/default.jpg",
           "height": 3432,
           "width": 2280,
           "images": [
