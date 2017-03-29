@@ -65,7 +65,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Unframed",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/full/321,400/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/1361a389-ff53-4e9a-86e8-1b59fd8b86f1/full/321,400/0/default.jpg",
           "height": 3002,
           "width": 2411,
           "images": [
@@ -94,7 +94,7 @@
           "@id": "https://dlcs.io/iiif-img/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Framed",
-          "thumbnail": "http://thumbs.dlcs.io/thumbs/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/full/276,400/0/default.jpg",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/f4702c5d-57a7-497f-84dc-3e4a534c698c/full/276,400/0/default.jpg",
           "height": 3036,
           "width": 2092,
           "images": [
