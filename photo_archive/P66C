@@ -60,7 +60,7 @@
         {
           "@id": "https://dlcs.io/iiif-img/48/12/fda016ed-5046-4d1e-bffc-5a04fa6a551a/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Verso",
+          "label": "Recto",
           "thumbnail": "https://dlcs.io/thumbs/48/12/fda016ed-5046-4d1e-bffc-5a04fa6a551a/full/full/0/default.jpg",
           "height": 2364,
           "width": 3446,
@@ -89,7 +89,7 @@
          {
           "@id": "https://dlcs.io/iiif-img/48/12/a565a1af-5ad8-4c0f-9a19-10989618af87/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "Recto",
+          "label": "Verso",
           "thumbnail": "https://dlcs.io/thumbs/48/12/a565a1af-5ad8-4c0f-9a19-10989618af87/full/full/0/default.jpg",
           "height": 1866,
           "width": 2504,
