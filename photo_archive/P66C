@@ -4,7 +4,7 @@
   "@type": "sc:Manifest",
   "label": "P66C",
   "description": "River Temple and Broken Bridge",
-  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "attribution": "<span>Paul Mellon Centre<br/>Rights: Public Domain</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
   "metadata": [
     {
@@ -12,8 +12,12 @@
       "value": "Richard Wilson"
     },
     {
-      "label": "Titles",
+      "label": "Title",
       "value": "River Temple and Broken Bridge"
+    },
+    {
+      "label": "Alternate Title",
+      "value": "Italian River Landscape with a broken Bridge"
     },
     {
       "label": "Date",
@@ -42,6 +46,18 @@
     {
       "label": "Description",
       "value": "<p>A river spanned by a broken bridge flows around tree-covered slopes. Above the river, a temple can be seen. Beyond a plain runs back towards a distant mountain. At the left a rocky bluff crowned with trees rises from the bank, filling the foreground. Three figures stand in the foreground and two horses with men descend from right to left.</p>"
+    },
+    {
+      "label": "Provenance",
+      "value": "<p>Benjamin Booth (1732-1807), London; Revd. R.S. Booth, London; Lady (Richard) Ford (nee Marianne Booth), London; Richard Ford, Devonshire; Sir Francis Clare Ford, Captain Richard Ford, London; his sale, Christie's, 14 June 1929 (18 A River Scene), bt Thomas Agnew & Sons Ltd (#7038, 780 guineas); 18 June 1929 sold to Frederick John Nettlefold; presented by F.J. Nettlefold to the Fitzwilliam Museum, 1948.</p>"
+    },
+    {
+      "label": "Signature / Inscription",
+      "value": "<p>Unsigned; no inscription</p>"
+    },
+    {
+      "label": "Techniques and Materials",
+      "value": "<p>There is underpaint to left centre. Blobby, fluid brush-strokes are much in evidence, for example in the clouds.</p>"
     }
   ],
   "seeAlso": [
