@@ -1,0 +1,150 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/doddington/dh99",
+  "@type": "sc:Manifest",
+  "label": "P66C",
+  "description": "River Temple and Broken Bridge",
+  "attribution": "<span>Doddington Hall<br/>Rights: Public Domain</span>",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Richard Wilson"
+    },
+    {
+      "label": "Titles",
+      "value": "River Temple and Broken Bridge"
+    },
+    {
+      "label": "Date",
+      "value": "ca.1780? (undated)"
+    },
+    {
+      "label": "Medium",
+      "value": "Oil on mahogany panel"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 41.3 x 53.3 cm"
+    },
+    {
+      "label": "Credit line",
+      "value": "Steath & Sons"
+    },
+    {
+      "label": "Institution",
+      "value": "Fitzwilliam Museum, Cambridge"
+    },
+    {
+      "label": "Accession number",
+      "value": "PD.2-1948"
+    },
+    {
+      "label": "Description",
+      "value": "<p>A river spanned by a broken bridge flows around tree-covered slopes. Above the river, a temple can be seen. Beyond a plain runs back towards a distant mountain. At the left a rocky bluff crowned with trees rises from the bank, filling the foreground. Three figures stand in the foreground and two horses with men descend from right to left.</p>"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://www.richardwilsononline.ac.uk/index.php?a=ViewItem&key=QnsiTiI6MCwiUCI6eyJpdGVtX2lkIjoiNjI4In19",
+      "format": "html"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://dlcs.io/iiif-img/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "viewingHint": "individuals",
+           "canvases": [
+        {
+          "@id": "https://dlcs.io/iiif-img/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "verso, mount",
+          "thumbnail": "https://dlcs.io/thumbs/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1/full/full/0/default.jpg",
+          "height": 2364,
+          "width": 3446,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1-0/res/0",
+                "@type": "dctypes:Image",
+                "height": 2364,
+                "width": 3446,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2364,
+                  "width": 3446,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/12/93ce1625-c6da-4916-9cf4-b5836e0081c1/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "DH99.2 - (male portrait)",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/full/224,400/0/default.jpg",
+          "height": 3601,
+          "width": 2014,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3601,
+                "width": 2014,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3601,
+                  "width": 2014,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "DH99.3 - (verso of female portrait)",
+          "thumbnail": "http://dlcs.io/thumbs/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/full/224,400/0/default.jpg",
+          "height": 3601,
+          "width": 2014,
+          "images": [
+            {
+              "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/imageanno/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8-0/res/0",
+                "@type": "dcTypes:Image",
+                "height": 3601,
+                "width": 2014,
+                "service": {
+                  "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3601,
+                  "width": 2014,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
