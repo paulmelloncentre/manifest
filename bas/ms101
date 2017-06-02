@@ -118,6 +118,54 @@
 					]
 				},
 				{
+					"@id": "http://9cf182d0-3480-445b-aee1-865b13d17acd",
+					"@type": "sc:Canvas",
+					"label": "fly leaf",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
+					"@id": "http://0a090f26-c60f-4e67-92f5-4887a586c6cf",
+					"@type": "sc:Canvas",
+					"label": "fol. 1",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
+					"@id": "http://2da7a7f9-b1ec-4a24-bff2-f9ad5de81131",
+					"@type": "sc:Canvas",
+					"label": "fol. 2",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
+					"@id": "http://c67a3f53-7c1d-45d6-9cf9-4562794a4d8f",
+					"@type": "sc:Canvas",
+					"label": "fol. 3",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
+					"@id": "http://de7a1e81-59fc-4543-a65f-9b7ff4fae9f0",
+					"@type": "sc:Canvas",
+					"label": "fol. 4",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
+					"@id": "http://0d4a1559-4dfd-450d-a594-2f693faf3929",
+					"@type": "sc:Canvas",
+					"label": "fol. 5",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247346/",
 					"@type": "sc:Canvas",
 					"label": "fol. 6",
