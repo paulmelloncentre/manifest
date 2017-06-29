@@ -1920,40 +1920,6 @@
 					]
 				},
 				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247389/",
-					"@type": "sc:Canvas",
-					"label": "fol. 63v",
-					"width": 3070,
-					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31708601.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247389/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83811/full/691,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83811",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247389/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 63v"
-						}
-					]
-				},
-				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244432/",
 					"@type": "sc:Canvas",
 					"label": "fol. 63",
@@ -1984,6 +1950,40 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 63"
+						}
+					]
+				},
+								{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247389/",
+					"@type": "sc:Canvas",
+					"label": "fol. 63v",
+					"width": 3070,
+					"height": 4552,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31708601.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247389/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/83811/full/691,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/83811",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247389/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 63v"
 						}
 					]
 				},
