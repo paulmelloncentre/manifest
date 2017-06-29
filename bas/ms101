@@ -58,7 +58,7 @@
 			"@type": "sc:Sequence",
 			"label": "Object",
 			"viewingDirection": "left-to-right",
-			"viewingHint": "paged",
+			"viewingHint": "individuals",
 			"startCanvas": "https://data.getty.edu/museum/api/iiif/243710/canvas/main",
 			"canvases": [
 				{
