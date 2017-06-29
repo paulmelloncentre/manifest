@@ -118,54 +118,6 @@
 					]
 				},
 				{
-					"@id": "http://9cf182d0-3480-445b-aee1-865b13d17acd",
-					"@type": "sc:Canvas",
-					"label": "fly leaf",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
-					"@id": "http://0a090f26-c60f-4e67-92f5-4887a586c6cf",
-					"@type": "sc:Canvas",
-					"label": "fol. 1",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
-					"@id": "http://2da7a7f9-b1ec-4a24-bff2-f9ad5de81131",
-					"@type": "sc:Canvas",
-					"label": "fol. 2",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
-					"@id": "http://c67a3f53-7c1d-45d6-9cf9-4562794a4d8f",
-					"@type": "sc:Canvas",
-					"label": "fol. 3",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
-					"@id": "http://de7a1e81-59fc-4543-a65f-9b7ff4fae9f0",
-					"@type": "sc:Canvas",
-					"label": "fol. 4",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
-					"@id": "http://0d4a1559-4dfd-450d-a594-2f693faf3929",
-					"@type": "sc:Canvas",
-					"label": "fol. 5",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247346/",
 					"@type": "sc:Canvas",
 					"label": "fol. 6",
@@ -505,23 +457,6 @@
 						}
 					]
 				},
-				
-				{
-					"@id": "http://d39659fa-ba7c-40f5-b952-075c5c047604",
-					"@type": "sc:Canvas",
-					"label": "fol. 18v",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
-				{
-					"@id": "http://ad4f0947-d89d-4b60-b254-eb971d41ab31",
-					"@type": "sc:Canvas",
-					"label": "fol. 19",
-					"height": 0,
-					"width": 0,
-					"images": []
-				},
 				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247355/",
 					"@type": "sc:Canvas",
@@ -795,6 +730,40 @@
 					]
 				},
 				{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247366/",
+					"@type": "sc:Canvas",
+					"label": "fol. 28v",
+					"width": 3070,
+					"height": 4552,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31706301.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247366/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/83788/full/691,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/83788",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247366/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 28v"
+						}
+					]
+				},
+				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247364/",
 					"@type": "sc:Canvas",
 					"label": "fol. 29",
@@ -825,40 +794,6 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 29"
-						}
-					]
-				},
-				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247366/",
-					"@type": "sc:Canvas",
-					"label": "fol. 29v",
-					"width": 3070,
-					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31706301.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247366/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83788/full/691,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83788",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247366/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 28v"
 						}
 					]
 				},
@@ -1849,40 +1784,6 @@
 					]
 				},
 				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247387/",
-					"@type": "sc:Canvas",
-					"label": "fol. 61",
-					"width": 3070,
-					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31708401.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247387/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83809/full/691,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83809",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247387/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 61"
-						}
-					]
-				},
-				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244430/",
 					"@type": "sc:Canvas",
 					"label": "fol. 60",
@@ -1913,6 +1814,40 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 60"
+						}
+					]
+				},
+				{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247387/",
+					"@type": "sc:Canvas",
+					"label": "fol. 61",
+					"width": 3070,
+					"height": 4552,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31708401.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247387/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/83809/full/691,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/83809",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247387/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 61"
 						}
 					]
 				},
@@ -2325,40 +2260,6 @@
 					]
 				},
 				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247396/",
-					"@type": "sc:Canvas",
-					"label": "fol. 69",
-					"width": 3070,
-					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31709301.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247396/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83818/full/691,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83818",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247396/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 69"
-						}
-					]
-				},
-				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247398/",
 					"@type": "sc:Canvas",
 					"label": "fol. 68v",
@@ -2389,6 +2290,40 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 68v"
+						}
+					]
+				},
+				{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247396/",
+					"@type": "sc:Canvas",
+					"label": "fol. 69",
+					"width": 3070,
+					"height": 4552,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31709301.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247396/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/83818/full/691,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/83818",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247396/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 69"
 						}
 					]
 				},
@@ -2597,6 +2532,40 @@
 					]
 				},
 				{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244434/",
+					"@type": "sc:Canvas",
+					"label": "fol. 77",
+					"width": 3054,
+					"height": 4577,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31249701.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/244434/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/71433/full/683,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/71433",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244434/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 77"
+						}
+					]
+				},
+				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247405/",
 					"@type": "sc:Canvas",
 					"label": "fol. 78",
@@ -2661,40 +2630,6 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 78v"
-						}
-					]
-				},
-				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244434/",
-					"@type": "sc:Canvas",
-					"label": "fol. 77",
-					"width": 3054,
-					"height": 4577,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31249701.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/244434/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/71433/full/683,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/71433",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244434/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 77"
 						}
 					]
 				},
@@ -2801,40 +2736,6 @@
 					]
 				},
 				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247409/",
-					"@type": "sc:Canvas",
-					"label": "fol. 84",
-					"width": 3070,
-					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31710601.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247409/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83936/full/691,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83936",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247409/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 84"
-						}
-					]
-				},
-				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/244408/",
 					"@type": "sc:Canvas",
 					"label": "fol. 82v",
@@ -2865,6 +2766,40 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 82v"
+						}
+					]
+				},
+				{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247409/",
+					"@type": "sc:Canvas",
+					"label": "fol. 84",
+					"width": 3070,
+					"height": 4552,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31710601.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247409/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/83936/full/691,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/83936",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247409/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 84"
 						}
 					]
 				},
@@ -3515,6 +3450,40 @@
 					]
 				},
 				{
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247429/",
+					"@type": "sc:Canvas",
+					"label": "fol. 101v",
+					"width": 3070,
+					"height": 4552,
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31712601.jpg",
+					"images": [
+						{
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247429/",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://data.getty.edu/museum/api/iiif/83956/full/691,1024/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": null,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://data.getty.edu/museum/api/iiif/83956",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"width": null,
+								"height": null
+							},
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247429/"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Object Number",
+							"value": "Ms. 101, fol. 101v"
+						}
+					]
+				},
+				{
 					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247422/",
 					"@type": "sc:Canvas",
 					"label": "fol. 102",
@@ -3545,40 +3514,6 @@
 						{
 							"label": "Object Number",
 							"value": "Ms. 101, fol. 102"
-						}
-					]
-				},
-				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247423/",
-					"@type": "sc:Canvas",
-					"label": "fol. 103",
-					"width": 3070,
-					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31712001.jpg",
-					"images": [
-						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247423/",
-							"@type": "oa:Annotation",
-							"motivation": "sc:painting",
-							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83950/full/691,1024/0/default.jpg",
-								"@type": "dctypes:Image",
-								"format": null,
-								"service": {
-									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83950",
-									"profile": "http://iiif.io/api/image/2/level0.json"
-								},
-								"width": null,
-								"height": null
-							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247423/"
-						}
-					],
-					"metadata": [
-						{
-							"label": "Object Number",
-							"value": "Ms. 101, fol. 103"
 						}
 					]
 				},
@@ -3617,36 +3552,36 @@
 					]
 				},
 				{
-					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247429/",
+					"@id": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247423/",
 					"@type": "sc:Canvas",
 					"label": "fol. 103",
 					"width": 3070,
 					"height": 4552,
-					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31712601.jpg",
+					"thumbnail": "http://www.getty.edu/museum/media/images/web/thumbnail/31712001.jpg",
 					"images": [
 						{
-							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247429/",
+							"@id": "https://data.getty.edu/museum/api/iiif/243710/annotation/related/247423/",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://data.getty.edu/museum/api/iiif/83956/full/691,1024/0/default.jpg",
+								"@id": "https://data.getty.edu/museum/api/iiif/83950/full/691,1024/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": null,
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://data.getty.edu/museum/api/iiif/83956",
+									"@id": "https://data.getty.edu/museum/api/iiif/83950",
 									"profile": "http://iiif.io/api/image/2/level0.json"
 								},
 								"width": null,
 								"height": null
 							},
-							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247429/"
+							"on": "https://data.getty.edu/museum/api/iiif/243710/canvas/related/247423/"
 						}
 					],
 					"metadata": [
 						{
 							"label": "Object Number",
-							"value": "Ms. 101, fol. 101v"
+							"value": "Ms. 101, fol. 103"
 						}
 					]
 				},
