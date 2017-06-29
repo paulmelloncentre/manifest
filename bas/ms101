@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://data.getty.edu/museum/api/iiif/243710/manifest.json",
 	"@type": "sc:Manifest",
-	"label": "Illustrated Vita Christi, with devotional supplements (about 1190 - 1200 and about 1480 - 1490), Unknown",
+	"label": "Illustrated Vita Christi, Ms 101",
 	"description": "The <em>Vita Christi (Life of Christ)</em>'s fifty-one twelfth-century miniatures constitute one of the most elaborate narrative Christ cycles from the period. The original manuscript may have served as a devotional picture book (with no text) or perhaps as a pictorial preface to a psalter (a manuscript containing the book of Psalms and other devotional material). A second cycle of fifty-seven images was added in the 1400s and integrated, along with prayers, into the earlier cycle. The transformed book (formerly restricted to the story of Christ's life) spans the biblical history of the world from the fall of the rebel angels to the Apocalypse.",
 	"metadata": [
 		{
