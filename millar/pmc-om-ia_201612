@@ -1,5 +1,5 @@
 {
-  "@context": "https://iiif.io/api/image/2/context.json",
+  "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/millar/pmc-om-ia_201612",
   "@type": "sc:Manifest",
   "attribution": "Oliver Millar Archive - Paul Mellon Centre for Studies in British Art",
