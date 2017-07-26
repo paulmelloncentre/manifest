@@ -5,7 +5,7 @@
   "attribution": "Paul Mellon Centre for Studies in British art",
   "description": "This Man: A Sequence of Wood Engravings",
   "label": "This Man: A Sequence of Wood Engravings",
-  "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo.svg",
   "metadata": [
     {
       "label": "Title",
@@ -16,32 +16,32 @@
       "value": "Elizabeth Rivers"
     }
   ],
-  "related": "http://archive.org/details/erivers-this-man",
-  "seeAlso": "http://archive.org/metadata/erivers-this-man",
+  "related": "https://archive.org/details/erivers-this-man",
+  "seeAlso": "https://archive.org/metadata/erivers-this-man",
   "sequences": [
     {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "http://iiif.archivelab.org/iiif/erivers-this-man/canvas/default",
+      "@id": "https://iiif.archivelab.org/iiif/erivers-this-man/canvas/default",
       "@type": "sc:Sequence",
       "canvases": [
               {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$0/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$0/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$0/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$0/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$0/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$0/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$0",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$0",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1795
@@ -52,23 +52,23 @@
           "width": 1795
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$1/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$1/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$1/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$1/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$1/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$1/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$1",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$1",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1795
@@ -79,23 +79,23 @@
           "width": 1795
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$2/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$2/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$2/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$2/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$2/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$2",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$2",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1822
@@ -106,23 +106,23 @@
           "width": 1822
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$3/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$3/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$3/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$3/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$3/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$3/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$3",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$3",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1810
@@ -133,23 +133,23 @@
           "width": 1810
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$4/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$4/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$4/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$4/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$4/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$4/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$4",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$4",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1818
@@ -160,23 +160,23 @@
           "width": 1818
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$5/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$5/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$5/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$5/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$5/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$5/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$5",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$5",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1814
@@ -187,23 +187,23 @@
           "width": 1814
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$6/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$6/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$6/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$6/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$6/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$6/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$6",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$6",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1804
@@ -214,23 +214,23 @@
           "width": 1804
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$7/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$7/canvas",
           "@type": "sc:Canvas",
           "height": 2394,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$7/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$7/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$7/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$7/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2394,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$7",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$7",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1802
@@ -241,23 +241,23 @@
           "width": 1802
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$8/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$8/canvas",
           "@type": "sc:Canvas",
           "height": 2395,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$8/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$8/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$8/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$8/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2395,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$8",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$8",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1808
@@ -268,23 +268,23 @@
           "width": 1808
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$9/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$9/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$9/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$9/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$9/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$9/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$9",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$9",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1801
@@ -295,23 +295,23 @@
           "width": 1801
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$10/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$10/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$10/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$10/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$10/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$10/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$10",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$10",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1819
@@ -322,23 +322,23 @@
           "width": 1819
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$11/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$11/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$11/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$11/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$11/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$11/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$11",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$11",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1803
@@ -349,23 +349,23 @@
           "width": 1803
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$12/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$12/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$12/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$12/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$12/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$12/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$12",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$12",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1813
@@ -376,23 +376,23 @@
           "width": 1813
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$13/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$13/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$13/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$13/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$13/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$13/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$13",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$13",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1804
@@ -403,23 +403,23 @@
           "width": 1804
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$14/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$14/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$14/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$14/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$14/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$14/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$14",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$14",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1810
@@ -430,23 +430,23 @@
           "width": 1810
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$15/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$15/canvas",
           "@type": "sc:Canvas",
           "height": 2393,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$15/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$15/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$15/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$15/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2393,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$15",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$15",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1801
@@ -457,23 +457,23 @@
           "width": 1801
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$16/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$16/canvas",
           "@type": "sc:Canvas",
           "height": 2394,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$16/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$16/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$16/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$16/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2394,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$16",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$16",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1813
@@ -484,23 +484,23 @@
           "width": 1813
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$17/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$17/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$17/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$17/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$17/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$17/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$17",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$17",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1807
@@ -511,23 +511,23 @@
           "width": 1807
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$18/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$18/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$18/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$18/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$18/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$18/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$18",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$18",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1815
@@ -538,23 +538,23 @@
           "width": 1815
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$19/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$19/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$19/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$19/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$19/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$19/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$19",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$19",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1805
@@ -565,23 +565,23 @@
           "width": 1805
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$20/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$20/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$20/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$20/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$20/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$20/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$20",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$20",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1814
@@ -592,23 +592,23 @@
           "width": 1814
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$21/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$21/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$21/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$21/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$21/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$21/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$21",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$21",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1804
@@ -619,23 +619,23 @@
           "width": 1804
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$22/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$22/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$22/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$22/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$22/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$22/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$22",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$22",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1818
@@ -646,23 +646,23 @@
           "width": 1818
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$23/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$23/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$23/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$23/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$23/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$23/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$23",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$23",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1802
@@ -673,23 +673,23 @@
           "width": 1802
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$24/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$24/canvas",
           "@type": "sc:Canvas",
           "height": 2395,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$24/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$24/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$24/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$24/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2395,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$24",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$24",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1816
@@ -700,23 +700,23 @@
           "width": 1816
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$25/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$25/canvas",
           "@type": "sc:Canvas",
           "height": 2395,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$25/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$25/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$25/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$25/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2395,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$25",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$25",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1794
@@ -727,23 +727,23 @@
           "width": 1794
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$26/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$26/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$26/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$26/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$26/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$26/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$26",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$26",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1822
@@ -754,23 +754,23 @@
           "width": 1822
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$27/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$27/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$27/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$27/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$27/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$27/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$27",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$27",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1787
@@ -781,23 +781,23 @@
           "width": 1787
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$28/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$28/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$28/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$28/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$28/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$28/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$28",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$28",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1825
@@ -808,23 +808,23 @@
           "width": 1825
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$29/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$29/canvas",
           "@type": "sc:Canvas",
           "height": 2394,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$29/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$29/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$29/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$29/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2394,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$29",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$29",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1792
@@ -835,23 +835,23 @@
           "width": 1792
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$30/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$30/canvas",
           "@type": "sc:Canvas",
           "height": 2395,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$30/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$30/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$30/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$30/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2395,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$30",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$30",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1826
@@ -862,23 +862,23 @@
           "width": 1826
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$31/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$31/canvas",
           "@type": "sc:Canvas",
           "height": 2395,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$31/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$31/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$31/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$31/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2395,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$31",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$31",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1785
@@ -889,23 +889,23 @@
           "width": 1785
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$32/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$32/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$32/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$32/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$32/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$32/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$32",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$32",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1826
@@ -916,23 +916,23 @@
           "width": 1826
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$33/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$33/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$33/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$33/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$33/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$33/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$33",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$33",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1787
@@ -943,23 +943,23 @@
           "width": 1787
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$34/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$34/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$34/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$34/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$34/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$34/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$34",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$34",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1831
@@ -970,23 +970,23 @@
           "width": 1831
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$35/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$35/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$35/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$35/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$35/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$35/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$35",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$35",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1786
@@ -997,23 +997,23 @@
           "width": 1786
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$36/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$36/canvas",
           "@type": "sc:Canvas",
           "height": 2400,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$36/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$36/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$36/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$36/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2400,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$36",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$36",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1829
@@ -1024,23 +1024,23 @@
           "width": 1829
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$37/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$37/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$37/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$37/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$37/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$37/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$37",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$37",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1788
@@ -1051,23 +1051,23 @@
           "width": 1788
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$38/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$38/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$38/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$38/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$38/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$38/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$38",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$38",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1826
@@ -1078,23 +1078,23 @@
           "width": 1826
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$39/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$39/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$39/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$39/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$39/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$39/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$39",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$39",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1791
@@ -1105,23 +1105,23 @@
           "width": 1791
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$40/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$40/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$40/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$40/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$40/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$40/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$40",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$40",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1822
@@ -1132,23 +1132,23 @@
           "width": 1822
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$41/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$41/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$41/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$41/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$41/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$41/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$41",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$41",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1793
@@ -1159,23 +1159,23 @@
           "width": 1793
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$42/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$42/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$42/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$42/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$42/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$42/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$42",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$42",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1822
@@ -1186,23 +1186,23 @@
           "width": 1822
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$43/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$43/canvas",
           "@type": "sc:Canvas",
           "height": 2400,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$43/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$43/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$43/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$43/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2400,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$43",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$43",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1795
@@ -1213,23 +1213,23 @@
           "width": 1795
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$44/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$44/canvas",
           "@type": "sc:Canvas",
           "height": 2400,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$44/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$44/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$44/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$44/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2400,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$44",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$44",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1817
@@ -1240,23 +1240,23 @@
           "width": 1817
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$45/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$45/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$45/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$45/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$45/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$45/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$45",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$45",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1799
@@ -1267,23 +1267,23 @@
           "width": 1799
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$46/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$46/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$46/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$46/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$46/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$46/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$46",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$46",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1820
@@ -1294,23 +1294,23 @@
           "width": 1820
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$47/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$47/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$47/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$47/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$47/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$47/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$47",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$47",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1798
@@ -1321,23 +1321,23 @@
           "width": 1798
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$48/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$48/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$48/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$48/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$48/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$48/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$48",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$48",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1818
@@ -1348,23 +1348,23 @@
           "width": 1818
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$49/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$49/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$49/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$49/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$49/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$49/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$49",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$49",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1795
@@ -1375,23 +1375,23 @@
           "width": 1795
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$50/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$50/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$50/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$50/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$50/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$50/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$50",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$50",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1820
@@ -1402,23 +1402,23 @@
           "width": 1820
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$51/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$51/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$51/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$51/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$51/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$51/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$51",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$51",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1792
@@ -1429,23 +1429,23 @@
           "width": 1792
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$52/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$52/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$52/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$52/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$52/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$52/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$52",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$52",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1822
@@ -1456,23 +1456,23 @@
           "width": 1822
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$53/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$53/canvas",
           "@type": "sc:Canvas",
           "height": 2399,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$53/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$53/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$53/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$53/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2399,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$53",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$53",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1796
@@ -1483,23 +1483,23 @@
           "width": 1796
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$54/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$54/canvas",
           "@type": "sc:Canvas",
           "height": 2397,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$54/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$54/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$54/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$54/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2397,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$54",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$54",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1822
@@ -1510,23 +1510,23 @@
           "width": 1822
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$55/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$55/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$55/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$55/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$55/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$55/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$55",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$55",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1794
@@ -1537,23 +1537,23 @@
           "width": 1794
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$56/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$56/canvas",
           "@type": "sc:Canvas",
           "height": 2398,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$56/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$56/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$56/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$56/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2398,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$56",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$56",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1817
@@ -1564,23 +1564,23 @@
           "width": 1817
         },
         {
-          "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$57/canvas",
+          "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$57/canvas",
           "@type": "sc:Canvas",
           "height": 2396,
           "images": [
             {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$57/annotation",
+              "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$57/annotation",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$57/full/full/0/default.jpg",
+                "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$57/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2396,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://iiif.archivelab.org/iiif/erivers-this-man$57",
+                  "@id": "https://iiif.archivelab.org/iiif/erivers-this-man$57",
                   "profile": "http://iiif.io/api/image/2/profiles/level2.json"
                 },
                 "width": 1814
