@@ -628,5 +628,6 @@
 		}
 	],
 	"structures": [],
-	"viewingDirection": "left-to-right"
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged"
 }
