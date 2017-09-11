@@ -39,7 +39,7 @@
 				{
 					"@id": "http://bba82c12-452d-408b-8b66-84977074e262",
 					"@type": "sc:Canvas",
-					"label": "1",
+					"label": "Frontispiece",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -86,9 +86,17 @@
 					]
 				},
 				{
+					"@id": "http://16a19c36-26c8-4094-b148-92a409968b7b",
+					"@type": "sc:Canvas",
+					"label": "Missing page?",
+					"height": 0,
+					"width": 0,
+					"images": []
+				},
+				{
 					"@id": "http://692a1c8e-08c3-405a-b7fa-a0cdc837a56f",
 					"@type": "sc:Canvas",
-					"label": "2",
+					"label": "1",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -137,7 +145,7 @@
 				{
 					"@id": "http://3473fbb3-ae51-47d7-a206-fd54ce685476",
 					"@type": "sc:Canvas",
-					"label": "3",
+					"label": "2",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -186,7 +194,7 @@
 				{
 					"@id": "http://8194b41a-9aaa-4e80-a22f-aa490d89778d",
 					"@type": "sc:Canvas",
-					"label": "4",
+					"label": "3",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -235,7 +243,7 @@
 				{
 					"@id": "http://02d377ad-d965-4c01-acf0-348bff4974f7",
 					"@type": "sc:Canvas",
-					"label": "5",
+					"label": "4",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -284,7 +292,7 @@
 				{
 					"@id": "http://ac0f4c89-d83e-4b7e-9a53-0be61fd4891e",
 					"@type": "sc:Canvas",
-					"label": "6",
+					"label": "5",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -333,7 +341,7 @@
 				{
 					"@id": "http://118b4839-e02f-4b26-b7eb-58241cd06b93",
 					"@type": "sc:Canvas",
-					"label": "7",
+					"label": "6",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -382,7 +390,7 @@
 				{
 					"@id": "http://dddf61e1-ecd4-42a2-a20b-f9edf67989d2",
 					"@type": "sc:Canvas",
-					"label": "8",
+					"label": "7",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -431,7 +439,7 @@
 				{
 					"@id": "http://db49b8bf-cca6-4846-88ce-b577dbd242c7",
 					"@type": "sc:Canvas",
-					"label": "9",
+					"label": "8",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -480,7 +488,7 @@
 				{
 					"@id": "http://4a8cdc88-84d8-4376-a90c-0fe298f2c712",
 					"@type": "sc:Canvas",
-					"label": "10",
+					"label": "9",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -529,7 +537,7 @@
 				{
 					"@id": "http://48a9d59f-71f8-4f12-a002-29122c759480",
 					"@type": "sc:Canvas",
-					"label": "11",
+					"label": "10",
 					"height": 4094,
 					"width": 3057,
 					"images": [
@@ -578,7 +586,7 @@
 				{
 					"@id": "http://7e10a28f-b1a7-4905-be03-f981e2bd23d7",
 					"@type": "sc:Canvas",
-					"label": "12",
+					"label": "11",
 					"height": 4094,
 					"width": 3057,
 					"images": [
