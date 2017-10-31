@@ -13,7 +13,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/b8587fc7-e640-4d63-bdc2-dfa172d75d6d",
+          "@id": "https://dlc.services/iiif-img/48/1/b8587fc7-e640-4d63-bdc2-dfa172d75d6d",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -31,7 +31,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3",
+          "@id": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -49,7 +49,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1",
+          "@id": "https://dlc.services/iiif-img/48/1/5e5c4f3d-f02a-486d-983a-a693edb347a1",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -67,7 +67,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/4edc8322-4134-442f-88c1-e242737c845d",
+          "@id": "https://dlc.services/iiif-img/48/1/4edc8322-4134-442f-88c1-e242737c845d",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -85,7 +85,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/02568bdb-91ba-4f3e-ad48-bb1a459e179e",
+          "@id": "https://dlc.services/iiif-img/48/1/02568bdb-91ba-4f3e-ad48-bb1a459e179e",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -103,7 +103,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775",
+          "@id": "https://dlc.services/iiif-img/48/1/b6c55c3d-175a-4bbc-b408-bc8911de5775",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -121,7 +121,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/fabd0f19-608a-4661-bfe9-8321098b9cef",
+          "@id": "https://dlc.services/iiif-img/48/1/fabd0f19-608a-4661-bfe9-8321098b9cef",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -139,7 +139,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096",
+          "@id": "https://dlc.services/iiif-img/48/1/f8daddb3-db8e-4059-81c9-7fe106bcc096",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -157,7 +157,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/57e1affb-fb8f-4b73-843b-858da01f3cdc",
+          "@id": "https://dlc.services/iiif-img/48/1/57e1affb-fb8f-4b73-843b-858da01f3cdc",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -175,7 +175,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863",
+          "@id": "https://dlc.services/iiif-img/48/1/52464dc8-f9c8-45e0-a374-f6b4bb9ee863",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -193,7 +193,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/aa16a64f-3568-4b47-ae2b-7838ac71cd29",
+          "@id": "https://dlc.services/iiif-img/48/1/aa16a64f-3568-4b47-ae2b-7838ac71cd29",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -211,7 +211,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5",
+          "@id": "https://dlc.services/iiif-img/48/1/00895223-ca75-4a67-8022-931266af33b5",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
@@ -229,7 +229,7 @@
         "@type": "dctypes:Image",
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://dlcs.io/iiif-img/48/1/1f866595-484a-42f6-bc42-3508b3e78643",
+          "@id": "https://dlc.services/iiif-img/48/1/1f866595-484a-42f6-bc42-3508b3e78643",
           "profile": "http://iiif.io/api/image/2/level1.json"
         }
       },
