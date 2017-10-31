@@ -52,13 +52,13 @@
   ],
   "sequences": [
       {
-      "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/sequence/s0",
+      "@id": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/sequence/s0",
       "@type": "sc:Sequence",
       "label": "Sequence 0",
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Image",
           "thumbnail": "http://dlcs.io/thumbs/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/full/300,400/0/default.jpg",
@@ -66,23 +66,23 @@
           "width": 2342,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/imageanno/0",
+              "@id": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3-0/res/0",
+                "@id": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3-0/res/0",
                 "@type": "dcTypes:Image",
                 "height": 3122,
                 "width": 2342,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3",
+                  "@id": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3",
                   "protocol": "http://iiif.io/api/image",
                   "height": 3122,
                   "width": 2342,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/canvas/c0"
+              "on": "https://dlc.services/iiif-img/48/1/21ba0e78-4c9c-416f-a404-c4a2c2ee5cf3/canvas/c0"
             }
           ]
         }
