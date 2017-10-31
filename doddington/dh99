@@ -52,13 +52,13 @@
   ],
   "sequences": [
     {
-      "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/sequence/s0",
+      "@id": "https://dlc.services/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/sequence/s0",
       "@type": "sc:Sequence",
       "label": "Sequence 0",
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/canvas/c0",
           "@type": "sc:Canvas",
           "label": "DH99.1 - (female portrait)",
           "thumbnail": "http://dlcs.io/thumbs/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/full/224,400/0/default.jpg",
@@ -66,28 +66,28 @@
           "width": 2008,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/imageanno/0",
+              "@id": "https://dlc.services/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9-0/res/0",
+                "@id": "https://dlc.services/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9-0/res/0",
                 "@type": "dcTypes:Image",
                 "height": 3589,
                 "width": 2008,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9",
+                  "@id": "https://dlc.services/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9",
                   "protocol": "http://iiif.io/api/image",
                   "height": 3589,
                   "width": 2008,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/canvas/c0"
+              "on": "https://dlc.services/iiif-img/48/1/597ed5b8-5abd-44d4-b036-a147088115b9/canvas/c0"
             }
           ]
         },
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0",
           "@type": "sc:Canvas",
           "label": "DH99.2 - (male portrait)",
           "thumbnail": "http://dlcs.io/thumbs/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/full/224,400/0/default.jpg",
@@ -95,28 +95,28 @@
           "width": 2014,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/imageanno/0",
+              "@id": "https://dlc.services/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7-0/res/0",
+                "@id": "https://dlc.services/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7-0/res/0",
                 "@type": "dcTypes:Image",
                 "height": 3601,
                 "width": 2014,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7",
+                  "@id": "https://dlc.services/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7",
                   "protocol": "http://iiif.io/api/image",
                   "height": 3601,
                   "width": 2014,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0"
+              "on": "https://dlc.services/iiif-img/48/1/40eb2e84-36a2-4faf-9b48-6a427c69c3b7/canvas/c0"
             }
           ]
         },
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0",
           "@type": "sc:Canvas",
           "label": "DH99.3 - (verso of female portrait)",
           "thumbnail": "http://dlcs.io/thumbs/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/full/224,400/0/default.jpg",
@@ -124,28 +124,28 @@
           "width": 2014,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/imageanno/0",
+              "@id": "https://dlc.services/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8-0/res/0",
+                "@id": "https://dlc.services/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8-0/res/0",
                 "@type": "dcTypes:Image",
                 "height": 3601,
                 "width": 2014,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8",
+                  "@id": "https://dlc.services/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8",
                   "protocol": "http://iiif.io/api/image",
                   "height": 3601,
                   "width": 2014,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0"
+              "on": "https://dlc.services/iiif-img/48/1/c2b4fdad-4704-4806-8a91-4bec65ceabd8/canvas/c0"
             }
           ]
         },
         {
-          "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/canvas/c0",
           "@type": "sc:Canvas",
           "label": "DH99.3 - (verso of male portrait)",
           "thumbnail": "http://dlcs.io/thumbs/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/full/224,400/0/default.jpg",
@@ -153,23 +153,23 @@
           "width": 2014,
           "images": [
             {
-              "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/imageanno/0",
+              "@id": "https://dlc.services/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5-0/res/0",
+                "@id": "https://dlc.services/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5-0/res/0",
                 "@type": "dcTypes:Image",
                 "height": 3601,
                 "width": 2014,
                 "service": {
-                  "@id": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5",
+                  "@id": "https://dlc.services/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5",
                   "protocol": "http://iiif.io/api/image",
                   "height": 3601,
                   "width": 2014,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlcs.io/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/canvas/c0"
+              "on": "https://dlc.services/iiif-img/48/1/fdbd101c-3cdf-431a-981e-58e49329e0d5/canvas/c0"
             }
           ]
         }
