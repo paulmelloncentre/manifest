@@ -4,29 +4,25 @@
   "@type": "sc:Manifest",
   "label": "Boyne PRJ/2/2a",
   "description": "letter Boyne PRJ_2_2a",
-  "attribution": "<span>Paul Mellon Centre<br/>Rights: Public Domain</span>",
+  "attribution": "<span>Paul Mellon Centre<, Paul Joyce Archive./span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
   "metadata": [
     {
       "label": "Creator(s)",
-      "value": "Richard Wilson"
+      "value": "Paul R. Joyce"
     },
     {
       "label": "Title",
-      "value": "River Temple and Broken Bridge"
+      "value": "Papers from the Paul Joyce Archive"
     },
     {
       "label": "Accession number",
       "value": "PRJ/2/2a"
-    },
-    {
-      "label": "Description",
-      "value": "<p>A river spanned by a broken bridge flows around tree-covered slopes. Above the river, a temple can be seen. Beyond a plain runs back towards a distant mountain. At the left a rocky bluff crowned with trees rises from the bank, filling the foreground. Three figures stand in the foreground and two horses with men descend from right to left.</p>"
     }
   ],
   "seeAlso": [
     {
-      "@id": "http://www.richardwilsononline.ac.uk/index.php?a=ViewItem&key=QnsiTiI6MCwiUCI6eyJpdGVtX2lkIjoiNjI4In19",
+      "@id": "http://www.paul-mellon-centre.ac.uk/collections/joyce-spotlight",
       "format": "html"
     }
   ],
@@ -125,31 +121,31 @@
           ]
         },
                 {
-          "@id": "https://dlc.services/iiif-img/48/15/31799383-6ebb-4635-a4bd-0bbc03b5694b/canvas/c0",
+          "@id": "https://dlc.services/iiif-img/48/15/fa7b61cc-4e13-4dd0-ba30-9fd96911592b/canvas/c0",
           "@type": "sc:Canvas",
           "label": "Image",
-          "thumbnail": "https://dlc.services/thumbs/48/15/31799383-6ebb-4635-a4bd-0bbc03b5694b/full/full/0/default.jpg",
-          "height": 3320,
+          "thumbnail": "https://dlc.services/thumbs/48/15/fa7b61cc-4e13-4dd0-ba30-9fd96911592b/full/full/0/default.jpg",
+          "height": 3353,
           "width": 2400,
           "images": [
             {
-              "@id": "https://dlc.services/iiif-img/48/15/31799383-6ebb-4635-a4bd-0bbc03b5694b/imageanno/0",
+              "@id": "https://dlc.services/iiif-img/48/15/fa7b61cc-4e13-4dd0-ba30-9fd96911592b/imageanno/0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://dlc.services/iiif-img/48/15/31799383-6ebb-4635-a4bd-0bbc03b5694b-0/res/0",
+                "@id": "https://dlc.services/iiif-img/48/15/fa7b61cc-4e13-4dd0-ba30-9fd96911592b-0/res/0",
                 "@type": "dctypes:Image",
-                "height": 3320,
+                "height": 3353,
                 "width": 2400,
                 "service": {
-                  "@id": "https://dlc.services/iiif-img/48/15/31799383-6ebb-4635-a4bd-0bbc03b5694b",
+                  "@id": "https://dlc.services/iiif-img/48/15/fa7b61cc-4e13-4dd0-ba30-9fd96911592b",
                   "protocol": "http://iiif.io/api/image",
-                  "height": 3320,
+                  "height": 3353,
                   "width": 2400,
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
-              "on": "https://dlc.services/iiif-img/48/15/31799383-6ebb-4635-a4bd-0bbc03b5694b/canvas/c0"
+              "on": "https://dlc.services/iiif-img/48/15/fa7b61cc-4e13-4dd0-ba30-9fd96911592b/canvas/c0"
             }
           ]
         },
