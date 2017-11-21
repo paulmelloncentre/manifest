@@ -12,10 +12,6 @@
       "value": "G.E. Street"
     },
     {
-      "label": "Description",
-      "value": "Colour ink on tracing paper backed onto cloth.."
-    },
-    {
       "label": "Date",
       "value": "ca. 1863-1864"
     },
@@ -39,7 +35,7 @@
       "@id": "https://dlc.services/iiif-img/48/15/e63bfb41-57f3-4711-9b35-3ca410f382db/sequence/s0",
       "@type": "sc:Sequence",
       "label": "Sequence 0",
-      "viewingHint": "paged",
+      "viewingHint": "individuals",
       "canvases": [
         {
           "@id": "https://dlc.services/iiif-img/48/15/e63bfb41-57f3-4711-9b35-3ca410f382db/canvas/c0",
@@ -160,7 +156,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/56609542-3298-4d45-b76c-dd968132935a/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_15_6",
+          "label": "PRJ/4/15/6",
           "thumbnail": "https://dlc.services/thumbs/48/15/56609542-3298-4d45-b76c-dd968132935a/full/full/0/default.jpg",
           "height": 2976,
           "width": 2400,
