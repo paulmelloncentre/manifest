@@ -2,8 +2,8 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/collections/PRJ_4_8",
   "@type": "sc:Manifest",
-  "label": "PRJ_4_8",
-  "description": "G.E. Street, St Tysilio, Llandysilio, Powys, Wales",
+  "label": "PRJ/4/8",
+  "description": "G.E. Street, drawings for St Tysilio, Llandysilio, Powys, Wales",
   "attribution": "<span>Paul Mellon Centre, Paul Joyce Archive.</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
   "metadata": [
@@ -21,7 +21,7 @@
     },
     {
       "label": "Accession number",
-      "value": "PRJ_4_8"
+      "value": "PRJ/4/8"
     }
   ],
   "seeAlso": [
@@ -44,7 +44,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/f3dcb5e1-0338-4748-8f10-c66640ba4feb/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_5",
+          "label": "PRJ/4/8/5",
           "thumbnail": "https://dlc.services/thumbs/48/15/f3dcb5e1-0338-4748-8f10-c66640ba4feb/full/full/0/default.jpg",
           "height": 2400,
           "width": 3511,
@@ -73,7 +73,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/27ca37d1-49ed-403a-a395-fa49d6a58f2a/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_6",
+          "label": "PRJ/4/8/6",
           "thumbnail": "https://dlc.services/thumbs/48/15/27ca37d1-49ed-403a-a395-fa49d6a58f2a/full/full/0/default.jpg",
           "height": 2400,
           "width": 3624,
@@ -102,7 +102,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/482d0c60-f0db-4ad0-a22a-3a58894c06ee/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_7",
+          "label": "PRJ/4/8/7",
           "thumbnail": "https://dlc.services/thumbs/48/15/482d0c60-f0db-4ad0-a22a-3a58894c06ee/full/full/0/default.jpg",
           "height": 2400,
           "width": 3578,
@@ -131,7 +131,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/b34275a2-2d8c-4c4e-8b9c-785601bf045a/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_9a",
+          "label": "PRJ/4/8/9a",
           "thumbnail": "https://dlc.services/thumbs/48/15/b34275a2-2d8c-4c4e-8b9c-785601bf045a/full/full/0/default.jpg",
           "height": 2400,
           "width": 2954,
@@ -160,7 +160,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/26c5b802-3e04-46bc-a467-4e3b20e7a275/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_9b",
+          "label": "PRJ/4/8/9b",
           "thumbnail": "https://dlc.services/thumbs/48/15/26c5b802-3e04-46bc-a467-4e3b20e7a275/full/full/0/default.jpg",
           "height": 2400,
           "width": 2956,
@@ -189,7 +189,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/a18d473a-7a41-4e21-9065-b525db2ca86e/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_10a",
+          "label": "PRJ/4/8/10a",
           "thumbnail": "https://dlc.services/thumbs/48/15/a18d473a-7a41-4e21-9065-b525db2ca86e/full/full/0/default.jpg",
           "height": 2400,
           "width": 2948,
@@ -218,7 +218,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/860f5c9d-b297-44b9-9b95-e6cfc9fccdb8/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_10b",
+          "label": "PRJ/4/8/10b",
           "thumbnail": "https://dlc.services/thumbs/48/15/860f5c9d-b297-44b9-9b95-e6cfc9fccdb8/full/full/0/default.jpg",
           "height": 2400,
           "width": 2956,
@@ -247,7 +247,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/bffef9c8-665a-4809-86ef-3bf1b87e6b35/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_11a",
+          "label": "PRJ/4/8/11a",
           "thumbnail": "https://dlc.services/thumbs/48/15/bffef9c8-665a-4809-86ef-3bf1b87e6b35/full/full/0/default.jpg",
           "height": 2400,
           "width": 2942,
@@ -276,7 +276,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/19b48ffe-c426-48eb-ad60-aa53e0d29923/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_11b",
+          "label": "PRJ/4/8/11b",
           "thumbnail": "https://dlc.services/thumbs/48/15/19b48ffe-c426-48eb-ad60-aa53e0d29923/full/full/0/default.jpg",
           "height": 2400,
           "width": 2957,
@@ -305,7 +305,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/77de8500-a431-47d0-995f-3805c7c1967a/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_13",
+          "label": "PRJ/4/8/13",
           "thumbnail": "https://dlc.services/thumbs/48/15/77de8500-a431-47d0-995f-3805c7c1967a/full/full/0/default.jpg",
           "height": 2400,
           "width": 2971,
@@ -334,7 +334,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/94724b43-a6e5-4b34-849e-736bb895a2f4/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_15a",
+          "label": "PRJ/4/8/15a",
           "thumbnail": "https://dlc.services/thumbs/48/15/94724b43-a6e5-4b34-849e-736bb895a2f4/full/full/0/default.jpg",
           "height": 2400,
           "width": 2975,
@@ -363,7 +363,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/b8d060e3-3c22-4f74-98a8-ccec80c40287/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_15b",
+          "label": "PRJ/4/8/15b",
           "thumbnail": "https://dlc.services/thumbs/48/15/b8d060e3-3c22-4f74-98a8-ccec80c40287/full/full/0/default.jpg",
           "height": 2400,
           "width": 2960,
@@ -392,7 +392,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/c43837e7-ef0b-4717-90ff-953d1be6dd77/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_16a",
+          "label": "PRJ/4/8/16a",
           "thumbnail": "https://dlc.services/thumbs/48/15/c43837e7-ef0b-4717-90ff-953d1be6dd77/full/full/0/default.jpg",
           "height": 2400,
           "width": 2968,
@@ -421,7 +421,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/53d200ef-5d70-4c3b-be57-b9b1987c9c2d/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_16b",
+          "label": "PRJ/4/8/16b",
           "thumbnail": "https://dlc.services/thumbs/48/15/53d200ef-5d70-4c3b-be57-b9b1987c9c2d/full/full/0/default.jpg",
           "height": 2400,
           "width": 2968,
@@ -450,7 +450,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/2b9b9af5-bc79-4ee6-b0c5-e54a6fd907bb/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_17a",
+          "label": "PRJ/4/8/17a",
           "thumbnail": "https://dlc.services/thumbs/48/15/2b9b9af5-bc79-4ee6-b0c5-e54a6fd907bb/full/full/0/default.jpg",
           "height": 2400,
           "width": 2971,
@@ -479,7 +479,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/914160b9-554b-4cdc-a6d3-ebfd84fa3289/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_17b",
+          "label": "PRJ/4/8/17b",
           "thumbnail": "https://dlc.services/thumbs/48/15/914160b9-554b-4cdc-a6d3-ebfd84fa3289/full/full/0/default.jpg",
           "height": 2400,
           "width": 2966,
@@ -508,7 +508,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/fdef0833-d236-46cb-b0c3-402deffdb1a1/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_22a",
+          "label": "PRJ/4/8/22a",
           "thumbnail": "https://dlc.services/thumbs/48/15/fdef0833-d236-46cb-b0c3-402deffdb1a1/full/full/0/default.jpg",
           "height": 2400,
           "width": 2977,
@@ -537,7 +537,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/1a56d234-ea96-46d1-b995-6476498ae788/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_22b",
+          "label": "PRJ/4/8/22b",
           "thumbnail": "https://dlc.services/thumbs/48/15/1a56d234-ea96-46d1-b995-6476498ae788/full/full/0/default.jpg",
           "height": 2400,
           "width": 2962,
@@ -566,7 +566,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/d73bf879-1507-4f82-b4eb-53f1b77d139a/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_24",
+          "label": "PRJ/4/8/24",
           "thumbnail": "https://dlc.services/thumbs/48/15/d73bf879-1507-4f82-b4eb-53f1b77d139a/full/full/0/default.jpg",
           "height": 3555,
           "width": 2400,
@@ -595,7 +595,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/67185121-d6bb-4502-a550-29f27c376c6d/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_25a",
+          "label": "PRJ/4/8/25a",
           "thumbnail": "https://dlc.services/thumbs/48/15/67185121-d6bb-4502-a550-29f27c376c6d/full/full/0/default.jpg",
           "height": 2400,
           "width": 2963,
@@ -624,7 +624,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/91184c14-2a2b-4993-9a1a-39ff801ebc3b/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_25b",
+          "label": "PRJ/4/8/25b",
           "thumbnail": "https://dlc.services/thumbs/48/15/91184c14-2a2b-4993-9a1a-39ff801ebc3b/full/full/0/default.jpg",
           "height": 2400,
           "width": 2960,
@@ -653,7 +653,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/9878a91b-7594-4753-9a9f-435332219612/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_28",
+          "label": "PRJ/4/8/28",
           "thumbnail": "https://dlc.services/thumbs/48/15/9878a91b-7594-4753-9a9f-435332219612/full/full/0/default.jpg",
           "height": 2400,
           "width": 3473,
@@ -682,7 +682,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/82d4de1b-17ef-40b8-95c4-13461e53fee7/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_30",
+          "label": "PRJ/4/8/30",
           "thumbnail": "https://dlc.services/thumbs/48/15/82d4de1b-17ef-40b8-95c4-13461e53fee7/full/full/0/default.jpg",
           "height": 2400,
           "width": 2945,
@@ -711,7 +711,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/3a1f0d86-ca19-4667-b0e1-e3a7c83fbb49/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_32",
+          "label": "PRJ/4/8/32",
           "thumbnail": "https://dlc.services/thumbs/48/15/3a1f0d86-ca19-4667-b0e1-e3a7c83fbb49/full/full/0/default.jpg",
           "height": 2400,
           "width": 2976,
@@ -740,7 +740,7 @@
          {
           "@id": "https://dlc.services/iiif-img/48/15/377dbfe8-556e-4d42-a93d-dd6ed736b971/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_33",
+          "label": "PRJ/4/8/33",
           "thumbnail": "https://dlc.services/thumbs/48/15/377dbfe8-556e-4d42-a93d-dd6ed736b971/full/full/0/default.jpg",
           "height": 2400,
           "width": 2973,
@@ -769,7 +769,7 @@
         {
           "@id": "https://dlc.services/iiif-img/48/15/15d779e7-0180-4e19-807a-ebaa7e6b09f7/canvas/c0",
           "@type": "sc:Canvas",
-          "label": "PRJ_4_8_37",
+          "label": "PRJ/4/8/37",
           "thumbnail": "https://dlc.services/thumbs/48/15/15d779e7-0180-4e19-807a-ebaa7e6b09f7/full/full/0/default.jpg",
           "height": 2400,
           "width": 3340,
