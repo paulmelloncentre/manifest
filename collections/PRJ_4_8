@@ -3,17 +3,21 @@
   "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/collections/PRJ_4_8",
   "@type": "sc:Manifest",
   "label": "PRJ_4_8",
-  "description": "PRJ_4_8",
+  "description": "G.E. Street, St Tysilio, Llandysilio, Powys, Wales",
   "attribution": "<span>Paul Mellon Centre, Paul Joyce Archive.</span>",
   "logo": "http://www.paul-mellon-centre.ac.uk/frontend/assets/pmc/img/logo-nav.svg",
   "metadata": [
     {
       "label": "Creator(s)",
-      "value": "?"
+      "value": "G.E. Street"
     },
     {
       "label": "Title",
       "value": "Papers from the Paul Joyce Archive"
+    },
+    {
+      "label": "Date",
+      "value": "ca. 1867-1868"
     },
     {
       "label": "Accession number",
@@ -23,6 +27,10 @@
   "seeAlso": [
     {
       "@id": "http://www.paul-mellon-centre.ac.uk/collections/joyce-spotlight",
+      "format": "html"
+    },
+    {
+      "@id": "http://www.calmview2.eu/PaulMellonCentre/CalmView/Record.aspx?src=CalmView.Catalog&id=PRJ",
       "format": "html"
     }
   ],
