@@ -35,7 +35,7 @@
       "@id": "https://dlc.services/iiif-img/48/15/7f317cdc-fc0c-42c0-9067-b4c4f5db20a2/sequence/s0",
       "@type": "sc:Sequence",
       "label": "Sequence 0",
-      "viewingHint": "paged",
+      "viewingHint": "individuals",
       "canvases": [
         {
           "@id": "https://dlc.services/iiif-img/48/15/7f317cdc-fc0c-42c0-9067-b4c4f5db20a2/canvas/c0",
