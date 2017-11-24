@@ -82,7 +82,7 @@
 				{
 					"@id": "http://63371545-6fe3-4c8e-bfb6-a1795c42d89a",
 					"@type": "sc:Canvas",
-					"label": "Inside front cover",
+					"label": "Inside Front Cover",
 					"height": 4988,
 					"width": 4049,
 					"images": [
@@ -1287,12 +1287,40 @@
 					"@id": "http://d02e9140-a274-44fa-9222-3f6bdd00a9a1",
 					"@type": "sc:Canvas",
 					"label": "22r",
+					"height": 5058,
+					"width": 4086,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b28ef184-5f8e-4b21-99c4-e7efc354a1f6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/d0d67b0d-62b4-42af-b589-6ea5e83e2e8a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/d0d67b0d-62b4-42af-b589-6ea5e83e2e8a",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5058,
+								"width": 4086
+							},
+							"on": "http://d02e9140-a274-44fa-9222-3f6bdd00a9a1"
+						}
+					]
+				},
+				{
+					"@id": "http://eb76c4d1-c47a-48bb-8739-71362b6a015c",
+					"@type": "sc:Canvas",
+					"label": "22v",
 					"height": 5072,
 					"width": 4073,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://f69ab66b-d398-40f2-ba50-9ff7b18078d2",
+							"@id": "http://71ca5340-cd25-45c5-8c46-1e76ef45721c",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -1307,14 +1335,14 @@
 								"height": 5072,
 								"width": 4073
 							},
-							"on": "http://d02e9140-a274-44fa-9222-3f6bdd00a9a1"
+							"on": "http://eb76c4d1-c47a-48bb-8739-71362b6a015c"
 						}
 					]
 				},
 				{
 					"@id": "http://3332f089-c634-420d-94f0-3caa603ab21b",
 					"@type": "sc:Canvas",
-					"label": "22v",
+					"label": "23r",
 					"height": 5081,
 					"width": 4093,
 					"images": [
@@ -1342,7 +1370,7 @@
 				{
 					"@id": "http://ca19abc4-df2f-4db3-813d-c57318112fa8",
 					"@type": "sc:Canvas",
-					"label": "23r",
+					"label": "23v",
 					"height": 5081,
 					"width": 4049,
 					"images": [
@@ -1370,7 +1398,7 @@
 				{
 					"@id": "http://cc896749-3877-4be5-9c8d-04c551a0afe4",
 					"@type": "sc:Canvas",
-					"label": "23v",
+					"label": "24r",
 					"height": 5054,
 					"width": 4048,
 					"images": [
@@ -1398,7 +1426,7 @@
 				{
 					"@id": "http://073226f1-71ee-4c46-89b7-70ae3ca4551c",
 					"@type": "sc:Canvas",
-					"label": "24r",
+					"label": "24v",
 					"height": 5101,
 					"width": 4090,
 					"images": [
@@ -1426,7 +1454,7 @@
 				{
 					"@id": "http://af222859-3ebe-446a-b86b-8457d8300a09",
 					"@type": "sc:Canvas",
-					"label": "24v",
+					"label": "25r",
 					"height": 5047,
 					"width": 4038,
 					"images": [
@@ -1454,7 +1482,7 @@
 				{
 					"@id": "http://e50aef1f-0606-49fe-b87e-4589b43de642",
 					"@type": "sc:Canvas",
-					"label": "25r",
+					"label": "25v",
 					"height": 5084,
 					"width": 4050,
 					"images": [
@@ -1482,7 +1510,7 @@
 				{
 					"@id": "http://fe5be020-5cd5-4e37-960b-6c74f16b2bd6",
 					"@type": "sc:Canvas",
-					"label": "25v",
+					"label": "26r",
 					"height": 5045,
 					"width": 4155,
 					"images": [
@@ -1510,7 +1538,7 @@
 				{
 					"@id": "http://89dc7c4a-487e-4a35-b7c4-a0da3cf19533",
 					"@type": "sc:Canvas",
-					"label": "26r",
+					"label": "26v",
 					"height": 5060,
 					"width": 4005,
 					"images": [
@@ -1538,7 +1566,7 @@
 				{
 					"@id": "http://83442841-4425-4fcc-b6c1-4105ef8d12b4",
 					"@type": "sc:Canvas",
-					"label": "26v",
+					"label": "27r",
 					"height": 5015,
 					"width": 4054,
 					"images": [
@@ -1566,7 +1594,7 @@
 				{
 					"@id": "http://d08d14d7-e8d7-4d80-b37e-2f875bda5898",
 					"@type": "sc:Canvas",
-					"label": "27r",
+					"label": "27v",
 					"height": 5008,
 					"width": 4003,
 					"images": [
@@ -1594,7 +1622,7 @@
 				{
 					"@id": "http://752b7d1f-b0d6-4e60-94a9-7e734f137170",
 					"@type": "sc:Canvas",
-					"label": "27v",
+					"label": "28r",
 					"height": 5031,
 					"width": 4122,
 					"images": [
@@ -1622,7 +1650,7 @@
 				{
 					"@id": "http://baf4f794-82de-47a2-882c-b3a645017ee4",
 					"@type": "sc:Canvas",
-					"label": "28r",
+					"label": "28v",
 					"height": 5048,
 					"width": 4055,
 					"images": [
@@ -1650,7 +1678,7 @@
 				{
 					"@id": "http://a191c9b9-3a24-44ce-8d35-9f765c7de7f8",
 					"@type": "sc:Canvas",
-					"label": "28v",
+					"label": "29r",
 					"height": 5040,
 					"width": 4095,
 					"images": [
@@ -1678,7 +1706,7 @@
 				{
 					"@id": "http://815077cc-2f50-42b5-bdae-5eaa2cd83196",
 					"@type": "sc:Canvas",
-					"label": "29r",
+					"label": "29v",
 					"height": 5044,
 					"width": 4041,
 					"images": [
@@ -1706,7 +1734,7 @@
 				{
 					"@id": "http://9faf577b-fc54-4eb0-93d5-ec9a680a29e0",
 					"@type": "sc:Canvas",
-					"label": "29v",
+					"label": "30r",
 					"height": 5124,
 					"width": 4132,
 					"images": [
@@ -1734,7 +1762,7 @@
 				{
 					"@id": "http://12774045-5eac-496b-a3b8-822860dee955",
 					"@type": "sc:Canvas",
-					"label": "30r",
+					"label": "30v",
 					"height": 4996,
 					"width": 4128,
 					"images": [
@@ -1762,7 +1790,7 @@
 				{
 					"@id": "http://427023d7-2725-4dd8-a965-1955a5840a88",
 					"@type": "sc:Canvas",
-					"label": "30v",
+					"label": "31r",
 					"height": 5063,
 					"width": 4060,
 					"images": [
@@ -1790,7 +1818,7 @@
 				{
 					"@id": "http://29d99dab-b67a-4da2-b3ce-0f92f0c6d05e",
 					"@type": "sc:Canvas",
-					"label": "31r",
+					"label": "31v",
 					"height": 5021,
 					"width": 4137,
 					"images": [
@@ -1818,7 +1846,7 @@
 				{
 					"@id": "http://4a4a4e13-6dca-4a83-b687-7927fa6d1f25",
 					"@type": "sc:Canvas",
-					"label": "31v",
+					"label": "32r",
 					"height": 5012,
 					"width": 4087,
 					"images": [
@@ -1846,7 +1874,7 @@
 				{
 					"@id": "http://99d49941-a3a5-4490-b925-9a0ee02cf87a",
 					"@type": "sc:Canvas",
-					"label": "32r",
+					"label": "32v",
 					"height": 5058,
 					"width": 4073,
 					"images": [
@@ -1874,7 +1902,7 @@
 				{
 					"@id": "http://a8de43b9-47ff-44c1-997f-75e3058549aa",
 					"@type": "sc:Canvas",
-					"label": "32v",
+					"label": "33r",
 					"height": 5023,
 					"width": 4087,
 					"images": [
@@ -1902,7 +1930,7 @@
 				{
 					"@id": "http://81e31680-c43f-49fc-b9f6-95848325a38d",
 					"@type": "sc:Canvas",
-					"label": "33r",
+					"label": "33v",
 					"height": 5046,
 					"width": 4082,
 					"images": [
@@ -1930,7 +1958,7 @@
 				{
 					"@id": "http://6c6da710-a371-4ac1-9a56-9f5f10f9d986",
 					"@type": "sc:Canvas",
-					"label": "33v",
+					"label": "34r",
 					"height": 5069,
 					"width": 4044,
 					"images": [
@@ -1958,7 +1986,7 @@
 				{
 					"@id": "http://68f956ce-41dd-4e51-8993-f8f1115fd643",
 					"@type": "sc:Canvas",
-					"label": "34r",
+					"label": "34v",
 					"height": 5063,
 					"width": 4135,
 					"images": [
@@ -1986,7 +2014,7 @@
 				{
 					"@id": "http://928d0286-a470-4ea7-b23f-e13e66ebcbb7",
 					"@type": "sc:Canvas",
-					"label": "34v",
+					"label": "35r",
 					"height": 4980,
 					"width": 4047,
 					"images": [
@@ -2014,7 +2042,7 @@
 				{
 					"@id": "http://bd5e248b-a3b6-4fca-a917-f822474db891",
 					"@type": "sc:Canvas",
-					"label": "35r",
+					"label": "35v",
 					"height": 5115,
 					"width": 4192,
 					"images": [
@@ -2042,7 +2070,7 @@
 				{
 					"@id": "http://b8c8c32a-c52c-450f-afbb-d1ea51e3f262",
 					"@type": "sc:Canvas",
-					"label": "35v",
+					"label": "36r",
 					"height": 4987,
 					"width": 3987,
 					"images": [
@@ -2070,7 +2098,7 @@
 				{
 					"@id": "http://c72d66c0-4ed6-4cde-9b97-fcf08170538c",
 					"@type": "sc:Canvas",
-					"label": "36r",
+					"label": "36v",
 					"height": 5072,
 					"width": 4163,
 					"images": [
@@ -2098,7 +2126,7 @@
 				{
 					"@id": "http://0da68ca9-4d9f-4655-9f83-b903d3009b78",
 					"@type": "sc:Canvas",
-					"label": "36v",
+					"label": "37r",
 					"height": 5007,
 					"width": 3983,
 					"images": [
@@ -2126,7 +2154,7 @@
 				{
 					"@id": "http://4aed5c89-a974-4d7f-a1c6-373f9c929da2",
 					"@type": "sc:Canvas",
-					"label": "37r",
+					"label": "37v",
 					"height": 5103,
 					"width": 4167,
 					"images": [
@@ -2154,7 +2182,7 @@
 				{
 					"@id": "http://d7fc09ea-708a-4112-9c84-2faf9cc7688d",
 					"@type": "sc:Canvas",
-					"label": "37v",
+					"label": "38r",
 					"height": 4999,
 					"width": 3982,
 					"images": [
@@ -2182,7 +2210,7 @@
 				{
 					"@id": "http://87ea9493-5d51-4728-a8d1-52ea9c4eccff",
 					"@type": "sc:Canvas",
-					"label": "38r",
+					"label": "38v",
 					"height": 5076,
 					"width": 4139,
 					"images": [
@@ -2210,7 +2238,7 @@
 				{
 					"@id": "http://24dc76e3-f74a-4ee1-907d-4c642ed61d90",
 					"@type": "sc:Canvas",
-					"label": "38v",
+					"label": "39r",
 					"height": 4964,
 					"width": 3963,
 					"images": [
@@ -2238,7 +2266,7 @@
 				{
 					"@id": "http://fe1f3c58-87dc-4269-a1f6-7ef4595256f7",
 					"@type": "sc:Canvas",
-					"label": "39r",
+					"label": "39v",
 					"height": 5096,
 					"width": 4182,
 					"images": [
@@ -2266,7 +2294,7 @@
 				{
 					"@id": "http://c8c0693b-1740-425e-bfdf-a72c8184e48e",
 					"@type": "sc:Canvas",
-					"label": "39v",
+					"label": "40r",
 					"height": 5009,
 					"width": 3987,
 					"images": [
@@ -2294,7 +2322,7 @@
 				{
 					"@id": "http://e76512cb-fd30-4c4e-8cb7-792934899753",
 					"@type": "sc:Canvas",
-					"label": "40r",
+					"label": "40v",
 					"height": 5031,
 					"width": 4114,
 					"images": [
@@ -2322,7 +2350,7 @@
 				{
 					"@id": "http://ac049279-ae93-4ad7-b69f-1f6d43ed3529",
 					"@type": "sc:Canvas",
-					"label": "40v",
+					"label": "41r",
 					"height": 4986,
 					"width": 3995,
 					"images": [
@@ -2350,7 +2378,7 @@
 				{
 					"@id": "http://1e2c377f-54ed-4d49-a6b8-d7f35a1a4c41",
 					"@type": "sc:Canvas",
-					"label": "41r",
+					"label": "41v",
 					"height": 5068,
 					"width": 4131,
 					"images": [
@@ -2378,7 +2406,7 @@
 				{
 					"@id": "http://ef2d2a54-835e-4741-b68c-38730dceef2d",
 					"@type": "sc:Canvas",
-					"label": "41v",
+					"label": "42r",
 					"height": 4999,
 					"width": 4029,
 					"images": [
@@ -2406,7 +2434,7 @@
 				{
 					"@id": "http://7060cefb-ace4-43e0-8d02-97288d4e85d4",
 					"@type": "sc:Canvas",
-					"label": "42r",
+					"label": "42v",
 					"height": 5059,
 					"width": 4127,
 					"images": [
@@ -2434,7 +2462,7 @@
 				{
 					"@id": "http://20a5814a-ff40-4fad-aa93-6881c6f63e09",
 					"@type": "sc:Canvas",
-					"label": "42v",
+					"label": "43r",
 					"height": 5018,
 					"width": 4017,
 					"images": [
@@ -2462,7 +2490,7 @@
 				{
 					"@id": "http://60851e81-bb47-431b-ac4e-040288dd0eca",
 					"@type": "sc:Canvas",
-					"label": "43r",
+					"label": "43v",
 					"height": 5094,
 					"width": 4151,
 					"images": [
@@ -2490,7 +2518,7 @@
 				{
 					"@id": "http://1442123c-75dd-42da-947c-f04dd0c29339",
 					"@type": "sc:Canvas",
-					"label": "43v",
+					"label": "44r",
 					"height": 4999,
 					"width": 3938,
 					"images": [
@@ -2518,7 +2546,7 @@
 				{
 					"@id": "http://2c6c9b38-74f7-4c60-8f14-b88e5a4a194f",
 					"@type": "sc:Canvas",
-					"label": "44r",
+					"label": "44v",
 					"height": 5048,
 					"width": 4092,
 					"images": [
@@ -2546,7 +2574,7 @@
 				{
 					"@id": "http://bf5da351-a1fe-4177-8d26-3f1725a31b91",
 					"@type": "sc:Canvas",
-					"label": "44v",
+					"label": "45r",
 					"height": 5056,
 					"width": 4036,
 					"images": [
@@ -2574,7 +2602,7 @@
 				{
 					"@id": "http://5fbe741d-9c69-46f5-b65c-e10eb3b492b9",
 					"@type": "sc:Canvas",
-					"label": "45r",
+					"label": "45v",
 					"height": 5056,
 					"width": 4182,
 					"images": [
@@ -2602,7 +2630,7 @@
 				{
 					"@id": "http://80aaa4ff-c1ad-44c4-8313-9d3add017ce8",
 					"@type": "sc:Canvas",
-					"label": "45v",
+					"label": "46r",
 					"height": 4997,
 					"width": 3978,
 					"images": [
@@ -2630,7 +2658,7 @@
 				{
 					"@id": "http://ef493a18-0dfa-4140-8b73-18f37f83aeeb",
 					"@type": "sc:Canvas",
-					"label": "46r",
+					"label": "46v",
 					"height": 5073,
 					"width": 4127,
 					"images": [
@@ -2658,7 +2686,7 @@
 				{
 					"@id": "http://d4ba238e-af4e-4506-a6e6-920647893ef2",
 					"@type": "sc:Canvas",
-					"label": "46v",
+					"label": "47r",
 					"height": 4991,
 					"width": 3963,
 					"images": [
@@ -2686,7 +2714,7 @@
 				{
 					"@id": "http://e1512227-e8e0-4117-9c93-05a961fde30c",
 					"@type": "sc:Canvas",
-					"label": "47r",
+					"label": "47v",
 					"height": 5104,
 					"width": 4025,
 					"images": [
@@ -2714,7 +2742,7 @@
 				{
 					"@id": "http://2450fea3-4cc2-47cf-9841-e7a810469f78",
 					"@type": "sc:Canvas",
-					"label": "47v",
+					"label": "48r",
 					"height": 5030,
 					"width": 4043,
 					"images": [
@@ -2742,7 +2770,7 @@
 				{
 					"@id": "http://96a8be42-0f27-4374-9a69-aadc4450cfc7",
 					"@type": "sc:Canvas",
-					"label": "48r",
+					"label": "48v",
 					"height": 5066,
 					"width": 4051,
 					"images": [
@@ -2770,7 +2798,7 @@
 				{
 					"@id": "http://b5591c32-6571-4caa-b6d8-ccf912ee5873",
 					"@type": "sc:Canvas",
-					"label": "Inside back cover",
+					"label": "Inside Back Cover",
 					"height": 4976,
 					"width": 3972,
 					"images": [
