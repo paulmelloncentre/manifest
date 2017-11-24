@@ -1,13 +1,10 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/ycba-579526",
-  "@type": "sc:Manifest",
-  "label": "N5247 D3 D3+ Oversize",
-  "description": "Descriptive catalogue of the series of pictures : formed on subjects selected from the history of England, painted by British artists for Alexander Davison, Esquire, MDCCCVI. In the order in which they arranged, at his house in St. James's-Square, London.",
-  "attribution": "<span>Yale Center for British Art<br/>Rights: Public Domain</span>",
-  "logo": "https://static.britishart.yale.edu/images/ycba_logo.jpg",
-  "metadata": [
-    {
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://f6e1e03a-3a62-4908-a44e-aa076da95445",
+	"@type": "sc:Manifest",
+	"label": "N5247 D3 D3+ Oversize",
+	"metadata": [
+	{
       "label": "Creator(s)",
       "value": "Davison, Alexander"
     },
@@ -39,85 +36,2798 @@
       "label": "Accession number",
       "value": "N5247 D3 D3+ Oversize"
     }
-  ],
-  "seeAlso": [
+	],
+	"seeAlso": [
     {
       "@id": "http://collections.britishart.yale.edu/vufind/Record/2036383",
       "label" : "catalog entry at the Yale Center for British Art",
       "format": "html"
     }
-  ],
- "sequences": [
-
-    {
-
-      "@id": "https://manifests.britishart.yale.edu/sequence/1021",
-
-      "@type": "sc:Sequence",
-
-      "label": "Book sequence",
-
-      "viewingHint": "paged",
-
-      "canvases": [
-
-        {
-
-          "@id": "https://dlc.services/iiif-img/48/15/30dad46fb-feda-4953-898e-b5242186cbb0/canvas/c0",
-
-          "@type": "sc:Canvas",
-
-          "label": "Cover",
-
-          "thumbnail": "https://images.britishart.yale.edu/iiif/0dad46fb-feda-4953-898e-b5242186cbb0/full/,250/0/native.jpg",
-
-          "height": 4197,
-
-          "width": 5024,
-
-          "images": [
-
-            {
-
-              "@id": "https://dlc.services/iiif-img/48/15/0dad46fb-feda-4953-898e-b5242186cbb0/imageanno/0",
-
-              "@type": "oa:Annotation",
-
-              "motivation": "sc:painting",
-
-              "resource": {
-
-                "@id": "https://images.britishart.yale.edu/iiif/0dad46fb-feda-4953-898e-b5242186cbb0",
-
-                "@type": "dctypes:Image",
-
-                "height": 3350,
-
-                "width": 2400,
-
-                "service": {
-
-                  "@id": "https://dlc.services/iiif-img/48/15/3456b486-0f55-4ddd-9457-093f122c36a2",
-
-                  "protocol": "http://iiif.io/api/image",
-
-                  "height": 3350,
-
-                  "width": 2400,
-
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-
-                }
-
-              },
-
-              "on": "https://dlc.services/iiif-img/48/15/3456b486-0f55-4ddd-9457-093f122c36a2/canvas/c0"
-
-            }
-
-          ]
-
-        }
-      ]
-    }
-  ]
+  	],
+	"description": "Descriptive catalogue of the series of pictures : formed on subjects selected from the history of England, painted by British artists for Alexander Davison, Esquire, MDCCCVI. In the order in which they arranged, at his house in St. James's-Square, London.",
+	"sequences": [
+		{
+			"@id": "http://6bb4a8a4-0ee0-4ca6-b3c8-ca19be993a02",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://5e7cff0e-80d7-4a6b-956a-9290cb55907d",
+					"@type": "sc:Canvas",
+					"label": "Front Cover",
+					"height": 5024,
+					"width": 4197,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://33b8d3b2-5f4b-488b-b27d-047c4b29fb1a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/0dad46fb-feda-4953-898e-b5242186cbb0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/0dad46fb-feda-4953-898e-b5242186cbb0",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5024,
+								"width": 4197
+							},
+							"on": "http://5e7cff0e-80d7-4a6b-956a-9290cb55907d"
+						}
+					]
+				},
+				{
+					"@id": "http://63371545-6fe3-4c8e-bfb6-a1795c42d89a",
+					"@type": "sc:Canvas",
+					"label": "Inside front cover",
+					"height": 4988,
+					"width": 4049,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://343c96ba-791a-4edd-916a-46182c0a428c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/b50555d4-d441-42ce-95e1-72f9e2f796f5/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/b50555d4-d441-42ce-95e1-72f9e2f796f5",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4988,
+								"width": 4049
+							},
+							"on": "http://63371545-6fe3-4c8e-bfb6-a1795c42d89a"
+						}
+					]
+				},
+				{
+					"@id": "http://83c32d5d-39a6-485b-93f3-c46b15d4dfca",
+					"@type": "sc:Canvas",
+					"label": "1r",
+					"height": 4960,
+					"width": 3911,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4a4aac8b-1144-4994-b976-5cb0ab04685c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/bb014bfe-03de-43b1-a629-3b60231eacb7/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/bb014bfe-03de-43b1-a629-3b60231eacb7",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4960,
+								"width": 3911
+							},
+							"on": "http://83c32d5d-39a6-485b-93f3-c46b15d4dfca"
+						}
+					]
+				},
+				{
+					"@id": "http://5517b95a-0873-46f2-82a4-c8de00b42bde",
+					"@type": "sc:Canvas",
+					"label": "1v",
+					"height": 4991,
+					"width": 4175,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://51ccce28-0f40-402b-a0e8-4ceaf626b835",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/0c477725-5d04-4909-a6dd-761a6931bad7/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/0c477725-5d04-4909-a6dd-761a6931bad7",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4991,
+								"width": 4175
+							},
+							"on": "http://5517b95a-0873-46f2-82a4-c8de00b42bde"
+						}
+					]
+				},
+				{
+					"@id": "http://a9a77a46-d7d1-4e85-8260-4170e1db2f45",
+					"@type": "sc:Canvas",
+					"label": "2r",
+					"height": 4951,
+					"width": 3799,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e2f57369-5357-45fe-901e-5b33fc70ac2f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/075d8746-61ab-4031-bbfa-c51685b28109/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/075d8746-61ab-4031-bbfa-c51685b28109",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4951,
+								"width": 3799
+							},
+							"on": "http://a9a77a46-d7d1-4e85-8260-4170e1db2f45"
+						}
+					]
+				},
+				{
+					"@id": "http://228ff5f2-2d7e-4973-b28e-0199541aa0d0",
+					"@type": "sc:Canvas",
+					"label": "2v",
+					"height": 5033,
+					"width": 4015,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2aedc611-79ed-4536-a3de-71bd44fd58fc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/db051975-d927-4804-a3b1-c6f3dcef513f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/db051975-d927-4804-a3b1-c6f3dcef513f",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5033,
+								"width": 4015
+							},
+							"on": "http://228ff5f2-2d7e-4973-b28e-0199541aa0d0"
+						}
+					]
+				},
+				{
+					"@id": "http://99a1e8ad-89e4-47ed-8750-62669b49ac40",
+					"@type": "sc:Canvas",
+					"label": "3r",
+					"height": 4954,
+					"width": 3899,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ab96e346-ff72-47e7-8fbf-716809120428",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/9b9566db-70ce-4d3f-9131-76dbcb412166/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/9b9566db-70ce-4d3f-9131-76dbcb412166",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4954,
+								"width": 3899
+							},
+							"on": "http://99a1e8ad-89e4-47ed-8750-62669b49ac40"
+						}
+					]
+				},
+				{
+					"@id": "http://6d76f3be-9be4-4e73-95ea-c2474517ef4e",
+					"@type": "sc:Canvas",
+					"label": "3v",
+					"height": 5020,
+					"width": 4031,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e587f4c5-82ce-495a-a0a1-20de4da4b339",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/d4db6e5b-7e3b-4496-ae76-0861f380b01a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/d4db6e5b-7e3b-4496-ae76-0861f380b01a",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5020,
+								"width": 4031
+							},
+							"on": "http://6d76f3be-9be4-4e73-95ea-c2474517ef4e"
+						}
+					]
+				},
+				{
+					"@id": "http://59a24662-3005-4377-9ed2-32d1dc6d1aff",
+					"@type": "sc:Canvas",
+					"label": "4r",
+					"height": 4950,
+					"width": 3900,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8fdd26d3-18b3-4d94-ae2b-ea61a9474205",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/a10842de-caee-47bc-9d0f-d580d46d9af4/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/a10842de-caee-47bc-9d0f-d580d46d9af4",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4950,
+								"width": 3900
+							},
+							"on": "http://59a24662-3005-4377-9ed2-32d1dc6d1aff"
+						}
+					]
+				},
+				{
+					"@id": "http://94ff2ed0-8362-402f-9f99-166224ae3625",
+					"@type": "sc:Canvas",
+					"label": "4v",
+					"height": 5064,
+					"width": 4039,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f8dd0e14-e813-4320-bdcf-74df82709699",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/77995534-ef45-40fa-808d-f4fda0e2c004/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/77995534-ef45-40fa-808d-f4fda0e2c004",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5064,
+								"width": 4039
+							},
+							"on": "http://94ff2ed0-8362-402f-9f99-166224ae3625"
+						}
+					]
+				},
+				{
+					"@id": "http://3fadde89-223f-40ef-9576-02cbdecac0db",
+					"@type": "sc:Canvas",
+					"label": "5r",
+					"height": 4934,
+					"width": 3884,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2c4feafb-c6d6-4d01-b512-4aead97dc0b9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/7773081e-d780-4a6c-8bb0-1fa1d948b818/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/7773081e-d780-4a6c-8bb0-1fa1d948b818",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4934,
+								"width": 3884
+							},
+							"on": "http://3fadde89-223f-40ef-9576-02cbdecac0db"
+						}
+					]
+				},
+				{
+					"@id": "http://b8f901c0-64a3-40a8-8af6-befe0f0351be",
+					"@type": "sc:Canvas",
+					"label": "5v",
+					"height": 5036,
+					"width": 4035,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0eb4f629-6233-48c6-9aee-fc3e7d0f1790",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/38c69207-6a7f-4a6c-bd52-d85d99e05c9e/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/38c69207-6a7f-4a6c-bd52-d85d99e05c9e",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5036,
+								"width": 4035
+							},
+							"on": "http://b8f901c0-64a3-40a8-8af6-befe0f0351be"
+						}
+					]
+				},
+				{
+					"@id": "http://b9f315d1-0b5b-419c-95f8-5515f73f9276",
+					"@type": "sc:Canvas",
+					"label": "6r",
+					"height": 4974,
+					"width": 3950,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c15e156d-1557-4ca4-9a27-52d047964630",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/9a6a05fd-233a-42e2-ad89-b0ca86afeee0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/9a6a05fd-233a-42e2-ad89-b0ca86afeee0",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4974,
+								"width": 3950
+							},
+							"on": "http://b9f315d1-0b5b-419c-95f8-5515f73f9276"
+						}
+					]
+				},
+				{
+					"@id": "http://a0213985-4d11-4f5a-9260-78bfb4420e83",
+					"@type": "sc:Canvas",
+					"label": "6v",
+					"height": 5124,
+					"width": 4056,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3da2d6fe-fe82-40c6-8e7d-178617033aab",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/bdfbafa0-aed7-4dbe-9b77-24d86e2516fa/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/bdfbafa0-aed7-4dbe-9b77-24d86e2516fa",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5124,
+								"width": 4056
+							},
+							"on": "http://a0213985-4d11-4f5a-9260-78bfb4420e83"
+						}
+					]
+				},
+				{
+					"@id": "http://3f4bf33d-db9a-4fc0-a55b-d901bb56b49f",
+					"@type": "sc:Canvas",
+					"label": "7r",
+					"height": 4979,
+					"width": 3961,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://851a1095-9cb7-4670-a9a3-c48a2c3ee48a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/cdb4c304-9166-4b6d-9fe2-32dc07f9d78c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/cdb4c304-9166-4b6d-9fe2-32dc07f9d78c",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4979,
+								"width": 3961
+							},
+							"on": "http://3f4bf33d-db9a-4fc0-a55b-d901bb56b49f"
+						}
+					]
+				},
+				{
+					"@id": "http://e3473d1b-ac86-4e5c-8926-414ce014d081",
+					"@type": "sc:Canvas",
+					"label": "7v",
+					"height": 5126,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0f012718-61fe-4c6a-973a-c53b7c51a180",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/95c0222b-519b-499e-98b7-f7809944cffa/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/95c0222b-519b-499e-98b7-f7809944cffa",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5126,
+								"width": 4032
+							},
+							"on": "http://e3473d1b-ac86-4e5c-8926-414ce014d081"
+						}
+					]
+				},
+				{
+					"@id": "http://d1c2a1f2-30bf-4fdc-8fcf-97c822197b1a",
+					"@type": "sc:Canvas",
+					"label": "8r",
+					"height": 4993,
+					"width": 4039,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0f44534f-d11e-4878-851b-ebed8bbe2314",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/439792d1-3e2f-4ca7-a5ec-031f3b5d562f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/439792d1-3e2f-4ca7-a5ec-031f3b5d562f",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4993,
+								"width": 4039
+							},
+							"on": "http://d1c2a1f2-30bf-4fdc-8fcf-97c822197b1a"
+						}
+					]
+				},
+				{
+					"@id": "http://a2b9c5f3-1416-43ca-a965-9efdba74dad2",
+					"@type": "sc:Canvas",
+					"label": "8v",
+					"height": 5118,
+					"width": 4144,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3f33c700-5404-4089-bfe4-4618505d4262",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/bd0394df-a017-49f8-9d2b-f5aead772504/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/bd0394df-a017-49f8-9d2b-f5aead772504",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5118,
+								"width": 4144
+							},
+							"on": "http://a2b9c5f3-1416-43ca-a965-9efdba74dad2"
+						}
+					]
+				},
+				{
+					"@id": "http://17bbff72-ea28-4e04-a488-48f495d6e58c",
+					"@type": "sc:Canvas",
+					"label": "9r",
+					"height": 5007,
+					"width": 3985,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://34274367-5ff1-461e-b9c0-5d77946a82ca",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/48ab9172-94ea-4896-928b-241d65d91f59/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/48ab9172-94ea-4896-928b-241d65d91f59",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5007,
+								"width": 3985
+							},
+							"on": "http://17bbff72-ea28-4e04-a488-48f495d6e58c"
+						}
+					]
+				},
+				{
+					"@id": "http://738bb714-c564-4fcc-a5f9-f1a068d9763b",
+					"@type": "sc:Canvas",
+					"label": "9v",
+					"height": 5066,
+					"width": 4027,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://00ee142e-3b1a-4e95-a77f-a7c181565e46",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/3ecff480-6527-4172-8a4e-7165beb6b33b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/3ecff480-6527-4172-8a4e-7165beb6b33b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5066,
+								"width": 4027
+							},
+							"on": "http://738bb714-c564-4fcc-a5f9-f1a068d9763b"
+						}
+					]
+				},
+				{
+					"@id": "http://4c7ad4de-b0a3-4ec9-ab8a-c6364cc632ba",
+					"@type": "sc:Canvas",
+					"label": "10r",
+					"height": 5016,
+					"width": 4071,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8d9f4814-0d70-4476-8642-0409c00c7874",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/2bc6533a-64da-4511-8654-d6e3405db662/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/2bc6533a-64da-4511-8654-d6e3405db662",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5016,
+								"width": 4071
+							},
+							"on": "http://4c7ad4de-b0a3-4ec9-ab8a-c6364cc632ba"
+						}
+					]
+				},
+				{
+					"@id": "http://205584a3-47b8-4d25-845a-3c36408bc838",
+					"@type": "sc:Canvas",
+					"label": "10v",
+					"height": 5070,
+					"width": 4027,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://516f4faa-59c8-47fc-a913-f9b5a76e4c4a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/a779f8d2-9db6-4b84-9f24-11b700108669/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/a779f8d2-9db6-4b84-9f24-11b700108669",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5070,
+								"width": 4027
+							},
+							"on": "http://205584a3-47b8-4d25-845a-3c36408bc838"
+						}
+					]
+				},
+				{
+					"@id": "http://0b55d381-ad09-4116-a980-8f9d0bbd4397",
+					"@type": "sc:Canvas",
+					"label": "11r",
+					"height": 5077,
+					"width": 4026,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2ccc1e4b-6b49-4db4-9c7a-5b8a18011b82",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/afdeab2c-475f-4f34-81dc-691afcfe31ed/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/afdeab2c-475f-4f34-81dc-691afcfe31ed",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5077,
+								"width": 4026
+							},
+							"on": "http://0b55d381-ad09-4116-a980-8f9d0bbd4397"
+						}
+					]
+				},
+				{
+					"@id": "http://245c1631-63a0-4566-850d-083013bf8cd0",
+					"@type": "sc:Canvas",
+					"label": "11v",
+					"height": 5085,
+					"width": 3999,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c25677e2-aa4b-4ba8-ae3c-2f26e4b54ee0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/bca87bc1-e784-4317-b1cc-6b2940dd1612/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/bca87bc1-e784-4317-b1cc-6b2940dd1612",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5085,
+								"width": 3999
+							},
+							"on": "http://245c1631-63a0-4566-850d-083013bf8cd0"
+						}
+					]
+				},
+				{
+					"@id": "http://b241e0b3-1790-4b2f-a335-963624a33807",
+					"@type": "sc:Canvas",
+					"label": "12r",
+					"height": 5037,
+					"width": 4093,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://25498039-5475-4768-99e7-4bf889e4d589",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/559dfe49-75bb-4f4d-8ef1-03b42a661554/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/559dfe49-75bb-4f4d-8ef1-03b42a661554",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5037,
+								"width": 4093
+							},
+							"on": "http://b241e0b3-1790-4b2f-a335-963624a33807"
+						}
+					]
+				},
+				{
+					"@id": "http://59222889-f3be-4da3-9fa4-36ab7d6032ff",
+					"@type": "sc:Canvas",
+					"label": "12v",
+					"height": 5037,
+					"width": 4029,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://52e6325c-9155-4a45-86a5-31509ca6a4e3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/6db0be00-9b13-4c9a-8cf6-39f051913ee2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/6db0be00-9b13-4c9a-8cf6-39f051913ee2",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5037,
+								"width": 4029
+							},
+							"on": "http://59222889-f3be-4da3-9fa4-36ab7d6032ff"
+						}
+					]
+				},
+				{
+					"@id": "http://f8d62f6c-ca75-43a2-9600-81fdab7eae87",
+					"@type": "sc:Canvas",
+					"label": "13r",
+					"height": 5015,
+					"width": 4040,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ed057df3-4d4e-4994-abdb-0d19ca380383",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/cd751532-8236-4594-b1c1-c3f688a8ef0a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/cd751532-8236-4594-b1c1-c3f688a8ef0a",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5015,
+								"width": 4040
+							},
+							"on": "http://f8d62f6c-ca75-43a2-9600-81fdab7eae87"
+						}
+					]
+				},
+				{
+					"@id": "http://6efcd883-b287-45d9-a23c-9f52d9f723ce",
+					"@type": "sc:Canvas",
+					"label": "13v",
+					"height": 5072,
+					"width": 3957,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5f28c40f-525e-4a9a-a267-0c882ddb2895",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/0668e60e-b56e-46ab-b929-4fb9a1ef2e9b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/0668e60e-b56e-46ab-b929-4fb9a1ef2e9b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5072,
+								"width": 3957
+							},
+							"on": "http://6efcd883-b287-45d9-a23c-9f52d9f723ce"
+						}
+					]
+				},
+				{
+					"@id": "http://eb7f3608-fbba-4955-a6ba-fab615371413",
+					"@type": "sc:Canvas",
+					"label": "14r",
+					"height": 5100,
+					"width": 4175,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://84fff4a5-2380-4c01-b165-340147fac34c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/522c694b-6565-42e9-99a9-4ab229d510d8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/522c694b-6565-42e9-99a9-4ab229d510d8",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5100,
+								"width": 4175
+							},
+							"on": "http://eb7f3608-fbba-4955-a6ba-fab615371413"
+						}
+					]
+				},
+				{
+					"@id": "http://951beb68-6c8e-4d8a-919c-c0f2cbd01e29",
+					"@type": "sc:Canvas",
+					"label": "14v",
+					"height": 5045,
+					"width": 3997,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://37579371-07de-444c-a453-6c898a2fe301",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/bf866f16-14a1-40dc-b40a-3a301ff0571b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/bf866f16-14a1-40dc-b40a-3a301ff0571b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5045,
+								"width": 3997
+							},
+							"on": "http://951beb68-6c8e-4d8a-919c-c0f2cbd01e29"
+						}
+					]
+				},
+				{
+					"@id": "http://75db3cde-eaee-43c0-8a29-dd3c5c08e4f9",
+					"@type": "sc:Canvas",
+					"label": "15r",
+					"height": 5087,
+					"width": 4115,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://47e227d1-180e-4c6b-ab58-155ba77d118e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/343ccc2e-fe01-47e3-888d-455b9564df87/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/343ccc2e-fe01-47e3-888d-455b9564df87",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5087,
+								"width": 4115
+							},
+							"on": "http://75db3cde-eaee-43c0-8a29-dd3c5c08e4f9"
+						}
+					]
+				},
+				{
+					"@id": "http://6e7d0b20-53e1-4f12-8257-1452ddaf9ed5",
+					"@type": "sc:Canvas",
+					"label": "15v",
+					"height": 5062,
+					"width": 4035,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://545cf348-4c82-47d2-ba61-e06d1b371cd8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/25749874-0ff5-416a-9622-31e776bf9651/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/25749874-0ff5-416a-9622-31e776bf9651",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5062,
+								"width": 4035
+							},
+							"on": "http://6e7d0b20-53e1-4f12-8257-1452ddaf9ed5"
+						}
+					]
+				},
+				{
+					"@id": "http://ebba8d20-1021-426d-9e14-804fc75b3ea8",
+					"@type": "sc:Canvas",
+					"label": "16r",
+					"height": 5023,
+					"width": 4135,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e677aa91-7fff-4308-a6c4-074b5f1fe907",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/f8a7bc0d-f21f-460e-b5ae-02ba916c2888/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/f8a7bc0d-f21f-460e-b5ae-02ba916c2888",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5023,
+								"width": 4135
+							},
+							"on": "http://ebba8d20-1021-426d-9e14-804fc75b3ea8"
+						}
+					]
+				},
+				{
+					"@id": "http://d8bd9de1-e3ec-4b36-b433-bfa255e27466",
+					"@type": "sc:Canvas",
+					"label": "16v",
+					"height": 5044,
+					"width": 4052,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://220f302c-84ea-4fe4-9e2a-8752311b36de",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/4de27a06-d468-43fe-83eb-1e526c750757/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/4de27a06-d468-43fe-83eb-1e526c750757",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5044,
+								"width": 4052
+							},
+							"on": "http://d8bd9de1-e3ec-4b36-b433-bfa255e27466"
+						}
+					]
+				},
+				{
+					"@id": "http://26decc48-7de1-4b2f-85b5-c91e23388a48",
+					"@type": "sc:Canvas",
+					"label": "17r",
+					"height": 5017,
+					"width": 4140,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://81745f49-2a12-4868-a10a-ee269b75dfc7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/b6cf66e4-8319-46c9-a36a-9b96e211ea80/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/b6cf66e4-8319-46c9-a36a-9b96e211ea80",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5017,
+								"width": 4140
+							},
+							"on": "http://26decc48-7de1-4b2f-85b5-c91e23388a48"
+						}
+					]
+				},
+				{
+					"@id": "http://bb74c4b0-4a62-433f-bb56-e8703be7dbae",
+					"@type": "sc:Canvas",
+					"label": "17v",
+					"height": 5005,
+					"width": 4065,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5179f342-ad05-4820-bf81-46628a01b73e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/c27dc76b-475d-431c-b144-d31452e545bc/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/c27dc76b-475d-431c-b144-d31452e545bc",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5005,
+								"width": 4065
+							},
+							"on": "http://bb74c4b0-4a62-433f-bb56-e8703be7dbae"
+						}
+					]
+				},
+				{
+					"@id": "http://088433bf-3f4e-42b3-a40f-4f30d2dc7792",
+					"@type": "sc:Canvas",
+					"label": "18r",
+					"height": 5055,
+					"width": 4191,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://df5081e8-52d4-46ba-9767-2811355b9df2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/7e7567fd-ab7e-41a8-92e2-db40af2be06c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/7e7567fd-ab7e-41a8-92e2-db40af2be06c",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5055,
+								"width": 4191
+							},
+							"on": "http://088433bf-3f4e-42b3-a40f-4f30d2dc7792"
+						}
+					]
+				},
+				{
+					"@id": "http://e0a3752c-7667-4a68-b471-ddbc9420c921",
+					"@type": "sc:Canvas",
+					"label": "18v",
+					"height": 5037,
+					"width": 4083,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f6cd0135-0c34-47d4-84e4-10b85d769d0e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/607041fb-4bc2-40b3-ad7f-dbc5859fb1be/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/607041fb-4bc2-40b3-ad7f-dbc5859fb1be",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5037,
+								"width": 4083
+							},
+							"on": "http://e0a3752c-7667-4a68-b471-ddbc9420c921"
+						}
+					]
+				},
+				{
+					"@id": "http://13f55a75-a5be-450b-9a8e-e8d1c55042cd",
+					"@type": "sc:Canvas",
+					"label": "19r",
+					"height": 5009,
+					"width": 4156,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8dcd6104-cd93-4414-9396-5af01836ebc4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/62fa0c27-1968-4d90-acd5-0f91c620b061/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/62fa0c27-1968-4d90-acd5-0f91c620b061",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5009,
+								"width": 4156
+							},
+							"on": "http://13f55a75-a5be-450b-9a8e-e8d1c55042cd"
+						}
+					]
+				},
+				{
+					"@id": "http://e2b9c064-3524-432c-b2e9-9fffa5cfcb7d",
+					"@type": "sc:Canvas",
+					"label": "19v",
+					"height": 5058,
+					"width": 4036,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://849c006b-c642-4b96-8cb0-db550e89db03",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/2baf13b2-552c-4347-aa1c-f41202b2a529/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/2baf13b2-552c-4347-aa1c-f41202b2a529",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5058,
+								"width": 4036
+							},
+							"on": "http://e2b9c064-3524-432c-b2e9-9fffa5cfcb7d"
+						}
+					]
+				},
+				{
+					"@id": "http://6c6f1d6a-9b14-4adc-8023-6d578fd4eb18",
+					"@type": "sc:Canvas",
+					"label": "20r",
+					"height": 5062,
+					"width": 4168,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a6ff6114-3499-48fa-bb95-a067cd4c61a8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/bfb613e1-5f41-4ca6-99c2-b35f2b6d30ba/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/bfb613e1-5f41-4ca6-99c2-b35f2b6d30ba",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5062,
+								"width": 4168
+							},
+							"on": "http://6c6f1d6a-9b14-4adc-8023-6d578fd4eb18"
+						}
+					]
+				},
+				{
+					"@id": "http://c7a70cbc-12a9-4129-aeee-e6dca624454c",
+					"@type": "sc:Canvas",
+					"label": "20v",
+					"height": 5072,
+					"width": 4059,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b4dc051c-95b9-4a39-8846-876b31628e66",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/62583f9e-f4aa-451c-969a-d9dea6e3783f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/62583f9e-f4aa-451c-969a-d9dea6e3783f",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5072,
+								"width": 4059
+							},
+							"on": "http://c7a70cbc-12a9-4129-aeee-e6dca624454c"
+						}
+					]
+				},
+				{
+					"@id": "http://9b3b1863-abb4-49ae-8464-bcc7a833ccc4",
+					"@type": "sc:Canvas",
+					"label": "21r",
+					"height": 5033,
+					"width": 4106,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8f78d734-007c-4373-9936-c039542c5c48",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/453881ef-2b6a-46df-8d87-0a24afa84bb6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/453881ef-2b6a-46df-8d87-0a24afa84bb6",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5033,
+								"width": 4106
+							},
+							"on": "http://9b3b1863-abb4-49ae-8464-bcc7a833ccc4"
+						}
+					]
+				},
+				{
+					"@id": "http://3c82e6fc-8157-436c-b197-9b1454e8d0c4",
+					"@type": "sc:Canvas",
+					"label": "21v",
+					"height": 5042,
+					"width": 4061,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5c3e1b42-cd40-461b-a835-f40a4459c8ee",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/6361427d-d747-4e0e-a171-86ebb2ad40c6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/6361427d-d747-4e0e-a171-86ebb2ad40c6",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5042,
+								"width": 4061
+							},
+							"on": "http://3c82e6fc-8157-436c-b197-9b1454e8d0c4"
+						}
+					]
+				},
+				{
+					"@id": "http://d02e9140-a274-44fa-9222-3f6bdd00a9a1",
+					"@type": "sc:Canvas",
+					"label": "22r",
+					"height": 5072,
+					"width": 4073,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f69ab66b-d398-40f2-ba50-9ff7b18078d2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/fb2b6469-df2d-4e12-bb0e-d990d7bbe987/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/fb2b6469-df2d-4e12-bb0e-d990d7bbe987",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5072,
+								"width": 4073
+							},
+							"on": "http://d02e9140-a274-44fa-9222-3f6bdd00a9a1"
+						}
+					]
+				},
+				{
+					"@id": "http://3332f089-c634-420d-94f0-3caa603ab21b",
+					"@type": "sc:Canvas",
+					"label": "22v",
+					"height": 5081,
+					"width": 4093,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://56d7309d-d135-469b-b995-1d208eb8ff18",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/692ce42d-8003-48c7-a871-4851c8297f60/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/692ce42d-8003-48c7-a871-4851c8297f60",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5081,
+								"width": 4093
+							},
+							"on": "http://3332f089-c634-420d-94f0-3caa603ab21b"
+						}
+					]
+				},
+				{
+					"@id": "http://ca19abc4-df2f-4db3-813d-c57318112fa8",
+					"@type": "sc:Canvas",
+					"label": "23r",
+					"height": 5081,
+					"width": 4049,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://440532b2-c037-46e5-b1d2-633a0582f7fb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/1d4db028-71b2-408a-9383-b04509e6797a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/1d4db028-71b2-408a-9383-b04509e6797a",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5081,
+								"width": 4049
+							},
+							"on": "http://ca19abc4-df2f-4db3-813d-c57318112fa8"
+						}
+					]
+				},
+				{
+					"@id": "http://cc896749-3877-4be5-9c8d-04c551a0afe4",
+					"@type": "sc:Canvas",
+					"label": "23v",
+					"height": 5054,
+					"width": 4048,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://55a86565-9e55-4446-826c-420db0979df4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/90de15f3-92d8-48fd-9eed-810576ac1aef/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/90de15f3-92d8-48fd-9eed-810576ac1aef",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5054,
+								"width": 4048
+							},
+							"on": "http://cc896749-3877-4be5-9c8d-04c551a0afe4"
+						}
+					]
+				},
+				{
+					"@id": "http://073226f1-71ee-4c46-89b7-70ae3ca4551c",
+					"@type": "sc:Canvas",
+					"label": "24r",
+					"height": 5101,
+					"width": 4090,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b7337a9e-f5cf-4997-95f4-c0ecc63fea5b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/f6f5e256-7525-454b-9cfb-2962ea2fe933/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/f6f5e256-7525-454b-9cfb-2962ea2fe933",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5101,
+								"width": 4090
+							},
+							"on": "http://073226f1-71ee-4c46-89b7-70ae3ca4551c"
+						}
+					]
+				},
+				{
+					"@id": "http://af222859-3ebe-446a-b86b-8457d8300a09",
+					"@type": "sc:Canvas",
+					"label": "24v",
+					"height": 5047,
+					"width": 4038,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://db22ff55-636f-4030-9ced-b8f525e613a3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/8faca7f6-52bf-4b77-9bae-fe2a7e1dc6e3/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/8faca7f6-52bf-4b77-9bae-fe2a7e1dc6e3",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5047,
+								"width": 4038
+							},
+							"on": "http://af222859-3ebe-446a-b86b-8457d8300a09"
+						}
+					]
+				},
+				{
+					"@id": "http://e50aef1f-0606-49fe-b87e-4589b43de642",
+					"@type": "sc:Canvas",
+					"label": "25r",
+					"height": 5084,
+					"width": 4050,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a41094b3-bff3-4b3d-b031-1a16c74be695",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/2ca5ee2a-753c-4706-8a4c-47b568e02f8d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/2ca5ee2a-753c-4706-8a4c-47b568e02f8d",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5084,
+								"width": 4050
+							},
+							"on": "http://e50aef1f-0606-49fe-b87e-4589b43de642"
+						}
+					]
+				},
+				{
+					"@id": "http://fe5be020-5cd5-4e37-960b-6c74f16b2bd6",
+					"@type": "sc:Canvas",
+					"label": "25v",
+					"height": 5045,
+					"width": 4155,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0bd4675f-fea7-44ad-be03-ad73fa6f6210",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/71042b75-e904-4c06-8814-ab7a948b7130/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/71042b75-e904-4c06-8814-ab7a948b7130",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5045,
+								"width": 4155
+							},
+							"on": "http://fe5be020-5cd5-4e37-960b-6c74f16b2bd6"
+						}
+					]
+				},
+				{
+					"@id": "http://89dc7c4a-487e-4a35-b7c4-a0da3cf19533",
+					"@type": "sc:Canvas",
+					"label": "26r",
+					"height": 5060,
+					"width": 4005,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a9f6b977-aa71-4712-9222-a405ed1e15fd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/79555a67-f06f-46c9-ad41-e3c39f17abbd/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/79555a67-f06f-46c9-ad41-e3c39f17abbd",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5060,
+								"width": 4005
+							},
+							"on": "http://89dc7c4a-487e-4a35-b7c4-a0da3cf19533"
+						}
+					]
+				},
+				{
+					"@id": "http://83442841-4425-4fcc-b6c1-4105ef8d12b4",
+					"@type": "sc:Canvas",
+					"label": "26v",
+					"height": 5015,
+					"width": 4054,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://dab1568e-144b-4986-a035-1ee066c475a9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/8b34eb6b-1089-4e49-8e4d-8df087176f27/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/8b34eb6b-1089-4e49-8e4d-8df087176f27",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5015,
+								"width": 4054
+							},
+							"on": "http://83442841-4425-4fcc-b6c1-4105ef8d12b4"
+						}
+					]
+				},
+				{
+					"@id": "http://d08d14d7-e8d7-4d80-b37e-2f875bda5898",
+					"@type": "sc:Canvas",
+					"label": "27r",
+					"height": 5008,
+					"width": 4003,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f984cc42-2a93-4a5d-8ef2-a3d44fa6151e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/7e361a79-6e39-446e-aed9-0c8057585149/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/7e361a79-6e39-446e-aed9-0c8057585149",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5008,
+								"width": 4003
+							},
+							"on": "http://d08d14d7-e8d7-4d80-b37e-2f875bda5898"
+						}
+					]
+				},
+				{
+					"@id": "http://752b7d1f-b0d6-4e60-94a9-7e734f137170",
+					"@type": "sc:Canvas",
+					"label": "27v",
+					"height": 5031,
+					"width": 4122,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e4eb0cfe-0dd3-429a-be90-d4feac1c253a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/ebed2f2b-42ee-4365-b44c-b3505b95ee43/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/ebed2f2b-42ee-4365-b44c-b3505b95ee43",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5031,
+								"width": 4122
+							},
+							"on": "http://752b7d1f-b0d6-4e60-94a9-7e734f137170"
+						}
+					]
+				},
+				{
+					"@id": "http://baf4f794-82de-47a2-882c-b3a645017ee4",
+					"@type": "sc:Canvas",
+					"label": "28r",
+					"height": 5048,
+					"width": 4055,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bd01b0b8-b8bb-4492-bee7-df96287f04c6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/767591ac-7c34-4dcb-96b4-6cb42484f370/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/767591ac-7c34-4dcb-96b4-6cb42484f370",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5048,
+								"width": 4055
+							},
+							"on": "http://baf4f794-82de-47a2-882c-b3a645017ee4"
+						}
+					]
+				},
+				{
+					"@id": "http://a191c9b9-3a24-44ce-8d35-9f765c7de7f8",
+					"@type": "sc:Canvas",
+					"label": "28v",
+					"height": 5040,
+					"width": 4095,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://50bff416-de16-4fd5-8462-df9a77f4facc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/47cdb2f8-d045-454a-966d-6dc14770fe21/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/47cdb2f8-d045-454a-966d-6dc14770fe21",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5040,
+								"width": 4095
+							},
+							"on": "http://a191c9b9-3a24-44ce-8d35-9f765c7de7f8"
+						}
+					]
+				},
+				{
+					"@id": "http://815077cc-2f50-42b5-bdae-5eaa2cd83196",
+					"@type": "sc:Canvas",
+					"label": "29r",
+					"height": 5044,
+					"width": 4041,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://03f054dd-84ce-4cbf-8d8f-4fc19ea1a51a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/981016e0-3fde-4ad0-84a2-888acfc89d2e/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/981016e0-3fde-4ad0-84a2-888acfc89d2e",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5044,
+								"width": 4041
+							},
+							"on": "http://815077cc-2f50-42b5-bdae-5eaa2cd83196"
+						}
+					]
+				},
+				{
+					"@id": "http://9faf577b-fc54-4eb0-93d5-ec9a680a29e0",
+					"@type": "sc:Canvas",
+					"label": "29v",
+					"height": 5124,
+					"width": 4132,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2f91d60b-d080-430c-b988-30bb1d88ef9f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/0f620197-3ba3-4cf1-baa7-7fea45ce9f82/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/0f620197-3ba3-4cf1-baa7-7fea45ce9f82",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5124,
+								"width": 4132
+							},
+							"on": "http://9faf577b-fc54-4eb0-93d5-ec9a680a29e0"
+						}
+					]
+				},
+				{
+					"@id": "http://12774045-5eac-496b-a3b8-822860dee955",
+					"@type": "sc:Canvas",
+					"label": "30r",
+					"height": 4996,
+					"width": 4128,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c8af4b92-df9e-4fa5-a6f3-3f74e6c7b8c4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/4e9007f7-85e5-47eb-9edb-3e0eef209d1f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/4e9007f7-85e5-47eb-9edb-3e0eef209d1f",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4996,
+								"width": 4128
+							},
+							"on": "http://12774045-5eac-496b-a3b8-822860dee955"
+						}
+					]
+				},
+				{
+					"@id": "http://427023d7-2725-4dd8-a965-1955a5840a88",
+					"@type": "sc:Canvas",
+					"label": "30v",
+					"height": 5063,
+					"width": 4060,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ec4f03cf-dcd6-49a4-99cc-66cd84e0a3f7",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/4e79aa28-58ee-4f20-9937-9c0f4459f475/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/4e79aa28-58ee-4f20-9937-9c0f4459f475",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5063,
+								"width": 4060
+							},
+							"on": "http://427023d7-2725-4dd8-a965-1955a5840a88"
+						}
+					]
+				},
+				{
+					"@id": "http://29d99dab-b67a-4da2-b3ce-0f92f0c6d05e",
+					"@type": "sc:Canvas",
+					"label": "31r",
+					"height": 5021,
+					"width": 4137,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://21a5c8ac-b026-49ab-9f4a-91f923fece08",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/f3b2230e-eac8-4b52-a0ad-dc120684615d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/f3b2230e-eac8-4b52-a0ad-dc120684615d",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5021,
+								"width": 4137
+							},
+							"on": "http://29d99dab-b67a-4da2-b3ce-0f92f0c6d05e"
+						}
+					]
+				},
+				{
+					"@id": "http://4a4a4e13-6dca-4a83-b687-7927fa6d1f25",
+					"@type": "sc:Canvas",
+					"label": "31v",
+					"height": 5012,
+					"width": 4087,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e3f108a1-cdde-4e0d-a2ca-884fcf604596",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/7dc199bf-1cac-4003-b9b3-3d58bdfe334b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/7dc199bf-1cac-4003-b9b3-3d58bdfe334b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5012,
+								"width": 4087
+							},
+							"on": "http://4a4a4e13-6dca-4a83-b687-7927fa6d1f25"
+						}
+					]
+				},
+				{
+					"@id": "http://99d49941-a3a5-4490-b925-9a0ee02cf87a",
+					"@type": "sc:Canvas",
+					"label": "32r",
+					"height": 5058,
+					"width": 4073,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4bf9a4d6-daf3-471a-b237-55e7dc0a546d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/037a8973-3055-4290-853f-940493ed6a4f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/037a8973-3055-4290-853f-940493ed6a4f",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5058,
+								"width": 4073
+							},
+							"on": "http://99d49941-a3a5-4490-b925-9a0ee02cf87a"
+						}
+					]
+				},
+				{
+					"@id": "http://a8de43b9-47ff-44c1-997f-75e3058549aa",
+					"@type": "sc:Canvas",
+					"label": "32v",
+					"height": 5023,
+					"width": 4087,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f3bd2bf8-86c7-4cab-8ea0-d533f2c0e3bf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/ca160516-1895-449c-a08a-2472c0b5d9e0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/ca160516-1895-449c-a08a-2472c0b5d9e0",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5023,
+								"width": 4087
+							},
+							"on": "http://a8de43b9-47ff-44c1-997f-75e3058549aa"
+						}
+					]
+				},
+				{
+					"@id": "http://81e31680-c43f-49fc-b9f6-95848325a38d",
+					"@type": "sc:Canvas",
+					"label": "33r",
+					"height": 5046,
+					"width": 4082,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5a95db30-892a-49c9-8de6-7c6c7b66a2e3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/19ea3dc2-4829-4357-81ac-47fa8a03d405/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/19ea3dc2-4829-4357-81ac-47fa8a03d405",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5046,
+								"width": 4082
+							},
+							"on": "http://81e31680-c43f-49fc-b9f6-95848325a38d"
+						}
+					]
+				},
+				{
+					"@id": "http://6c6da710-a371-4ac1-9a56-9f5f10f9d986",
+					"@type": "sc:Canvas",
+					"label": "33v",
+					"height": 5069,
+					"width": 4044,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8c03521e-ebbe-4709-a91d-af4c9dd62ee6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/5257c877-4c7c-479e-8647-1d1202e220d5/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/5257c877-4c7c-479e-8647-1d1202e220d5",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5069,
+								"width": 4044
+							},
+							"on": "http://6c6da710-a371-4ac1-9a56-9f5f10f9d986"
+						}
+					]
+				},
+				{
+					"@id": "http://68f956ce-41dd-4e51-8993-f8f1115fd643",
+					"@type": "sc:Canvas",
+					"label": "34r",
+					"height": 5063,
+					"width": 4135,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2d0e5a7d-63e9-4504-a1b4-cdbd432ed515",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/5f996c7f-0dcd-4934-a17a-b4c54b867157/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/5f996c7f-0dcd-4934-a17a-b4c54b867157",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5063,
+								"width": 4135
+							},
+							"on": "http://68f956ce-41dd-4e51-8993-f8f1115fd643"
+						}
+					]
+				},
+				{
+					"@id": "http://928d0286-a470-4ea7-b23f-e13e66ebcbb7",
+					"@type": "sc:Canvas",
+					"label": "34v",
+					"height": 4980,
+					"width": 4047,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9104f686-2a9f-41ab-b554-b7a9ae16f1ba",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/96d63b48-1bcf-43ce-85cc-96fc16e8ffd1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/96d63b48-1bcf-43ce-85cc-96fc16e8ffd1",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4980,
+								"width": 4047
+							},
+							"on": "http://928d0286-a470-4ea7-b23f-e13e66ebcbb7"
+						}
+					]
+				},
+				{
+					"@id": "http://bd5e248b-a3b6-4fca-a917-f822474db891",
+					"@type": "sc:Canvas",
+					"label": "35r",
+					"height": 5115,
+					"width": 4192,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ec0369a2-b585-42ac-955d-af326153320d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/db23e33e-3346-4694-ad61-4ce2b4cdbadf/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/db23e33e-3346-4694-ad61-4ce2b4cdbadf",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5115,
+								"width": 4192
+							},
+							"on": "http://bd5e248b-a3b6-4fca-a917-f822474db891"
+						}
+					]
+				},
+				{
+					"@id": "http://b8c8c32a-c52c-450f-afbb-d1ea51e3f262",
+					"@type": "sc:Canvas",
+					"label": "35v",
+					"height": 4987,
+					"width": 3987,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f3680f7c-ac9d-40b8-86b5-ffd11181fa63",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/a3156b72-fea6-45fb-9523-e9f7f37bcf4d/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/a3156b72-fea6-45fb-9523-e9f7f37bcf4d",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4987,
+								"width": 3987
+							},
+							"on": "http://b8c8c32a-c52c-450f-afbb-d1ea51e3f262"
+						}
+					]
+				},
+				{
+					"@id": "http://c72d66c0-4ed6-4cde-9b97-fcf08170538c",
+					"@type": "sc:Canvas",
+					"label": "36r",
+					"height": 5072,
+					"width": 4163,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3e315d23-1606-407c-9a69-f26cf1519760",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/32854d18-cbcb-4231-b9b8-6600890c5c9c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/32854d18-cbcb-4231-b9b8-6600890c5c9c",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5072,
+								"width": 4163
+							},
+							"on": "http://c72d66c0-4ed6-4cde-9b97-fcf08170538c"
+						}
+					]
+				},
+				{
+					"@id": "http://0da68ca9-4d9f-4655-9f83-b903d3009b78",
+					"@type": "sc:Canvas",
+					"label": "36v",
+					"height": 5007,
+					"width": 3983,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3c60eaa4-9b22-4eac-9922-c58bfd8086fd",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/c24c65b9-dabd-40cb-a764-de02221a968b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/c24c65b9-dabd-40cb-a764-de02221a968b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5007,
+								"width": 3983
+							},
+							"on": "http://0da68ca9-4d9f-4655-9f83-b903d3009b78"
+						}
+					]
+				},
+				{
+					"@id": "http://4aed5c89-a974-4d7f-a1c6-373f9c929da2",
+					"@type": "sc:Canvas",
+					"label": "37r",
+					"height": 5103,
+					"width": 4167,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d5faca3b-9925-4d52-b075-0b00e6d15d85",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/7c68b210-79aa-4854-a076-bfe860b06edc/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/7c68b210-79aa-4854-a076-bfe860b06edc",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5103,
+								"width": 4167
+							},
+							"on": "http://4aed5c89-a974-4d7f-a1c6-373f9c929da2"
+						}
+					]
+				},
+				{
+					"@id": "http://d7fc09ea-708a-4112-9c84-2faf9cc7688d",
+					"@type": "sc:Canvas",
+					"label": "37v",
+					"height": 4999,
+					"width": 3982,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://234a4bd2-7010-48af-9a79-0e81a682b00b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/9ea61149-41c9-45f6-944c-4948e0e069b7/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/9ea61149-41c9-45f6-944c-4948e0e069b7",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4999,
+								"width": 3982
+							},
+							"on": "http://d7fc09ea-708a-4112-9c84-2faf9cc7688d"
+						}
+					]
+				},
+				{
+					"@id": "http://87ea9493-5d51-4728-a8d1-52ea9c4eccff",
+					"@type": "sc:Canvas",
+					"label": "38r",
+					"height": 5076,
+					"width": 4139,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://71239b01-fbaf-4d82-95bd-409af4d1459c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/9db93087-18ba-49c0-aca6-adb5868481d8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/9db93087-18ba-49c0-aca6-adb5868481d8",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5076,
+								"width": 4139
+							},
+							"on": "http://87ea9493-5d51-4728-a8d1-52ea9c4eccff"
+						}
+					]
+				},
+				{
+					"@id": "http://24dc76e3-f74a-4ee1-907d-4c642ed61d90",
+					"@type": "sc:Canvas",
+					"label": "38v",
+					"height": 4964,
+					"width": 3963,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3094a20e-5add-4c1b-89bc-62459000b029",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/66746d09-4a04-4ccd-9c03-492d0c4da86f/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/66746d09-4a04-4ccd-9c03-492d0c4da86f",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4964,
+								"width": 3963
+							},
+							"on": "http://24dc76e3-f74a-4ee1-907d-4c642ed61d90"
+						}
+					]
+				},
+				{
+					"@id": "http://fe1f3c58-87dc-4269-a1f6-7ef4595256f7",
+					"@type": "sc:Canvas",
+					"label": "39r",
+					"height": 5096,
+					"width": 4182,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://92cf0f04-58f8-4ca2-a7b8-a143301b87c5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/f8d52614-6715-4d63-a005-c94a7508c399/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/f8d52614-6715-4d63-a005-c94a7508c399",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5096,
+								"width": 4182
+							},
+							"on": "http://fe1f3c58-87dc-4269-a1f6-7ef4595256f7"
+						}
+					]
+				},
+				{
+					"@id": "http://c8c0693b-1740-425e-bfdf-a72c8184e48e",
+					"@type": "sc:Canvas",
+					"label": "39v",
+					"height": 5009,
+					"width": 3987,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ea0d83a8-3ebc-49d0-8120-baea95efd6d3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/c15b1446-2a1e-4c10-8b5c-5680977676ef/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/c15b1446-2a1e-4c10-8b5c-5680977676ef",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5009,
+								"width": 3987
+							},
+							"on": "http://c8c0693b-1740-425e-bfdf-a72c8184e48e"
+						}
+					]
+				},
+				{
+					"@id": "http://e76512cb-fd30-4c4e-8cb7-792934899753",
+					"@type": "sc:Canvas",
+					"label": "40r",
+					"height": 5031,
+					"width": 4114,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ae7f679c-ade2-4b10-84d7-b94d0285ef25",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/40200c65-c847-4ac4-96fb-ec0fc9933970/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/40200c65-c847-4ac4-96fb-ec0fc9933970",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5031,
+								"width": 4114
+							},
+							"on": "http://e76512cb-fd30-4c4e-8cb7-792934899753"
+						}
+					]
+				},
+				{
+					"@id": "http://ac049279-ae93-4ad7-b69f-1f6d43ed3529",
+					"@type": "sc:Canvas",
+					"label": "40v",
+					"height": 4986,
+					"width": 3995,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://686dcc95-21d9-4428-b0a7-06a6878dfef9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/980ad49b-c8f3-41e7-a3d8-1a276fb28c22/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/980ad49b-c8f3-41e7-a3d8-1a276fb28c22",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4986,
+								"width": 3995
+							},
+							"on": "http://ac049279-ae93-4ad7-b69f-1f6d43ed3529"
+						}
+					]
+				},
+				{
+					"@id": "http://1e2c377f-54ed-4d49-a6b8-d7f35a1a4c41",
+					"@type": "sc:Canvas",
+					"label": "41r",
+					"height": 5068,
+					"width": 4131,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://65417e0f-b3d7-4183-8b35-414957301af2",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/fc6b0045-d0f6-4828-be85-2286768233a9/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/fc6b0045-d0f6-4828-be85-2286768233a9",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5068,
+								"width": 4131
+							},
+							"on": "http://1e2c377f-54ed-4d49-a6b8-d7f35a1a4c41"
+						}
+					]
+				},
+				{
+					"@id": "http://ef2d2a54-835e-4741-b68c-38730dceef2d",
+					"@type": "sc:Canvas",
+					"label": "41v",
+					"height": 4999,
+					"width": 4029,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://09d724a7-a170-4ff6-b974-d41b9c9936d1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/e83e5b97-380c-4af6-91e4-adbce18e54c0/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/e83e5b97-380c-4af6-91e4-adbce18e54c0",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4999,
+								"width": 4029
+							},
+							"on": "http://ef2d2a54-835e-4741-b68c-38730dceef2d"
+						}
+					]
+				},
+				{
+					"@id": "http://7060cefb-ace4-43e0-8d02-97288d4e85d4",
+					"@type": "sc:Canvas",
+					"label": "42r",
+					"height": 5059,
+					"width": 4127,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8af3cf29-4073-453a-b079-04015bf4e741",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/8b34be39-b20f-4364-8ebe-7b53fe4e4e90/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/8b34be39-b20f-4364-8ebe-7b53fe4e4e90",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5059,
+								"width": 4127
+							},
+							"on": "http://7060cefb-ace4-43e0-8d02-97288d4e85d4"
+						}
+					]
+				},
+				{
+					"@id": "http://20a5814a-ff40-4fad-aa93-6881c6f63e09",
+					"@type": "sc:Canvas",
+					"label": "42v",
+					"height": 5018,
+					"width": 4017,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://578ab4a4-8301-47cc-bf10-c3ccdb93c6e5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/edc982ba-5581-458d-a6f5-6d5727d1705c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/edc982ba-5581-458d-a6f5-6d5727d1705c",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5018,
+								"width": 4017
+							},
+							"on": "http://20a5814a-ff40-4fad-aa93-6881c6f63e09"
+						}
+					]
+				},
+				{
+					"@id": "http://60851e81-bb47-431b-ac4e-040288dd0eca",
+					"@type": "sc:Canvas",
+					"label": "43r",
+					"height": 5094,
+					"width": 4151,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://109cc0b3-677d-4580-b8f4-f97c8654b310",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/adf3e556-344e-4b99-83a8-e2f4e398bf24/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/adf3e556-344e-4b99-83a8-e2f4e398bf24",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5094,
+								"width": 4151
+							},
+							"on": "http://60851e81-bb47-431b-ac4e-040288dd0eca"
+						}
+					]
+				},
+				{
+					"@id": "http://1442123c-75dd-42da-947c-f04dd0c29339",
+					"@type": "sc:Canvas",
+					"label": "43v",
+					"height": 4999,
+					"width": 3938,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b909f9b1-e023-4005-b2f9-75f8ede88ad6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/ffbf3f4f-b5c0-46ea-a57a-297275ca3b4a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/ffbf3f4f-b5c0-46ea-a57a-297275ca3b4a",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4999,
+								"width": 3938
+							},
+							"on": "http://1442123c-75dd-42da-947c-f04dd0c29339"
+						}
+					]
+				},
+				{
+					"@id": "http://2c6c9b38-74f7-4c60-8f14-b88e5a4a194f",
+					"@type": "sc:Canvas",
+					"label": "44r",
+					"height": 5048,
+					"width": 4092,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://273b773c-4c5b-4f67-b1e5-036a4d5c6bc5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/d282eaa3-d450-4cf0-b7e9-6e77138d384c/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/d282eaa3-d450-4cf0-b7e9-6e77138d384c",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5048,
+								"width": 4092
+							},
+							"on": "http://2c6c9b38-74f7-4c60-8f14-b88e5a4a194f"
+						}
+					]
+				},
+				{
+					"@id": "http://bf5da351-a1fe-4177-8d26-3f1725a31b91",
+					"@type": "sc:Canvas",
+					"label": "44v",
+					"height": 5056,
+					"width": 4036,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fcfb59b5-6126-4b74-a61c-a99c179e0357",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/b2a42a28-8d8f-498d-9b14-17d1b3f6aad6/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/b2a42a28-8d8f-498d-9b14-17d1b3f6aad6",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5056,
+								"width": 4036
+							},
+							"on": "http://bf5da351-a1fe-4177-8d26-3f1725a31b91"
+						}
+					]
+				},
+				{
+					"@id": "http://5fbe741d-9c69-46f5-b65c-e10eb3b492b9",
+					"@type": "sc:Canvas",
+					"label": "45r",
+					"height": 5056,
+					"width": 4182,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://eb6a7066-de67-4f8b-af5c-a36ab7ef3ae8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/e9a24a5f-63ce-49c8-86dc-ebd27373129a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/e9a24a5f-63ce-49c8-86dc-ebd27373129a",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5056,
+								"width": 4182
+							},
+							"on": "http://5fbe741d-9c69-46f5-b65c-e10eb3b492b9"
+						}
+					]
+				},
+				{
+					"@id": "http://80aaa4ff-c1ad-44c4-8313-9d3add017ce8",
+					"@type": "sc:Canvas",
+					"label": "45v",
+					"height": 4997,
+					"width": 3978,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://12c2eab6-e7dd-4c25-ac95-d832b80dedac",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/5b452c44-468c-40b6-a796-fb4e83361886/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/5b452c44-468c-40b6-a796-fb4e83361886",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4997,
+								"width": 3978
+							},
+							"on": "http://80aaa4ff-c1ad-44c4-8313-9d3add017ce8"
+						}
+					]
+				},
+				{
+					"@id": "http://ef493a18-0dfa-4140-8b73-18f37f83aeeb",
+					"@type": "sc:Canvas",
+					"label": "46r",
+					"height": 5073,
+					"width": 4127,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f2628f3b-a290-4507-ba5c-1e16a792d97e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/90690803-30b8-4a58-89e3-5d5a4dca7ce3/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/90690803-30b8-4a58-89e3-5d5a4dca7ce3",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5073,
+								"width": 4127
+							},
+							"on": "http://ef493a18-0dfa-4140-8b73-18f37f83aeeb"
+						}
+					]
+				},
+				{
+					"@id": "http://d4ba238e-af4e-4506-a6e6-920647893ef2",
+					"@type": "sc:Canvas",
+					"label": "46v",
+					"height": 4991,
+					"width": 3963,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://65c7305e-dc7b-47aa-8505-26666db02692",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/6de09d44-4965-41a9-9ae4-a4dfd169d516/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/6de09d44-4965-41a9-9ae4-a4dfd169d516",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4991,
+								"width": 3963
+							},
+							"on": "http://d4ba238e-af4e-4506-a6e6-920647893ef2"
+						}
+					]
+				},
+				{
+					"@id": "http://e1512227-e8e0-4117-9c93-05a961fde30c",
+					"@type": "sc:Canvas",
+					"label": "47r",
+					"height": 5104,
+					"width": 4025,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8be97700-fcda-4f5d-9635-1d7e8a724c89",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/404e0cca-ac94-410f-997d-576f7f95a00b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/404e0cca-ac94-410f-997d-576f7f95a00b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5104,
+								"width": 4025
+							},
+							"on": "http://e1512227-e8e0-4117-9c93-05a961fde30c"
+						}
+					]
+				},
+				{
+					"@id": "http://2450fea3-4cc2-47cf-9841-e7a810469f78",
+					"@type": "sc:Canvas",
+					"label": "47v",
+					"height": 5030,
+					"width": 4043,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a189da0d-1cc6-443e-9c68-d568df74b25f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/58a90194-f745-4852-b0af-3eea780599a8/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/58a90194-f745-4852-b0af-3eea780599a8",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5030,
+								"width": 4043
+							},
+							"on": "http://2450fea3-4cc2-47cf-9841-e7a810469f78"
+						}
+					]
+				},
+				{
+					"@id": "http://96a8be42-0f27-4374-9a69-aadc4450cfc7",
+					"@type": "sc:Canvas",
+					"label": "48r",
+					"height": 5066,
+					"width": 4051,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e7eca07a-64a6-4807-bf59-f3a8cac6db0b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/5a061048-783f-4cdd-925f-04cbffc85c47/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/5a061048-783f-4cdd-925f-04cbffc85c47",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5066,
+								"width": 4051
+							},
+							"on": "http://96a8be42-0f27-4374-9a69-aadc4450cfc7"
+						}
+					]
+				},
+				{
+					"@id": "http://b5591c32-6571-4caa-b6d8-ccf912ee5873",
+					"@type": "sc:Canvas",
+					"label": "Inside back cover",
+					"height": 4976,
+					"width": 3972,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c2477ba1-9448-4597-963f-5e8d7843eded",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/9c127c3c-31a5-4b9e-b2a4-a346dc4f1983/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/9c127c3c-31a5-4b9e-b2a4-a346dc4f1983",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 4976,
+								"width": 3972
+							},
+							"on": "http://b5591c32-6571-4caa-b6d8-ccf912ee5873"
+						}
+					]
+				},
+				{
+					"@id": "http://c9846a37-e426-4c3a-bebd-752d95607700",
+					"@type": "sc:Canvas",
+					"label": "Back Cover",
+					"height": 5066,
+					"width": 4094,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bab4b8cb-0604-4b34-98ac-4b57d965152f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/22a6f18d-12bd-4088-9485-b87f229a804b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/22a6f18d-12bd-4088-9485-b87f229a804b",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 5066,
+								"width": 4094
+							},
+							"on": "http://c9846a37-e426-4c3a-bebd-752d95607700"
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingHint": "paged",
+	"logo": "https://static.britishart.yale.edu/images/ycba_logo.jpg",
+	"viewingDirection": "left-to-right"
+}
