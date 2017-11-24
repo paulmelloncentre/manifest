@@ -1,0 +1,49 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/ycba-579526",
+  "@type": "sc:Manifest",
+  "label": "N5247 D3 D3+ Oversize",
+  "description": "Descriptive catalogue of the series of pictures : formed on subjects selected from the history of England, painted by British artists for Alexander Davison, Esquire, MDCCCVI. In the order in which they arranged, at his house in St. James's-Square, London.",
+  "attribution": "<span>Yale Center for British Art<br/>Rights: Public Domain</span>",
+  "logo": "https://static.britishart.yale.edu/images/ycba_logo.jpg",
+  "metadata": [
+    {
+      "label": "Creator(s)",
+      "value": "Davison, Alexander"
+    },
+    {
+      "label": "Title",
+      "value": "Descriptive catalogue of the series of pictures, : formed on subjects selected from the history of England, painted by British artists for Alexander Davison, Esquire, MDCCCVI. In the order in which they arranged, at his house in St. James's-Square, London."
+    },
+    {
+      "label": "Imprint",
+      "value": "London : Printed by Bulmer and Co., 1807."
+    },
+    {
+      "label": "Date",
+      "value": "1807"
+    },
+    {
+      "label": "Physical Description",
+      "value": "[6], 49 p. ; 30 cm."
+    },
+    {
+      "label": "Dimensions",
+      "value": "Panel: 41.3 x 53.3 cm"
+    },
+    {
+      "label": "Institution",
+      "value": "Yale Center for British Art, New Haven."
+    },
+    {
+      "label": "Accession number",
+      "value": "N5247 D3 D3+ Oversize"
+    }
+  ],
+  "seeAlso": [
+    {
+      "@id": "http://collections.britishart.yale.edu/vufind/Record/2036383",
+      "label" : "catalog entry at the Yale Center for British Art",
+      "format": "html"
+    }
+  ],
