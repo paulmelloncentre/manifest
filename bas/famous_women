@@ -1,119 +1,91 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/famous_women",
-  "@type": "sc:Manifest",
-  "label": "Wunder der Vererbung",
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://be43931b-cace-42b2-9ce2-79c28efa3bab",
+	"@type": "sc:Manifest",
+	"label": "Famous Women",
+	"description": "A catalogue documenting Vanessa Bell and Duncan Grant's 1932 painted dinner service commission.",
+	"license": "CC BY-NC International 4.0",
+	"attribution": "Texts by Vanessa Jones, Hana Leaper, Alice Purkiss, Jenni Sofia Kristina Råback, Anne Sutchbury, Claudia Tobin, Diana Wilkins, Samantha Wilson.",
   "metadata": [
-    {
-      "label": "Title",
-      "value": "Wunder der Vererbung"
-    },
-    {
-      "label": "Author(s)",
-      "value": "Bolle, Fritz"
-    },
-    {
-      "label": "Publication date",
-      "value": "[1951]"
-    },
-    {
-      "label": "Attribution",
-      "value": "Wellcome Library<br/>License: CC-BY-NC"
-    },
-    {
-      "label": "",
-      "value": "<a href='https://search.wellcomelibrary.org/iii/encore/record/C__Rb1803572'>View full catalogue record</a>"
-    },
-    {
-      "label": "Full conditions of use",
-      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
-    }
-  ],
-  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-  "logo": "https://wellcomelibrary.org/assets/img/squarelogo64.png",
-  "related": {
-    "@id": "https://wellcomelibrary.org/item/b18035723",
-    "format": "text/html"
-  },
-  "seeAlso": [
-    {
-      "@id": "https://wellcomelibrary.org/data/b18035723.json",
-      "format": "application/json",
-      "profile": "http://wellcomelibrary.org/profiles/res"
-    },
-    {
-      "@id": "https://wellcomelibrary.org/resource/schemaorg/b18035723",
-      "format": "application/ld+json",
-      "profile": "http://iiif.io/community/profiles/discovery/schema"
-    },
-    {
-      "@id": "https://wellcomelibrary.org/resource/dublincore/b18035723",
-      "format": "application/ld+json",
-      "profile": "http://iiif.io/community/profiles/discovery/dc"
-    }
-  ],
-  "service": [
-    {
-      "@context": "http://wellcomelibrary.org/ld/iiif-ext/0/context.json",
-      "@id": "https://wellcomelibrary.org/iiif/b18035723-0/access-control-hints-service",
-      "profile": "http://wellcomelibrary.org/ld/iiif-ext/access-control-hints",
-      "accessHint": "open"
-    },
-    {
-      "@context": "http://iiif.io/api/search/0/context.json",
-      "@id": "https://wellcomelibrary.org/annoservices/search/b18035723",
-      "profile": "http://iiif.io/api/search/0/search",
-      "label": "Search within this manifest",
-      "service": {
-        "@id": "https://wellcomelibrary.org/annoservices/autocomplete/b18035723",
-        "profile": "http://iiif.io/api/search/0/autocomplete",
-        "label": "Get suggested words in this manifest"
-      }
-    },
-    {
-      "@context": "http://universalviewer.io/context.json",
-      "@id": "http://wellcomelibrary.org/service/trackingLabels/b18035723",
-      "profile": "http://universalviewer.io/tracking-extensions-profile",
-      "trackingLabel": "Format: monograph, Institution: n/a, Identifier: b18035723, Digicode: diggenetics, Collection code: n/a"
-    }
-  ],
-   "sequences": [
-    {
-      "@id": "https://dlc.services/iiif-img/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b/sequence/s0",
-      "@type": "sc:Sequence",
-      "label": "Sequence 0",
-      "viewingHint": "paged",
-      "canvases": [
-        {
-          "@id": "https://dlc.services/iiif-img/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b/canvas/c0",
-          "@type": "sc:Canvas",
-          "label": "Image",
-          "thumbnail": "https://dlc.services/thumbs/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b/full/full/0/default.jpg",
-          "height": 0,
-          "width": 0,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b/imageanno/0",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b-0/res/0",
-                "@type": "dctypes:Image",
-                "height": 0,
-                "width": 0,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 0,
-                  "width": 0,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://dlc.services/iiif-img/48/11/7e7814b4-f47f-4477-9b1f-faef9951a50b/canvas/c0"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+		{
+			"label": "Designer",
+			"value": "Emily Lees"
+		},
+		{
+			"label": "Publisher",
+			"value": "British Art Studies"
+		},
+		{
+			"label": "Date of Publication",
+			"value": "30 November 2017"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "http://61aeb8a8-6711-4de9-aad0-4a3fe1ae4cd8",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://a323250d-ee01-4bfa-bdaf-02bf926aa034",
+					"@type": "sc:Canvas",
+					"label": "Cover",
+					"height": 2834,
+					"width": 2362,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0b430557-631a-41d6-a7fa-59171d7e7551",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dlc.services/iiif-img/48/11/0cf92c09-ec85-4935-8975-24b191193bfc/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dlc.services/iiif-img/48/11/0cf92c09-ec85-4935-8975-24b191193bfc",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 2834,
+								"width": 2362
+							},
+							"on": "http://a323250d-ee01-4bfa-bdaf-02bf926aa034"
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingHint": "paged",
+	"logo": "http://britishartstudies.ac.uk/frontend/assets-src/bas/img/logo.svg",
+	"seeAlso": "http://britishartstudies.ac.uk/issues/issue-index/issue-7/dinner-service",
+	"viewingDirection": "left-to-right"
 }
