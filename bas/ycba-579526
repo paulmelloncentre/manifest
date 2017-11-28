@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://f6e1e03a-3a62-4908-a44e-aa076da95445",
 	"@type": "sc:Manifest",
-	"label": "N5247 D3 D3+ Oversize",
+	"label": "Descriptive catalogue of the series of pictures painted by British artists for Alexander Davison",
 	"metadata": [
 	{
       "label": "Creator(s)",
