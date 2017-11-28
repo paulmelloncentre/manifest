@@ -1,15 +1,18 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://be43931b-cace-42b2-9ce2-79c28efa3bab",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/famous_women",
 	"@type": "sc:Manifest",
 	"label": "Famous Women",
 	"description": "A catalogue documenting Vanessa Bell and Duncan Grant's 1932 painted dinner service commission.",
-	"license": "CC BY-NC International 4.0",
-	"attribution": "Texts by Vanessa Jones, Hana Leaper, Alice Purkiss, Jenni Sofia Kristina Råback, Anne Sutchbury, Claudia Tobin, Diana Wilkins, Samantha Wilson.",
-  "metadata": [
+	"license": "https://creativecommons.org/licenses/by-nc/4.0/",
+	"metadata": [
+  		{
+			"label": "Description",
+			"value": "A catalogue documenting Vanessa Bell and Duncan Grant's 1932 painted dinner service commission."
+		},
 		{
-			"label": "Designer",
-			"value": "Emily Lees"
+			"label": "Authors",
+			"value": "Texts by Vanessa Jones, Hana Leaper, Alice Purkiss, Jenni Sofia Kristina Råback, Anne Sutchbury, Claudia Tobin, Diana Wilkins, Samantha Wilson."
 		},
 		{
 			"label": "Publisher",
@@ -18,6 +21,10 @@
 		{
 			"label": "Date of Publication",
 			"value": "30 November 2017"
+		},
+		{
+			"label": "Designer",
+			"value": "Emily Lees"
 		}
 	],
 	"sequences": [
