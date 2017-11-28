@@ -3,7 +3,6 @@
 	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/famous_women",
 	"@type": "sc:Manifest",
 	"label": "Famous Women",
-	"description": "A catalogue documenting Vanessa Bell and Duncan Grant's 1932 painted dinner service commission.",
 	"license": "https://creativecommons.org/licenses/by-nc/4.0/",
 	"metadata": [
   		{
