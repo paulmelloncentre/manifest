@@ -1,0 +1,89 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://e8aff2db-857f-4f62-bccc-b6a1dbf32c98",
+	"@type": "sc:Manifest",
+	"label": "George IV when Prince of Wales with a negro page",
+	"metadata": [
+		{
+			"label": "Artist",
+			"value": "Joshua Reynolds"
+		},
+		{
+			"label": "Label",
+			"value": "George IV when Prince of Wales with a negro page"
+		},
+		{
+			"label": "Caption",
+			"value": "1787, oil on canvas, 212 x 146 cm. Collection of Arundel Castle."
+		},
+		{
+			"label": "Credit",
+			"value": "Bridgeman Images"
+		}
+	],
+	"description": "Joshua Reynolds, George IV when Prince of Wales with a negro page, 1787, oil on canvas, 212 x 146 cm. Collection of Arundel Castle. Digital image courtesy of Bridgeman Images.",
+	"sequences": [
+		{
+			"@id": "http://fa456b07-8df1-4939-b5ac-4bd66825f7f5",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://03351eb1-86c2-4942-a21c-69850bfd085a",
+					"@type": "sc:Canvas",
+					"label": "recto",
+					"height": 6783,
+					"width": 4120,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://05020be0-53f7-4c16-998c-3ecc8e0e0908",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dlc.services/iiif-img/48/18/d45c8877-febe-4675-b962-88574e276f04/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dlc.services/iiif-img/48/18/d45c8877-febe-4675-b962-88574e276f04",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring",
+												"gray"
+											]
+										}
+									]
+								},
+								"height": 6783,
+								"width": 4120
+							},
+							"on": "http://03351eb1-86c2-4942-a21c-69850bfd085a"
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": []
+}
