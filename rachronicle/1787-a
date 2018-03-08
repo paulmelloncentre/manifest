@@ -1,0 +1,107 @@
+{
+  "@type" : "sc:Manifest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://manifests.britishart.yale.edu/manifest/38368",
+  "label" : "Print made by Peter A. Martini, 1738–1797, Italian, Exhibition of Royal Academy, 1787, Etching, Yale Center for British Art, B1977.14.12779, Prints and Drawings",
+  "description" : "Sheet: 15 x 20 1/2in. (38.1 x 52.1cm)",
+  "attribution" : "<span>Yale Center for British Art, Paul Mellon Collection,<br/>Public Domain</span>",
+  "metadata" : [ {
+    "label" : "Creator(s)",
+    "value" : [ "Print made by Peter A. Martini, 1738–1797, Italian" ]
+  }, {
+    "label" : "Titles",
+    "value" : [ "<span>Exhibition of Royal Academy</span>" ]
+  }, {
+    "label" : "Date",
+    "value" : [ "1787" ]
+  }, {
+    "label" : "Medium",
+    "value" : [ "<span>Etching</span>" ]
+  }, {
+    "label" : "Dimensions",
+    "value" : [ "Sheet: 15 x 20 1/2in. (38.1 x 52.1cm)" ]
+  }, {
+    "label" : "Credit line",
+    "value" : [ "Yale Center for British Art, Paul Mellon Collection" ]
+  }, {
+    "label" : "Institution",
+    "value" : [ "Yale Center for British Art" ]
+  }, {
+    "label" : "Collection",
+    "value" : [ "Prints and Drawings" ]
+  }, {
+    "label" : "Accession number",
+    "value" : [ "B1977.14.12779" ]
+  } ],
+  "logo" : "https://static.britishart.yale.edu/images/ycba_logo.jpg",
+  "related" : [ {
+    "@id" : "http://collections.britishart.yale.edu/vufind/Record/3623805",
+    "label" : "catalog entry at the Yale Center for British Art",
+    "format" : "text/html"
+  } ],
+  "seeAlso" : [ {
+    "@id" : "https://manifests.britishart.yale.edu/xml/38368.xml",
+    "format" : "text/xml",
+    "profile" : "http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd"
+  }, {
+    "@id" : "http://collection.britishart.yale.edu/id/data/object/38368",
+    "format" : "text/rdf+n3"
+  } ],
+  "sequences" : [ {
+    "@id" : "https://manifests.britishart.yale.edu/sequence/38368",
+    "@type" : "sc:Sequence",
+    "label" : "default sequence",
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+            "@id" : "https://images.britishart.yale.edu/iiif/9a8b094e-d268-4745-bfab-9e020bed2a24",
+            "@context" : "http://iiif.io/api/image/1/context.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 7193,
+          "@id" : "https://images.britishart.yale.edu/iiif/9a8b094e-d268-4745-bfab-9e020bed2a24/full/full/0/native.jpg",
+          "label" : "recto",
+          "height" : 5226
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "@id" : "https://manifests.britishart.yale.edu/annotation/ba-obj-38368-0001-pub",
+        "on" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-pub"
+      } ],
+      "@type" : "sc:Canvas",
+      "width" : 7193,
+      "@id" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-pub",
+      "label" : "recto",
+      "height" : 5226
+    }, {
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
+            "@id" : "https://images.britishart.yale.edu/iiif/db245016-2038-4cac-a7d6-52b93815e118",
+            "@context" : "http://iiif.io/api/image/1/context.json"
+          },
+          "format" : "image/jpeg",
+          "width" : 8169,
+          "@id" : "https://images.britishart.yale.edu/iiif/db245016-2038-4cac-a7d6-52b93815e118/full/full/0/native.jpg",
+          "label" : "recto",
+          "height" : 6912
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "@id" : "https://manifests.britishart.yale.edu/annotation/ba-obj-38368-0001-bar",
+        "on" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-bar"
+      } ],
+      "@type" : "sc:Canvas",
+      "width" : 8169,
+      "@id" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-bar",
+      "label" : "recto",
+      "height" : 6912
+    } ]
+  } ]
+}
