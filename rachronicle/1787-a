@@ -77,31 +77,6 @@
       "@id" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-pub",
       "label" : "recto",
       "height" : 5226
-    }, {
-      "images" : [ {
-        "resource" : {
-          "@type" : "dctypes:Image",
-          "service" : {
-            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/conformance.html#level1",
-            "@id" : "https://images.britishart.yale.edu/iiif/db245016-2038-4cac-a7d6-52b93815e118",
-            "@context" : "http://iiif.io/api/image/1/context.json"
-          },
-          "format" : "image/jpeg",
-          "width" : 8169,
-          "@id" : "https://images.britishart.yale.edu/iiif/db245016-2038-4cac-a7d6-52b93815e118/full/full/0/native.jpg",
-          "label" : "recto",
-          "height" : 6912
-        },
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "@id" : "https://manifests.britishart.yale.edu/annotation/ba-obj-38368-0001-bar",
-        "on" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-bar"
-      } ],
-      "@type" : "sc:Canvas",
-      "width" : 8169,
-      "@id" : "https://manifests.britishart.yale.edu/canvas/ba-obj-38368-0001-bar",
-      "label" : "recto",
-      "height" : 6912
-    } ]
-  } ]
+    }
+  } 
 }
