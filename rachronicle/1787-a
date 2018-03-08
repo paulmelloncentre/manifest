@@ -1,7 +1,7 @@
 {
   "@type" : "sc:Manifest",
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://manifests.britishart.yale.edu/manifest/38368",
+  "@id" : "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/rachronicle/1787-a",
   "label" : "Print made by Peter A. Martini, 1738–1797, Italian, Exhibition of Royal Academy, 1787, Etching, Yale Center for British Art, B1977.14.12779, Prints and Drawings",
   "description" : "Sheet: 15 x 20 1/2in. (38.1 x 52.1cm)",
   "attribution" : "<span>Yale Center for British Art, Paul Mellon Collection,<br/>Public Domain</span>",
