@@ -7,15 +7,15 @@
 	],
 	"metadata": [
 		{
-			"label": "Attribution",
+			"label": "Object Attribution",
 			"value": "Thomas Gainsborough"
 		},
 		{
-			"label": "Title",
+			"label": "Object Title",
 			"value": "Wooded landscape with peasants and donkey round a fire, figures and distant church (The Gypsies)"
 		},
 		{
-			"label": "Dimensions",
+			"label": "Object Dimensions",
 			"value": "29 x 24\" (73.5 x 61 cm)"
 		},
 		{
@@ -27,40 +27,44 @@
 			"value": "Poss G. Dupont, his sale Christie's 10-11 April 1797 (68); Thomas William, 1st Earl of Lichfield; The Lichfield Sale, Shugborough Hall, Robins's 1-16 August 1842, 9th Day (77) bt Burland, Liverpool; John Wiltshire 1856; Wiltshire sale Christie's 25 May 1867 (131) bt Cox; William Cox sale, Foster's 30 April - 1 May 1879 2nd day (221) bt Williams; Anon (Graves & Co.) sale Christie's 27 May 1882 (165) bt in; with Henry Graves 1885; anon (Gooden sale Christies' 23 March 1895 (92). Anon sale Sotheby's 4 July 2001 (80)."
 		},
 		{
-			"label": "Date of accession",
-			"value": "ca. 1991"
-		},
-		{
 			"label": "Repository",
 			"value": "Paul Mellon Centre for Studies in British Art"
 		},
 		{
-			"label": "Collection",
+			"label": "Archival Collection",
 			"value": "Paul Mellon Centre Photographic Archive"
 		},
 		{
-			"label": "Series",
+			"label": "Archival Series",
 			"value": "Artists A–Z"
 		},
 		{
-			"label": "Box ID",
+			"label": "Archival Box ID",
 			"value": "BOX-00531"
 		},
 		{
-			"label": "Box Label",
+			"label": "Archival Box Label",
 			"value": "Gainsborough, Thomas. Oils. Landscapes. Literature: Hayes"
 		},
 		{
-			"label": "Folder ID",
+			"label": "Archival Folder ID",
 			"value": "Folder-02966"
 		},
 		{
-			"label": "Folder Label",
+			"label": "Archival Folder Label",
 			"value": "Thomas Gainsborough (1727–1788), Oils, Landscape. Hayes Catalogue 1–50."
 		},
 		{
-			"label": "Object ID",
+			"label": "Archival Object ID",
 			"value": "gb3010_papmc_Folder-02966_0069"
+		},
+		{
+			"label": "Date of accession",
+			"value": "ca. 1991"
+		},
+		{
+			"label": "Image license",
+			"value": "All rights reserved"
 		}
 	],
 	"description": [
@@ -69,7 +73,7 @@
 			"@language": "en"
 		}
 	],
-	"license": "Sotheby's (all rights reserved)",
+	"license": "https://www.gov.uk/copyright",
 	"attribution": "Paul Mellon Centre Photographic Archive",
 	"sequences": [
 		{
