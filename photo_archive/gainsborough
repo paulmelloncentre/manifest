@@ -104,7 +104,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://dlc.services/iiif-img/48/12/9256224e-ffad-4baf-8141-11a447e10dad",
+									"@id": "https://dlc.services/iiif-img/48/12/9256224e-ffad-4baf-8141-11a447e10dad/1479,265,3329,4019",
 									"profile": [
 										"http://iiif.io/api/image/2/level1.json",
 										{
