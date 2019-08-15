@@ -1,0 +1,68 @@
+
+{
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "https://storiiies.cogapp.com/holbein/manifest.json",
+	"@type": "sc:Manifest",
+	"label": {
+		"@value": "Claire Wintle",
+		"@language": "en"
+	},
+	"description": {
+		"@value": "An exploration of something by Claire Wintle",
+		"@language": "en"
+	},
+	"viewingHint": "individuals",
+	"viewingDirection": "left-to-right",
+	"attribution": "Copyright unknown.",
+	"sequences": [
+		{
+			"@id": "https://storiiies.cogapp.com/holbein/sequence",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@context": "https://iiif.io/api/presentation/2/context.json",
+					"@type": "sc:Canvas",
+					"width": 1510,
+					"height": 1112,
+					"@id": "https://storiies.cogapp.com/holbein/canvas/c0",
+					"label": {
+						"@value": "Plan",
+						"@language": "en"
+					},
+					"description": {
+						"@value": "A plan provided by Claire Wintle for the London/Asia special exhibition.",
+						"@language": "en"
+					},
+					"images": [
+						{
+							"@type": "oa:Annotation",
+							"@id": "https://storiies.cogapp.com/holbein/image/i0",
+							"motivation": "sc:painting",
+							"on": "https://storiies.cogapp.com/holbein/canvas/c0",
+							"resource": {
+								"@id": "https://dlc.services/iiif-img/48/11/c7a58992-a3e4-4fa3-92c5-f81c73f8f760/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 1510,
+								"height": 1112,
+								"service": {
+									"@context": "https://iiif.io/api/image/2/context.json",
+									"profile": "https://iiif.io/api/image/1/level2.json",
+									"@id": "https://dlc.services/iiif-img/48/11/c7a58992-a3e4-4fa3-92c5-f81c73f8f760"
+								}
+							}
+						}
+					],
+          "otherContent": [
+            {
+              "@id": "https://storiiies.cogapp.com/holbein/annotations/list.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+				}
+			]
+		}
+	]
+
+
+}
