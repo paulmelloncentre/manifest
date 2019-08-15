@@ -55,7 +55,7 @@
 					],
           "otherContent": [
             {
-              "@id": "https://storiiies.cogapp.com/holbein/annotations/list.json",
+              "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/wintle-annotations",
               "@type": "sc:AnnotationList"
             }
           ]
