@@ -22,8 +22,8 @@
 				{
 					"@context": "https://iiif.io/api/presentation/2/context.json",
 					"@type": "sc:Canvas",
-					"width": 1510,
-					"height": 1112,
+					"width": 11314,
+					"height": 9609,
 					"@id": "https://storiies.cogapp.com/holbein/canvas/c0",
 					"label": {
 						"@value": "Plan",
@@ -43,8 +43,8 @@
 								"@id": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
-								"width": 1510,
-								"height": 1112,
+								"width": 11314,
+								"height": 9609,
 								"service": {
 									"@context": "https://iiif.io/api/image/2/context.json",
 									"profile": "https://iiif.io/api/image/1/level2.json",
