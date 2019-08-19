@@ -1,78 +1,77 @@
 {
-  "@context": "https://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/wintle-annotations",
-  "@type": "sc:AnnotationList",
-  "resources": [
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "In September 1963 Sarawak and Sabah joined with the Federation of Malaya to become the Federation of Malaysia. Their exhibits were merged on the map, marked simply as ‘Malaysia’. Singapore, now separated from ‘Malaysia’ in its former guise, apparently gained more space for display."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=3111,6025,7453,1994"
-    },
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "British Guiana emerged as Guyana in May 1966; the exhibit’s title was changed accordingly."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=339,5883,7453,1994"
-    },
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "Barbados gained independence in November 1966, and its own exhibit."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#1952,438,7453,1994"
-    },
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "In August 1964, a single high commission for the protectorates of Basutoland, Bechuanaland and Swaziland was abolished, with Basutoland gaining independence as Lesotho in October 1966, Bechuanaland as Botswana in September 1966, and Swaziland (now Eswatini) in September 1968. Accordingly, Lesotho, Botswana and Swaziland all gained separately named exhibits."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=1895,622,8132,1725"
-    },
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "When Aden became part of an independent South Yemen in November 1967, the new country declined to join the Commonwealth. The exhibit was removed from the gallery floor."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=1626,4115,7453,1994"
-    },
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "In the 1969 configuration of the galleries, the Leeward Islands and Windward Islands gained their own named exhibits for the first time. This appears to echo wider political shifts of the period: after 1965 it became clear that British plans for an independent federation of the West Indies that would incorporate the components of the Leeward and Windward islands that had been under British rule would have to be abandoned. Some in the British political sphere had hoped to terminate the drain that the Leeward and Windward Islands were perceived to be making on ‘British’ resources by offloading them into a federation where they would gain support and stability from their larger, more prosperous neighbours, such as Jamaica and Trinidad and Tobago. The larger islands rejected this proposal.  At the Commonwealth Institute, by 1969, ‘The West Indies’ had been removed from the map and individual islands had gained their own displays."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=297,5219,8132,1725"
-    },
-    {
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
-        "chars": "Nigeria remained static, replicated on both maps, despite the vast upheavals that affected the country during this period."
-      },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=283,1075,8132,1725"
-    }
-  ]
-}
+	"@context": "https://iiif.io/api/presentation/2/context.json",
+	"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/wintle-annotations",
+	"@type": "sc:AnnotationList",
+	"resources": [{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "In September 1963 Sarawak and Sabah joined with the Federation of Malaya to become the Federation of Malaysia. Their exhibits were merged on the map, marked simply as ‘Malaysia’. Singapore, now separated from ‘Malaysia’ in its former guise, apparently gained more space for display."
 
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=3111,6025,7453,1994"
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "British Guiana emerged as Guyana in May 1966; the exhibit’s title was changed accordingly."
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=339,5883,7453,1994"
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "Barbados gained independence in November 1966, and its own exhibit."
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#1952,438,7453,1994"
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "In August 1964, a single high commission for the protectorates of Basutoland, Bechuanaland and Swaziland was abolished, with Basutoland gaining independence as Lesotho in October 1966, Bechuanaland as Botswana in September 1966, and Swaziland (now Eswatini) in September 1968. Accordingly, Lesotho, Botswana and Swaziland all gained separately named exhibits."
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=1895,622,8132,1725"
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "When Aden became part of an independent South Yemen in November 1967, the new country declined to join the Commonwealth. The exhibit was removed from the gallery floor."
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=1626,4115,7453,1994"
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "In the 1969 configuration of the galleries, the Leeward Islands and Windward Islands gained their own named exhibits for the first time. This appears to echo wider political shifts of the period: after 1965 it became clear that British plans for an independent federation of the West Indies that would incorporate the components of the Leeward and Windward islands that had been under British rule would have to be abandoned. Some in the British political sphere had hoped to terminate the drain that the Leeward and Windward Islands were perceived to be making on ‘British’ resources by offloading them into a federation where they would gain support and stability from their larger, more prosperous neighbours, such as Jamaica and Trinidad and Tobago. The larger islands rejected this proposal.  At the Commonwealth Institute, by 1969, ‘The West Indies’ had been removed from the map and individual islands had gained their own displays."
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=297,5219,8132,1725"
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
+				"chars": "Nigeria remained static, replicated on both maps, despite the vast upheavals that affected the country during this period."
+			},
+			"on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=283,1075,8132,1725"
+		}
+	]
+}
