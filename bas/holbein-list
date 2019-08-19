@@ -77,8 +77,9 @@
         "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=7188,2021,2250,2250",
         "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=7132,22158,14625,7500",
         "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=14805,18945,2250,2250",
-        "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=25088,14288,2213,1950"
-      ]
+        "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=25088,14288,2213,1950",
+        "https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=7800,10725,1350,1613"
+        ]
     },
     {
       "@type": "oa:Annotation",
