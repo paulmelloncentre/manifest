@@ -11,7 +11,12 @@
         "format": "text/plain",
         "chars": "In September 1963 Sarawak and Sabah joined with the Federation of Malaya to become the Federation of Malaysia. Their exhibits were merged on the map, marked simply as ‘Malaysia’. Singapore, now separated from ‘Malaysia’ in its former guise, apparently gained more space for display."
       },
-      "on": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=2659,6378,7496,1725"
+      "on": [
+      "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=3620,6520,679,368",
+      "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=3521,7269,679,368",
+      "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=8754,7326,665,325",
+      "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5#xywh=8867,6435,721,382",
+      ]
     },
     {
       "@type": "oa:Annotation",
