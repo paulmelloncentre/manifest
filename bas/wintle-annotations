@@ -8,6 +8,19 @@
 			"resource": {
 				"@type": "cnt:ContentAsText",
 				"format": "text/plain",
+				"chars": "British Guiana emerged as Guyana in May 1966; the exhibit’s title was changed accordingly."
+			},
+			"on": [
+				"https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=877,6350,891,849",
+				"https://images.cogapp.com/iiif/holbein_big_p.tif#xywh=6293,6308,891,849"
+			]
+		},
+		{
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@type": "cnt:ContentAsText",
+				"format": "text/plain",
 				"chars": "In September 1963 Sarawak and Sabah joined with the Federation of Malaya to become the Federation of Malaysia. Their exhibits were merged on the map, marked simply as ‘Malaysia’. Singapore, now separated from ‘Malaysia’ in its former guise, apparently gained more space for display."
 
 			},
