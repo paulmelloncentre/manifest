@@ -40,7 +40,7 @@
 							"motivation": "sc:painting",
 							"on": "https://storiies.cogapp.com/holbein/canvas/c0",
 							"resource": {
-								"@id": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5/full/full/0/default.jpg",
+								"@id": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"width": 11314,
@@ -48,7 +48,7 @@
 								"service": {
 									"@context": "https://iiif.io/api/image/2/context.json",
 									"profile": "https://iiif.io/api/image/1/level2.json",
-									"@id": "https://dlc.services/iiif-img/48/11/664cd5e0-0c6a-4aa3-b0a8-99ed79d8ecc5"
+									"@id": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6"
 								}
 							}
 						}
