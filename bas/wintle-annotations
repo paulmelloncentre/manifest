@@ -12,8 +12,10 @@
 
 			},
 			"on": [
-				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=877,6350,891,849",
-				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=6293,6308,891,849"
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=3408,7213,820,509",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=3507,6463,820,509",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=8910,6449,693,382",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=8839,7128,679,537"
 			]
 		},
 		{
@@ -24,7 +26,10 @@
 				"format": "text/plain",
 				"chars": "British Guiana emerged as Guyana in May 1966; the exhibit’s title was changed accordingly."
 			},
-			"on": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=339,5883,7453,1994"
+			"on": [
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=976,6590,679,311",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=6081,6619,962,240"
+			]		
 		},
 		{
 			"@type": "oa:Annotation",
@@ -34,7 +39,9 @@
 				"format": "text/plain",
 				"chars": "Barbados gained independence in November 1966, and its own exhibit."
 			},
-			"on": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#1952,438,7453,1994"
+			"on": [
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=1598,6138,707,240"
+			]		
 		},
 		{
 			"@type": "oa:Annotation",
@@ -44,7 +51,10 @@
 				"format": "text/plain",
 				"chars": "In August 1964, a single high commission for the protectorates of Basutoland, Bechuanaland and Swaziland was abolished, with Basutoland gaining independence as Lesotho in October 1966, Bechuanaland as Botswana in September 1966, and Swaziland (now Eswatini) in September 1968. Accordingly, Lesotho, Botswana and Swaziland all gained separately named exhibits."
 			},
-			"on": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=1895,622,8132,1725"
+			"on": [
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=2277,1075,778,764",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=7283,1471,1612,410"
+			]
 		},
 		{
 			"@type": "oa:Annotation",
@@ -54,7 +64,10 @@
 				"format": "text/plain",
 				"chars": "When Aden became part of an independent South Yemen in November 1967, the new country declined to join the Commonwealth. The exhibit was removed from the gallery floor."
 			},
-			"on": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=1626,4115,7453,1994"
+			"on": [
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=2334,4681,679,651",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=7694,4738,679,651"
+			]
 		},
 		{
 			"@type": "oa:Annotation",
@@ -64,7 +77,9 @@
 				"format": "text/plain",
 				"chars": "In the 1969 configuration of the galleries, the Leeward Islands and Windward Islands gained their own named exhibits for the first time. This appears to echo wider political shifts of the period: after 1965 it became clear that British plans for an independent federation of the West Indies that would incorporate the components of the Leeward and Windward islands that had been under British rule would have to be abandoned. Some in the British political sphere had hoped to terminate the drain that the Leeward and Windward Islands were perceived to be making on ‘British’ resources by offloading them into a federation where they would gain support and stability from their larger, more prosperous neighbours, such as Jamaica and Trinidad and Tobago. The larger islands rejected this proposal.  At the Commonwealth Institute, by 1969, ‘The West Indies’ had been removed from the map and individual islands had gained their own displays."
 			},
-			"on": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=297,5219,8132,1725"
+			"on": [
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=6732,6053,962,467"
+			]
 		},
 		{
 			"@type": "oa:Annotation",
@@ -74,7 +89,10 @@
 				"format": "text/plain",
 				"chars": "Nigeria remained static, replicated on both maps, despite the vast upheavals that affected the country during this period."
 			},
-			"on": "https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=283,1075,8132,1725"
+			"on": [
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=1103,1895,721,354",
+				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=6463,1938,721,354"
+			]
 		}
 	]
 }
