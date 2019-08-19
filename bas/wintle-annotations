@@ -29,7 +29,7 @@
 			"on": [
 				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=976,6590,679,311",
 				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=6081,6619,962,240"
-			]		
+			]
 		},
 		{
 			"@type": "oa:Annotation",
@@ -41,7 +41,7 @@
 			},
 			"on": [
 				"https://dlc.services/iiif-img/48/11/22536c52-9eec-4c3a-8011-a1a2425e10c6#xywh=1598,6138,707,240"
-			]		
+			]
 		},
 		{
 			"@type": "oa:Annotation",
