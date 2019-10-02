@@ -1,0 +1,195 @@
+{
+	"label": "PA-F08351-0009: Alexander Van Aken",
+	"metadata": [{
+			"label": "Repository",
+			"value": "Paul Mellon Centre for Studies in British Art"
+		},
+		{
+			"label": "Object ID",
+			"value": "PA-F08351"
+		},
+		{
+			"label": "Type of Object",
+			"value": "Photographic Print"
+		},
+		{
+			"label": "Fonds",
+			"value": "Paul Mellon Centre Photographic Archive"
+		},
+		{
+			"label": "Series",
+			"value": "Artists A-Z"
+		},
+		{
+			"label": "Folder",
+			"value": "PA-F08351: Hudson, Thomas, II (1701–1799): Portraits: Male, A-D (except Barnstaple Worthies)"
+		},
+		{
+			"label": "Photograph Source ",
+			"value": "Paul Mellon Centre for Studies in British Art (83/0696)"
+		},
+		{
+			"label": "Licence",
+			"value": "https://creativecommons.org/licenses/by-nc/4.0/"
+		},
+		{
+			"label": "Printmaker",
+			"value": "Faben, John, the younger (ca. 1695–1756)"
+		},
+		{
+			"label": "After",
+			"value": "Hudson, Thomas II (1701–1799)"
+		},
+		{
+			"label": "Title",
+			"value": "Alexander Van Aken"
+		},
+		{
+			"label": "Date",
+			"value": "1748"
+		},
+		{
+			"label": "Dimensions",
+			"value": "Overall: 32.7 x 23 cm"
+		},
+		{
+			"label": "Collection",
+			"value": "British Museum (1902,1011.1919)"
+		}
+	],
+	"related": [{
+			"id": "https://paulmellon.emuseum.com/objects/481773/alexander-van-aken",
+			"format": "text/html",
+			"label": "Full catalogue entry"
+		},
+		{
+			"id": "hhttps://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1486522&partId=1 ",
+			"format": "text/html",
+			"label": "Owner online record"
+		}
+	],
+	"rendering": [{
+		"id": "https://paulmellon.emuseum.com/objects/481773/alexander-van-aken",
+		"format": "text/html",
+		"label": "Full catalogue entry"
+	}],
+	"sequences": [{
+		"label": "default",
+		"canvases": [{
+			"label": "gb3010_papmc_Folder-08351_0007.jp2",
+			"width": 5859,
+			"height": 7318,
+			"images": [{
+				"resource": {
+					"service": {
+						"profile": "http://iiif.io/api/image/2/level2.json",
+						"tiles": [{
+							"width": 256,
+							"height": 256,
+							"scaleFactors": [1, 2, 4, 8],
+							"@type": "iiif:Tile",
+							"@context": "http://iiif.io/api/image/2/context.json"
+						}, {
+							"width": 512,
+							"height": 512,
+							"scaleFactors": [1, 2, 4, 8],
+							"@type": "iiif:Tile",
+							"@context": "http://iiif.io/api/image/2/context.json"
+						}, {
+							"width": 1024,
+							"height": 1024,
+							"scaleFactors": [1, 2, 4, 8],
+							"@type": "iiif:Tile",
+							"@context": "http://iiif.io/api/image/2/context.json"
+						}],
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://paulmellon.emuseum.com/apis/iiif/image/v2/311455"
+					},
+					"format": "image/jpeg",
+					"width": 5859,
+					"height": 7318,
+					"@type": "dctypes:Image",
+					"@id": "https://paulmellon.emuseum.com/apis/iiif/image/v2/311455/full/full/0/default.jpg",
+					"@context": "http://iiif.io/api/presentation/2/context.json"
+				},
+				"motivation": "sc:painting",
+				"on": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/canvas/407793",
+				"@type": "oa:Annotation",
+				"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/annotation/407793",
+				"@context": "http://iiif.io/api/presentation/2/context.json"
+			}],
+			"@type": "sc:Canvas",
+			"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/canvas/311455",
+			"@context": "http://iiif.io/api/presentation/2/context.json"
+		}, {
+			"label": "gb3010_papmc_Folder-08351_0008.jp2",
+			"width": 5858,
+			"height": 7315,
+			"images": [{
+				"resource": {
+					"service": {
+						"profile": "http://iiif.io/api/image/2/level2.json",
+						"tiles": [{
+							"width": 256,
+							"height": 256,
+							"scaleFactors": [1, 2, 4, 8],
+							"@type": "iiif:Tile",
+							"@context": "http://iiif.io/api/image/2/context.json"
+						}, {
+							"width": 512,
+							"height": 512,
+							"scaleFactors": [1, 2, 4, 8],
+							"@type": "iiif:Tile",
+							"@context": "http://iiif.io/api/image/2/context.json"
+						}, {
+							"width": 1024,
+							"height": 1024,
+							"scaleFactors": [1, 2, 4, 8],
+							"@type": "iiif:Tile",
+							"@context": "http://iiif.io/api/image/2/context.json"
+						}],
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://paulmellon.emuseum.com/apis/iiif/image/v2/311456"
+					},
+					"format": "image/jpeg",
+					"width": 5858,
+					"height": 7315,
+					"@type": "dctypes:Image",
+					"@id": "https://paulmellon.emuseum.com/apis/iiif/image/v2/311456/full/full/0/default.jpg",
+					"@context": "http://iiif.io/api/presentation/2/context.json"
+				},
+				"motivation": "sc:painting",
+				"on": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/canvas/407792",
+				"@type": "oa:Annotation",
+				"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/annotation/407792",
+				"@context": "http://iiif.io/api/presentation/2/context.json"
+			}],
+			"@type": "sc:Canvas",
+			"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/canvas/311456",
+			"@context": "http://iiif.io/api/presentation/2/context.json"
+		}],
+		"@type": "sc:Sequence",
+		"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/sequence/default",
+		"@context": "http://iiif.io/api/presentation/2/context.json"
+	}],
+	"seeAlso": [{
+		"id": "https://paulmellon.emuseum.com/apis/oai/pmh/v2?verb=GetRecord&metadataPrefix=lido&identifier=objects-481773",
+		"format": "application/xml",
+		"profile": "http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd",
+		"label": "LIDO XML"
+	}],
+	"logo": [{
+		"id": "https://paulmellon.emuseum.com/internal/media/logodispatcher/PMC_Strapline_black.png"
+	}],
+	"@type": "sc:Manifest",
+	"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/manifest",
+	"thumbnail": [{
+		"id": "https://paulmellon.emuseum.com/apis/iiif/image/v2/311455/0%2C0%2C0%2C0/full/0/default.jpg",
+		"service": {
+			"profile": "http://iiif.io/api/image/2/level2.json",
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"@id": "https://paulmellon.emuseum.com/apis/iiif/image/v2/311455"
+		}
+	}],
+	"@context": "http://iiif.io/api/presentation/2/context.json"
+}
