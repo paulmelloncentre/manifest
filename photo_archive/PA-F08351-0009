@@ -76,7 +76,7 @@
 	"sequences": [{
 		"label": "default",
 		"canvases": [{
-			"label": "gb3010_papmc_Folder-08351_0007.jp2",
+			"label": "PA-F08351 recto",
 			"width": 5859,
 			"height": 7318,
 			"images": [{
@@ -122,7 +122,7 @@
 			"@id": "https://paulmellon.emuseum.com/apis/iiif/presentation/v2/1-objects-481773/canvas/311455",
 			"@context": "http://iiif.io/api/presentation/2/context.json"
 		}, {
-			"label": "gb3010_papmc_Folder-08351_0008.jp2",
+			"label": "PA-F08351 verso",
 			"width": 5858,
 			"height": 7315,
 			"images": [{
