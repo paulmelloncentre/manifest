@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://dlc.services/iiif-img/48/23/0acc31dc-f0e9-4871-adfb-41e4fd055b50",
+  "@id": "https://dlc.services/iiif-img/48/23/e2882578-593c-4c34-924b-d6f3ed302bcc",
   "width": 4399,
   "height": 2964,
   "profile": [ "http://iiif.io/api/image/2/level1.json" ],
