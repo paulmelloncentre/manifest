@@ -70,7 +70,7 @@
 				"height": 7476,
 				"images": [{
 					"resource": {
-						"@id": "2. https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/full/full/0/default.jpg",
+						"@id": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"format": "image/jpeg",
 						"width": 4777,
@@ -78,12 +78,12 @@
 						"service": {
 							"@context": "http://iiif.io/api/image/2/context.json",
 							"profile": "http://iiif.io/api/image/1/level2.json",
-							"@id": "2. https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1"
+							"@id": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1"
 						}
 					},
 					"@type": "oa:Annotation",
 					"motivation": "sc:painting",
-					"on": "2. https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0"
+					"on": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0"
 				}],
 				"otherContent": [{
 					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-02",
