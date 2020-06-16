@@ -12,5 +12,20 @@
 			"chars": "September 14th \n\nTom sat 1/2 a head of profile. Sam sat for Wolsey and I began upon the canvass."
 		},
 		"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665"
+	},
+	{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{
+		"@type": "oa:Annotation",
+		"@id": "95155a00afb411eaac0f5d87022fdc2a",
+		"motivation": "sc:painting",
+		"resource": {
+			"@type": "cnt:ContentAsText",
+			"format": "text/plain",
+			"chars": "September 17th\n\nMade a drawing of the lower part of Cardinal’s dress, from Strowger(?) & painted the upper part."
+		},
+		"on": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0#xywh=435.719247717118,2684.044505962181,5539.6952908587255,4153.333333333333"
 	}]
 }
