@@ -61,7 +61,7 @@
 			{
 				"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0",
 				"label": {
-					"@value": "02",
+					"@value": "\nSeptember 17th\n\nMade a drawing of the lower part of Cardinal’s dress, from Strowger(?) & painted the upper part.",
 					"@language": "en"
 				},
 				"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -83,7 +83,7 @@
 					},
 					"@type": "oa:Annotation",
 					"motivation": "sc:painting",
-					"on": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0"
+					"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=435.719247717118,2684.044505962181,5539.6952908587255,4153.333333333333"
 				}],
 				"otherContent": [{
 					"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/117696a0afb411ea9bd68945338d326d/annotations.json",
