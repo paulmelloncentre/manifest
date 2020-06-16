@@ -70,7 +70,7 @@
 				"height": 7476,
 				"images": [{
 					"resource": {
-						"@id": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1 /full/full/0/default.jpg",
+						"@id": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"format": "image/jpeg",
 						"width": 4777,
