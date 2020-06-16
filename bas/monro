@@ -51,7 +51,7 @@
 					},
 					"@type": "oa:Annotation",
 					"motivation": "sc:painting",
-					"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0"
+					"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665"
 				}],
 				"otherContent": [{
 					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-01",
