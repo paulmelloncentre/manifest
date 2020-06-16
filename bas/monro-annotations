@@ -1,0 +1,548 @@
+{  
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[  
+        {  
+    "@type":"oa:Annotation",
+    "@id": "38273890afb411eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 14th \n\nTom sat 1/2 a head of profile. Sam sat for Wolsey and I began upon the canvass."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "95155a00afb411eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"\nSeptember 17th\n\nMade a drawing of the lower part of Cardinal’s dress, from Strowger(?) & painted the upper part."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=435.719247717118,2684.044505962181,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "a8d9c6c0afb411eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 18th\n\nPainted lower part of Cardinal’s dress."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=514.1104559035169,3413.655198005316,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "b7e69ee0afb411eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 19th\n\nArranged Harry anew on the canvass taking a hint from Vertue’s print of him with Henry VII and their Queens. Painted shirt of boy holding crozier."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-1028.4014828661052,2705.688395719997,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "c68dd760afb411eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 20th\n\nDid not paint but completely settled the left corner of my picture instead. To put a dog and a staff I saw in the Tower of Henry VIII."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-887.194621139419,3962.011507158132,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "03b38720afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 23rd\n\nSlightly put in part of Harry’s dress and the head. Tom sat for Cross-bearer 2nd time & I nearly completed it."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-304.6296208543706,1592.2936788039076,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "11638e60afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 24th\n\nPainted a 2nd time on the hands of the Cardinal and made an alteration in Tom’s por’t. which was in armour."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-304.6296208543706,1592.2936788039076,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "1e591f40afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 25th\n\nIntroduced a 2nd cross-bearer twixt Wolsey & the first."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=2406.7665666318985,2442.3396061946505,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "2cd59e40afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 26th \n\nRather at a loss about the arrangement of the lords(?) still."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-36.40947538614311,1554.8172426021126,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "4726fbe0afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 28th \n\nCompleted the rubbing in of my picture."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858727,727.6152785818946,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "7363e790afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 30th \n\nNearly completed drawing the architecture of background the Academy opened and I went."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858727,-383.1640958410044,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "97cc2020afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 5th\n\nBegan to paint for the last time on the part of background near window and it. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-57.8560140288542,205.72988860101077,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "a839e7d0afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 6th \n\nPainted the porch behind Wolsey and the sky through. Acad.but little."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1974.0711775108507,849.2727455377623,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "ba215730afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 7th\n\nPainted part of the Gallery behind the King. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-1536.4622942166704,-67.81465478017128,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "cba9ddb0afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 8th\n\nPainted the pillar behind the head of Harry in picture. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-1536.4622942166704,-67.81465478017128,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "e3417280afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 12th\n\nPainted the head of the Cross-bearer from Sam immediately behind the Cardinal & the stones of wall twixt window and door. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=912.8648219321987,811.1395989025442,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "f204be80afb511eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 13th\n\nPainted the Cardinal’s cloak afresh & Tom as one of the Cross-bearers."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=2089.4929139687083,2597.638403106194,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "16cd6690afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 14th\n\nPainted blue drapery of Cross-bearer. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=2773.28107474895,2600.4697310147812,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "431b6940afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 18th\n\nCranmer sat 2nd time. Painted loose sleeves of Henry etc."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-5.009177057177976,2767.4023396324806,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "52841d00afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 19th\n\nScumbled background of picture, painted the picture of C. of Arrogan in picture, the fleur de lee of the arms of England. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-321.421306270013,-123.65310531211684,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "78b88a10afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 21st\n\nPainted on Henry’s head & rubbed it out again. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=697.9332229436079,2754.2110949497232,875.4545454545453,656.3636363636363"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "a7326d70afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 22nd\n\nPainted hands of Cardinal Wolsey and the cap."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-886.6122316018477,-12.578677777547092,7003.636363636364,5250.909090909091"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "b2725f10afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 22nd\n\nAltered the window making it a recess. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-850.4389235459006,58.19947694348246,3501.818181818181,2625.454545454545"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "cf6ac0d0afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 23rd\n\nHenry the 8th sat 4th time for legs etc. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-886.612231601845,2312.44973131336,7003.636363636364,5250.909090909091"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "e2bb3610afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 26th\n\nPainted stone part of window in picture. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-1257.4360952382087,-1067.1809505048225,7003.636363636364,5250.909090909091"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "f06ee6d0afb611eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 27th\n\nAt Acad. finishing my figure for the medal."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.1952908585963,-418.9245431481444,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "3c9783a0afb711eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 28th\n\nPainted the floor of picture and the pilaster within the recess."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.1952908585963,-418.9245431481444,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "586918a0afb711eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 29th\n\nPainted white shirt and blue stockings of boy. Acad.\n"
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1209.5871791977447,3311.8155228969367,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "7170b830afb711eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 30th\n\nPainted the sash on Crosier-bearer. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=3502.363275309782,4489.698898662015,1384.9238227146814,1038.3333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "831244f0afb711eaac0f5d87022fdc2a",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"October 31st\n\nPainted hat of Cardinal held by boy and boy’s legs. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=2680.2894641371126,5153.195876097381,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "92f55170afba11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 1st\n\nPainted Henry 8th’s head and his legs. Cranmer sitting. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-1086.888771584227,2566.566455619981,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "a0590d70afba11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 2nd\n\nMade head of Harry much brighter. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=466.29999670398973,2550.4046791222495,1384.9238227146814,1038.3333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "b8feb6e0afba11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 3rd\n\nCranmer sat. Altered the legs of Harry. Ed.Smith sat for hands of Cross-bearer."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-469.1863269213995,1777.4445226631187,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "d2c89500afba11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 5th\n\nPainted dress of Sir Thomas Lovel from George."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-604.5787719473137,1813.677475697658,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "fbc98f90afba11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 7th\n\nCoachman sat for man in armour behind the king."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-168.91178028986798,2611.9496421203903,1882.1471511272719,1411.1217477818175"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "02d94500afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 8th\n\nPainted man in armour behind the king. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-168.91178028986798,2611.9496421203903,1882.1471511272719,1411.1217477818175"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "13135280afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 9th\n\nPainted on Lord Chancellor 2nd time."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=976.9833318555841,1553.8373698294815,1882.1471511272719,1411.1217477818175"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "61106130afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 12th\n\nBen sat & I finished all the figures in my Henry 8th picture. Acad. I put the Cross and crosier in slightly."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858727,-461.30561781434227,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "7b0a5000afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 15th\n\nPainted stool in the middle of Henry 8th picture."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=868.9412987047839,4504.97320318335,2769.8476454293627,2076.6666666666665"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "a52b87a0afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 18th\n\nPainted drapery round staff 2nd time & gilding to stool. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-266.09899060619455,2722.003787296822,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "b6c0df60afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 19th\n\nPainted outline of wall and floor in picture. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-434.38339649156217,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "c721d5d0afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 20th\n\nCranmer sat for ruffles of Harry, lace etc. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-303.8154629686806,1944.3736798921343,5539.6952908587255,4153.333333333333"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "ddf8b2b0afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 21st\n\nSunday. Painted last piece of architecture top of picture, – painted white border to Cardinal Wolsey’s cloak."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-640.9841527167663,-53.201164633804645,6411.684364419822,4807.098765432099"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "ecd88760afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 22nd\n\nPainted gold on lower part of Harry’s dress."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-218.84215287324378,3667.933381002661,3205.842182209911,2403.5493827160494"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "f91e5040afbb11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 23rd\n\nCranmer sat for Harry an hour. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-1617.2482583118929,1992.6536617930497,6647.634349030469,4983.999999999998"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "021b08a0afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 24th\n\nFinished painting on my picture. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290856738,-441.77827107739944,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "16329e70afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 27th\n\nGlazed nearly all my picture but Harry’s head. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-377.89362628284374,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "1f5afab0afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"November 29th\n\nPainted and glazed Harry’s head and retouched all the picture."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-377.89362628284374,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "33c08970afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"December 1st\n\nPainted and glazed part of my picture but considered it as finished today. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-377.89362628284374,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "42049350afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"December 4th\n\n[...] & altered the corner of my picture.  Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-694.1197220719689,5305.157802301789,3446.133646537396,2583.7056000000002"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "4e287c50afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"December 6th\n\nHaving put out dog from my picture I painted in a staff and footstool in the left corner. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-694.1197220719689,5305.157802301789,3446.133646537396,2583.7056000000002"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "5e5395b0afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"December 12th\n\nTouched my picture here and there."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-442.0628675547321,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "695545d0afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"December 24th\n\nMade drawing for my etching of picture"
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-442.0628675547321,11079.390581717451,8306.666666666666"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "701135f0afbc11ea87d34b46538f681b",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"December 25th\n\nXmas Day. Etched my picture."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858726,-442.0628675547321,11079.390581717451,8306.666666666666"
+}
+    ]
+ }
