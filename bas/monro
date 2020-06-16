@@ -59,7 +59,7 @@
 				}]
 			},
 			{
-				"@id": "2. https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0",
+				"@id": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0",
 				"label": {
 					"@value": "September 16th",
 					"@language": "en"
