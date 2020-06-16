@@ -54,7 +54,7 @@
 					"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0"
 				}],
 				"otherContent": [{
-					"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-01",
 					"@type": "sc:AnnotationList"
 				}]
 			},
@@ -86,7 +86,7 @@
 					"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=435.719247717118,2684.044505962181,5539.6952908587255,4153.333333333333"
 				}],
 				"otherContent": [{
-					"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-02",
 					"@type": "sc:AnnotationList"
 				}]
 			}
