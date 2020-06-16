@@ -89,6 +89,38 @@
 					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-02",
 					"@type": "sc:AnnotationList"
 				}]
+			},
+						{
+				"@id": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0",
+				"label": {
+					"@value": "September 17th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/250125bc-d231-464d-b0bc-945011abfd55/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/250125bc-d231-464d-b0bc-945011abfd55"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/250125bc-d231-464d-b0bc-945011abfd55/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-03",
+					"@type": "sc:AnnotationList"
+				}]
 			}
 		]
 	}]
