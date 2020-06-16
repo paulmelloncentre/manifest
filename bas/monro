@@ -61,7 +61,7 @@
 			{
 				"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0",
 				"label": {
-					"@value": "\nSeptember 17th\n\nMade a drawing of the lower part of Cardinal’s dress, from Strowger(?) & painted the upper part.",
+					"@value": "TS",
 					"@language": "en"
 				},
 				"@context": "http://iiif.io/api/presentation/2/context.json",
