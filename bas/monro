@@ -27,7 +27,7 @@
 		"@type": "sc:Sequence",
 		"@context": "http://iiif.io/api/presentation/2/context.json",
 		"canvases": [{
-				"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0",
+				"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665",
 				"label": {
 					"@value": "The Disgrace of Wolsey\n by Anna Cooper and Martin Myrone\n\nHenry Monro, The Disgrace of Wolsey, Exhibited 1814. Oil on canvas, 191 x 122.5 cm. Tate (T06485)\n\nTate (CC-BY-NC-ND 3.0).",
 					"@language": "en"
@@ -38,7 +38,7 @@
 				"height": 7476,
 				"images": [{
 					"resource": {
-						"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/full/full/0/default.jpg",
+						"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665/full/full/0/default.jpg",
 						"@type": "dctypes:Image",
 						"format": "image/jpeg",
 						"width": 4777,
@@ -59,7 +59,7 @@
 				}]
 			},
 			{
-				"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0",
+				"@id": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=435.719247717118,2684.044505962181,5539.6952908587255,4153.333333333333",
 				"label": {
 					"@value": "TS",
 					"@language": "en"
