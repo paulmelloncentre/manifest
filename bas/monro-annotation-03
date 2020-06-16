@@ -1,0 +1,16 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{
+		"@type": "oa:Annotation",
+		"@id": "a8d9c6c0afb411eaac0f5d87022fdc2a",
+		"motivation": "sc:painting",
+		"resource": {
+			"@type": "cnt:ContentAsText",
+			"format": "text/plain",
+			"chars": "September 18th\n\nPainted lower part of Cardinal’s dress."
+		},
+		"on": "https://dlc.services/iiif-img/48/24/250125bc-d231-464d-b0bc-945011abfd55/canvas/c0#xywh=514.1104559035169,3413.655198005316,5539.6952908587255,4153.333333333333"
+	}]
+}
