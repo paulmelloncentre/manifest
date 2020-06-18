@@ -1,0 +1,73 @@
+[ {
+  "@id" : "http://35.177.224.176:8888/annotation/1592483104714",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-18T12:25:04",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "4 Adelphi Terrace \nSir Brook Watson (1735-1807), former merchant, commissary-general to the forces of Great Britain, (resident 1798-1807). Previously the house (to 1797) of John Henderson (1764-1843), amateur artist patron of Girtin and Turner (resident 1790-1797), and his wife Georgiana Jane Henderson (1770-1850), artist.",
+    "format" : "text/html",
+    "chars" : "<p><strong>4 Adelphi Terrace </strong></p>\n<p>Sir Brook Watson (1735-1807), former merchant, commissary-general to the forces of Great Britain, (resident 1798-1807). Previously the house (to 1797) of John Henderson (1764-1843), amateur artist patron of Girtin and Turner (resident 1790-1797), and his wife Georgiana Jane Henderson (1770-1850), artist.</p>"
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "https://dlc.services/iiif-img/48/24/953c5fd5-948b-4fb0-b586-f5bc672b49a1",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=369,227,34,32"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M369.81818,236.79352l13.63636,-10l19.09091,21.81818l-12.72727,10l-20.90909,-22.72727v0l1.81818,0.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_8755c3d3-2ab0-41da-a359-b23efdf9300e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "https://dlc.services/iiif-img/48/24/953c5fd5-948b-4fb0-b586-f5bc672b49a1/canvas/c0"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1592483162290",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-18T12:26:02",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "5 Adelphi Terrace \nEva Maria Garrick (n&eacute;e Veigel; 1724-1822), former dancer, and widow of the actor David Garrick. The Garricks had been one of the first residents of the Adelphi, taking up this address in 1773.",
+    "format" : "text/html",
+    "chars" : "<p><strong>5 Adelphi Terrace </strong></p>\n<p>Eva Maria Garrick (n&eacute;e Veigel; 1724-1822), former dancer, and widow of the actor David Garrick. The Garricks had been one of the first residents of the Adelphi, taking up this address in 1773.</p>"
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "https://dlc.services/iiif-img/48/24/953c5fd5-948b-4fb0-b586-f5bc672b49a1",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b4",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=358,237,32,33"
+      },
+      "item" : {
+        "@id" : "_:b3",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M358.90909,246.79352l10.90909,-9.09091l20,20l-12.72727,11.81818l11.81818,-10l-20.90909,-22.72727l-9.09091,9.09091l-0.90909,0.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_1c66158b-4e37-4a15-868c-e8296eb6f043\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "https://dlc.services/iiif-img/48/24/953c5fd5-948b-4fb0-b586-f5bc672b49a1/canvas/c0"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+} ]
