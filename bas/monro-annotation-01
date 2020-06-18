@@ -9,8 +9,8 @@
 		"resource": {
 			"@type": "cnt:ContentAsText",
 			"format": "text/plain",
-			"chars": "September 14th \n\nTom sat 1/2 a head of profile. Sam sat for Wolsey and I began upon the canvass."
+			"chars": "Tom sat 1/2 a head of profile. Sam sat for Wolsey and I began upon the canvass."
 		},
-		"on": "https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665"
+		"on": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0#xywh=1668.1075150832376,2555.336679920675,2769.8476454293627,2076.6666666666665"
 	}]
 }
