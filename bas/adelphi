@@ -79,8 +79,7 @@
 			}],
 			"otherContent": [{
 				"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/adelphi-annotations",
-				"@type": "sc:AnnotationList",
-				"label": "The residents of Adelphi Terrace, c. 1800"
+				"@type": "sc:AnnotationList"
 			}]
 		}]
 	}]
