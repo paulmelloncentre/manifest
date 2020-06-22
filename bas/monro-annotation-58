@@ -6,7 +6,7 @@
 		"@type": "oa:Annotation",
 		"@id": "38273890afb411eaac0f5d87022fdc2a",
 		"motivation": "sc:painting",
-		"resource":   
+		"resource":   {
        "@type":"cnt:ContentAsText",
        "format":"text/plain",
        "chars":"Cranmer sat for Harry an hour. Acad."
