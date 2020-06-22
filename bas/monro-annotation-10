@@ -1,0 +1,12 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 23rd\n\nSlightly put in part of Harry’s dress and the head. Tom sat for Cross-bearer 2nd time & I nearly completed it."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-304.6296208543706,1592.2936788039076,5539.6952908587255,4153.333333333333"
+}]
+}
