@@ -1,0 +1,16 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{
+		"@type": "oa:Annotation",
+		"@id": "38273890afb411eaac0f5d87022fdc2a",
+		"motivation": "sc:painting",
+		"resource": {  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Scumbled background of picture, painted the picture of C. of Arrogan in picture, the fleur de lee of the arms of England. Acad."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-321.421306270013,-123.65310531211684,5539.6952908587255,4153.333333333333"
+}]
+}
