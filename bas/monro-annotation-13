@@ -1,0 +1,12 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Rather at a loss about the arrangement of the lords(?) still."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-36.40947538614311,1554.8172426021126,2769.8476454293627,2076.6666666666665"
+}]
+}
