@@ -2,7 +2,11 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
 	"@type": "sc:AnnotationList",
-	"resources": [{  
+	"resources": [{
+		"@type": "oa:Annotation",
+		"@id": "38273890afb411eaac0f5d87022fdc2a",
+		"motivation": "sc:painting",
+		"resource": {  
        "@type":"cnt:ContentAsText",
        "format":"text/plain",
        "chars":"Began to paint for the last time on the part of background near window and it. Acad."
