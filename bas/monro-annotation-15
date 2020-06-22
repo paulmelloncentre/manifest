@@ -1,0 +1,12 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Completed the rubbing in of my picture."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-3151.195290858727,727.6152785818946,11079.390581717451,8306.666666666666"
+}]
+}
