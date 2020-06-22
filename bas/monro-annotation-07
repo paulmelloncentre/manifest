@@ -1,0 +1,12 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/117696a0afb411ea9bd68945338d326d/annotations.json",
+	"@type": "sc:AnnotationList",
+	"resources": [{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"September 20th\n\nDid not paint but completely settled the left corner of my picture instead. To put a dog and a staff I saw in the Tower of Henry VIII."
+    },
+    "on":"https://dlc.services/iiif-img/48/24/614f553c-0a7a-4832-8aee-666f157aead6/canvas/c0#xywh=-887.194621139419,3962.011507158132,5539.6952908587255,4153.333333333333"
+}]
+}
