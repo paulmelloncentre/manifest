@@ -82,7 +82,7 @@
 					"on": "https://dlc.services/iiif-img/48/24/8cbbd205-adc7-4a32-9feb-fda012a165c1/canvas/c0"
 				}],
 				"otherContent": [{
-					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-01",
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-02",
 					"@type": "sc:AnnotationList"
 				}]
 			},
@@ -114,7 +114,7 @@
 					"on": "https://dlc.services/iiif-img/48/24/250125bc-d231-464d-b0bc-945011abfd55/canvas/c0"
 				}],
 				"otherContent": [{
-					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-02",
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-03",
 					"@type": "sc:AnnotationList"
 				}]
 			},
@@ -146,7 +146,7 @@
 					"on": "https://dlc.services/iiif-img/48/24/7aaa0e8e-b968-4f92-b14b-3578375e226d/canvas/c0"
 				}],
 				"otherContent": [{
-					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-03",
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-04",
 					"@type": "sc:AnnotationList"
 				}]
 			}
