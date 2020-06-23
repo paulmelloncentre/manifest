@@ -138,7 +138,7 @@
 						"service": {
 							"@context": "http://iiif.io/api/image/2/context.json",
 							"profile": "http://iiif.io/api/image/1/level2.json",
-							"@id": "https://dlc.services/iiif-img/48/24/250125bc-d231-464d-b0bc-945011abfd55"
+							"@id": "https://dlc.services/iiif-img/48/24/7aaa0e8e-b968-4f92-b14b-3578375e226d"
 						}
 					},
 					"@type": "oa:Annotation",
@@ -147,6 +147,294 @@
 				}],
 				"otherContent": [{
 					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-04",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/7aaa0e8e-b968-4f92-b14b-3578375e226d/canvas/c0",
+				"label": {
+					"@value": "September 18th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/9617b63e-2d64-46e3-b800-0118396ade9e/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/9617b63e-2d64-46e3-b800-0118396ade9e"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/9617b63e-2d64-46e3-b800-0118396ade9e/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-05",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/984bb86d-2422-4caf-960a-399b8f6bf7f7/canvas/c0",
+				"label": {
+					"@value": "September 19th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/984bb86d-2422-4caf-960a-399b8f6bf7f7/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/9617b63e-2d64-46e3-b800-0118396ade9e"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/984bb86d-2422-4caf-960a-399b8f6bf7f7/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-06",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/672822ef-1a0c-4982-a7f4-deaaf2e1b594/canvas/c0",
+				"label": {
+					"@value": "September 20th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/672822ef-1a0c-4982-a7f4-deaaf2e1b594/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/672822ef-1a0c-4982-a7f4-deaaf2e1b594"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/672822ef-1a0c-4982-a7f4-deaaf2e1b594/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-07",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/2400e2c0-8df7-4b27-9cf0-c1d9d9f89680/canvas/c0",
+				"label": {
+					"@value": "September 21st",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/2400e2c0-8df7-4b27-9cf0-c1d9d9f89680/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/2400e2c0-8df7-4b27-9cf0-c1d9d9f89680"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/2400e2c0-8df7-4b27-9cf0-c1d9d9f89680/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-08",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/c9226539-a7c2-422a-ab1d-1e9f1908c838/canvas/c0",
+				"label": {
+					"@value": "September 22nd",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/c9226539-a7c2-422a-ab1d-1e9f1908c838/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/c9226539-a7c2-422a-ab1d-1e9f1908c838"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/c9226539-a7c2-422a-ab1d-1e9f1908c838/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-09",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/79eef558-3907-4cff-9622-2626113ed377/canvas/c0",
+				"label": {
+					"@value": "September 23rd",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/79eef558-3907-4cff-9622-2626113ed377/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/c9226539-a7c2-422a-ab1d-1e9f1908c838"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/79eef558-3907-4cff-9622-2626113ed377/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-10",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/67a97d2c-c5a9-4645-8a7c-1622d84e63b3/canvas/c0",
+				"label": {
+					"@value": "September 24th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/67a97d2c-c5a9-4645-8a7c-1622d84e63b3/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/67a97d2c-c5a9-4645-8a7c-1622d84e63b3"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/67a97d2c-c5a9-4645-8a7c-1622d84e63b3/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-11",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "https://dlc.services/iiif-img/48/24/c63efead-94ee-4372-aa30-aa9045d22799/canvas/c0",
+				"label": {
+					"@value": "September 25th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/c63efead-94ee-4372-aa30-aa9045d22799/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/c63efead-94ee-4372-aa30-aa9045d22799"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/c63efead-94ee-4372-aa30-aa9045d22799/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-12",
+					"@type": "sc:AnnotationList"
+				}]
+			},
+			{
+				"@id": "hhttps://dlc.services/iiif-img/48/24/6d4f2ba1-7b22-4849-8b7b-7f4baae6eacc/canvas/c0",
+				"label": {
+					"@value": "September 26th",
+					"@language": "en"
+				},
+				"@context": "http://iiif.io/api/presentation/2/context.json",
+				"@type": "sc:Canvas",
+				"width": 4777,
+				"height": 7476,
+				"images": [{
+					"resource": {
+						"@id": "https://dlc.services/iiif-img/48/24/6d4f2ba1-7b22-4849-8b7b-7f4baae6eacc/full/full/0/default.jpg",
+						"@type": "dctypes:Image",
+						"format": "image/jpeg",
+						"width": 4777,
+						"height": 7476,
+						"service": {
+							"@context": "http://iiif.io/api/image/2/context.json",
+							"profile": "http://iiif.io/api/image/1/level2.json",
+							"@id": "https://dlc.services/iiif-img/48/24/c63efead-94ee-4372-aa30-aa9045d22799"
+						}
+					},
+					"@type": "oa:Annotation",
+					"motivation": "sc:painting",
+					"on": "https://dlc.services/iiif-img/48/24/6d4f2ba1-7b22-4849-8b7b-7f4baae6eacc/canvas/c0"
+				}],
+				"otherContent": [{
+					"@id": "https://raw.githubusercontent.com/paulmelloncentre/manifest/master/bas/monro-annotation-13",
 					"@type": "sc:AnnotationList"
 				}]
 			}
