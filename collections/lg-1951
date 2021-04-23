@@ -1,644 +1,644 @@
 {
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore/manifest.json",
-@type: "sc:Manifest",
-attribution: "The Internet Archive",
-cover: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0",
-description: "<span style="font-size:12pt;line-height:17.12px;font-family:Apercu;background:#FFFFFF;">Ernest Brown & Phillips (1951)</span><span style="font-size:12pt;line-height:17.12px;font-family:Calibri, sans-serif;background:#FFFFFF;"> </span><i><span style="font-size:12pt;line-height:17.12px;font-family:Apercu;background:#FFFFFF;">Catalogue of an exhibition of new bronzes and drawings by Henry Moore.</span></i><span style="font-size:12pt;line-height:17.12px;font-family:Calibri, sans-serif;background:#FFFFFF;"> </span><span style="font-size:12pt;line-height:17.12px;font-family:Apercu;background:#FFFFFF;">[Exhibition catalogue] London: Ernest Brown & Phillips, The Leicester Galleries. (Exhibition, 962).</span>",
-label: "Catalogue of an exhibition of new bronzes and drawings by Henry Moore (1951)",
-logo: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
-metadata: [
-{
-label: "title",
-value: "Catalogue of an exhibition of new bronzes and drawings by Henry Moore (1951)"
-},
-{
-label: "subject",
-value: "Henry Moore. exhibition. sculpture"
-},
-{
-label: "date",
-value: "1951"
-},
-{
-label: "creator",
-value: "Catalogue of an exhibition of new bronzes and drawings by Henry Moore"
-}
-],
-related: "http://archive.org/details/lg-1951-henry-moore",
-seeAlso: "http://archive.org/metadata/lg-1951-henry-moore",
-sequences: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore/canvas/default",
-@type: "sc:Sequence",
-canvases: [
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3041,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3041,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3037,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3037,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3052,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3052,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3038,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3038,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3072,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3072,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3067,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3067,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3097,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3097,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3060,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3060,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "6",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3080,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3080,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "7",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3036,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3036,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "8",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3103,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3103,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "9",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3060,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3060,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "10",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3121,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3121,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "11",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3064,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3064,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "12",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3109,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3109,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "13",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3067,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3067,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "14",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3126,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3126,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3063,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3063,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3074,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3074,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-},
-{
-@context: "http://iiif.io/api/presentation/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/canvas",
-@type: "sc:Canvas",
-description: "",
-height: 3060,
-images: [
-{
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/annotation",
-@type: "oa:Annotation",
-motivation: "sc:painting",
-on: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/annotation",
-resource: {
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/full/full/0/default.jpg",
-@type: "dctypes:Image",
-format: "image/jpeg",
-height: 3060,
-service: {
-@context: "http://iiif.io/api/image/2/context.json",
-@id: "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19",
-profile: "https://iiif.io/api/image/2/profiles/level2.json"
-},
-width: 2400
-}
-}
-],
-label: "p. ",
-width: 2400
-}
-],
-label: "default"
-}
-],
-thumbnail: {
-@id: "https://ia801809.us.archive.org/BookReader/BookReaderPreview.php?id=lg-1951-henry-moore&subPrefix=LG-1951-Henry-Moore&itemPath=/2/items/lg-1951-henry-moore&server=ia801809.us.archive.org&page=preview&"
-},
-viewingHint: "paged"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://github.com/paulmelloncentre/manifest/raw/master/collections/lg-1951",
+  "@type": "sc:Manifest",
+  "attribution": "The Internet Archive",
+  "cover": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0",
+  "description": "Ernest Brown & Phillips (1951), Catalogue of an exhibition of new bronzes and drawings by Henry Moore. [Exhibition catalogue] London: Ernest Brown & Phillips, The Leicester Galleries. (Exhibition, 962).</span>",
+  "label": "Catalogue of an exhibition of new bronzes and drawings by Henry Moore (1951)",
+  "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata": [
+    {
+      "label": "title",
+      "value": "Catalogue of an exhibition of new bronzes and drawings by Henry Moore (1951)"
+    },
+    {
+      "label": "subject",
+      "value": "Henry Moore. exhibition. sculpture"
+    },
+    {
+      "label": "date",
+      "value": "1951"
+    },
+    {
+      "label": "creator",
+      "value": "Catalogue of an exhibition of new bronzes and drawings by Henry Moore"
+    }
+  ],
+  "related": "http://archive.org/details/lg-1951-henry-moore",
+  "seeAlso": "http://archive.org/metadata/lg-1951-henry-moore",
+  "sequences": [
+    {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore/canvas/default",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3041,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3041,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$0",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3037,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3037,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$1",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3052,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3052,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$2",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3038,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3038,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$3",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3072,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3072,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$4",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3067,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3067,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$5",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3097,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3097,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$6",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3060,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3060,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$7",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "6",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3080,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3080,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$8",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "7",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3036,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3036,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$9",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "8",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3103,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3103,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$10",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "9",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3060,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3060,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$11",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "10",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3121,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3121,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$12",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "11",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3064,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3064,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$13",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "12",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3109,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3109,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$14",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "13",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3067,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3067,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$15",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "14",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3126,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3126,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$16",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3063,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3063,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$17",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3074,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3074,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$18",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 3060,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3060,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/lg-1951-henry-moore$19",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 2400
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 2400
+        }
+      ],
+      "label": "default"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://ia801809.us.archive.org/BookReader/BookReaderPreview.php?id=lg-1951-henry-moore&subPrefix=LG-1951-Henry-Moore&itemPath=/2/items/lg-1951-henry-moore&server=ia801809.us.archive.org&page=preview&"
+  },
+  "viewingHint": "paged"
 }
